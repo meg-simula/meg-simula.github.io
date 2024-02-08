@@ -29,7 +29,7 @@ Key former research projects include
 
 <h3 id="news">News and Highlights</h3>
 
-<p>2024-03-11: By invitation, I will attend the ICERM semester programme on [Numerical PDEs: Analysis, Algorithms, and Data Challenges](https://icerm.brown.edu/programs/sp-s24/">) (March 11-21 2024).</p>
+<p>2024-03-11: By invitation, I will attend the ICERM semester programme on [Numerical PDEs: Analysis, Algorithms, and Data Challenges](https://icerm.brown.edu/programs/sp-s24/) (March 11-21 2024).</p>
 
 <h4 id="credit">Credits</h4>
 

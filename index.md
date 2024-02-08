@@ -23,7 +23,7 @@ Current research projects:
  - [AUTORHYTHM – the role of autophagy in healthy aging](https://www.uio.no/english/research/strategic-research-areas/life-science/research/convergence-environments/autorhythm/), a life science convergence environment (2022-2026) 
 
 Key former research projects include
- - [Mathematical and Computational Foundations for modelling cerebral fluid flow (Waterscales)](https://www.simula.no/research/projects/waterscales-mathematical-and-computational-foundations-modeling-cerebral-fluid), a European Research Council Starting Grant in PE1/Mathematics (2016-2023). Read about the project: [Marie E. Rognes, Waterscales: Mathematical and computational foundations for modelling cerebral fluid flow. Eur. Math. Soc. Mag. 126 (2022), pp. 13–26](https://euromathsoc.org/magazine/articles/115)
+ - [Mathematical and Computational Foundations for modelling cerebral fluid flow (Waterscales)](https://www.simula.no/research/projects/waterscales-mathematical-and-computational-foundations-modeling-cerebral-fluid), a European Research Council Starting Grant in PE1/Mathematics (2016-2023). About the project: [Rognes, Waterscales, Eur. Math. Soc. Mag. 126 (2022)](https://euromathsoc.org/magazine/articles/115)
  - [The Numerical Waterscape of the Brain](https://www.simula.no/research/projects/waterscape-numerical-waterscape-brain), a RCN FRIPRO Young Research Talent Grant (2016-2019)
  - [Automated uncertainty quantification for numerical solution of partial differential equations](https://www.simula.no/research/projects/auq-pde-automated-uncertainty-quantification-numerical-solutions-partial), a Nordic Council of Ministers Research Grant (2015-2018)
 

@@ -9,6 +9,10 @@ I am a [Chief Research Scientist](https://www.simula.no/people/meg) in
 the [Department of Numerical Analysis and Scientific Computing](https://www.simula.no/research/research-departments/numerical-analysis-and-scientific-computing) at [Simula
 Research Laboratory](https://www.simula.no) in Oslo, Norway.
 
+My research spans applied and computational mathematics, scientific
+computing and computational physiology, targeting dual scientific
+impact in mathematics and in the life sciences.
+
 <h2 id="news">News</h2>
 
 <p></p>

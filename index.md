@@ -15,15 +15,15 @@ My research spans applied and computational mathematics, scientific
 computing and computational physiology, targeting dual scientific
 impact in mathematics and in the life sciences. 
 
-For an overview of papers, see Marie E. Rognes at [Google scholar](https://scholar.google.com/citations?user=BHyQJSAAAAAJ&hl=en) or [ORCID](https://orcid.org/0000-0002-6872-3710).
+For publications, see Marie E. Rognes at [Google scholar](https://scholar.google.com/citations?user=BHyQJSAAAAAJ&hl=en) or [ORCID](https://orcid.org/0000-0002-6872-3710).
 
 Current research projects:
  - [Exciting times: extreme modelling of excitable tissue (EMIx)](https://www.simula.no/research/projects/exciting-times-extreme-modelling-excitable-tissue-emix), a Research Council of Norway (RCN) FRIRRO Researcher project for scientific renewal (2021-2025) 
  - [AUTORHYTHM – the role of autophagy in healthy aging](https://www.uio.no/english/research/strategic-research-areas/life-science/research/convergence-environments/autorhythm/), a life science convergence environment (2022-2026) 
 
 Key former research projects include
- - [Mathematical and Computational Foundations for modelling cerebral fluid flow (Waterscales)](https://www.simula.no/research/projects/waterscales-mathematical-and-computational-foundations-modeling-cerebral-fluid), a European Research Council Starting Grant in Mathematics (2016-2023). About the project: [Rognes, Waterscales, Eur. Math. Soc. Mag. 126 (2022)](https://euromathsoc.org/magazine/articles/115)
- - [The Numerical Waterscape of the Brain](https://www.simula.no/research/projects/waterscape-numerical-waterscape-brain), a RCN FRIPRO Young Research Talent Grant (2016-2019)
+ - [Mathematical and computational foundations for modelling cerebral fluid flow (Waterscales)](https://www.simula.no/research/projects/waterscales-mathematical-and-computational-foundations-modeling-cerebral-fluid), a European Research Council Starting Grant in Mathematics (2016-2023). About the project: [Rognes, Waterscales, Eur. Math. Soc. Mag. 126 (2022)](https://euromathsoc.org/magazine/articles/115)
+ - [The numerical waterscape of the brain](https://www.simula.no/research/projects/waterscape-numerical-waterscape-brain), a RCN FRIPRO Young Research Talent Grant (2016-2019)
  - [Automated uncertainty quantification for numerical solution of partial differential equations](https://www.simula.no/research/projects/auq-pde-automated-uncertainty-quantification-numerical-solutions-partial), a Nordic Council of Ministers Research Grant (2015-2018)
 
 

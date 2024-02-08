@@ -27,8 +27,10 @@ Key former research projects include
  - [The Numerical Waterscape of the Brain](https://www.simula.no/research/projects/waterscape-numerical-waterscape-brain), a RCN FRIPRO Young Research Talent Grant (2016-2019)
  - [Automated uncertainty quantification for numerical solution of partial differential equations](https://www.simula.no/research/projects/auq-pde-automated-uncertainty-quantification-numerical-solutions-partial), a Nordic Council of Ministers Research Grant (2015-2018)
 
-<h3 id="news">News</h3>
+<h3 id="news">News and Highlights</h3>
 
-<p></p>
+<p>2024-03-11: By invitation, I will attend the ICERM semester programme on [Numerical PDEs: Analysis, Algorithms, and Data Challenges](https://icerm.brown.edu/programs/sp-s24/">) (March 11-21 2024).</p>
 
-The layout for this webpage is based on that of my colleague [Prof. Patrick E. Farrell](https://pefarrell.org/) (Thanks!)
+<h4 id="credit">Credits</h4>
+
+The layout for this webpage is based on that of my colleague [Prof. Patrick E. Farrell](https://pefarrell.org/). (Thanks!)

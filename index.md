@@ -27,7 +27,6 @@ Key former research projects include
  - [Automated uncertainty quantification for numerical solution of partial differential equations](https://www.simula.no/research/projects/auq-pde-automated-uncertainty-quantification-numerical-solutions-partial), a Nordic Council of Ministers Research Grant (2015-2018)
 
 
-
 <h3 id="news">News and Highlights</h3>
 
 

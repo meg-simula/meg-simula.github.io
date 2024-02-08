@@ -29,7 +29,7 @@ Key former research projects include
 
 <h3 id="news">News and Highlights</h3>
 
-<p>2024-10-21: I will give a keynote lecture at the [Amsterdam Center for Dynamics and Computation](https://www.amsterdam-dynamics.nl/) workshop on “Numerical brain: inverse and forward problems”, Oct 21-23 2024, Vrije Universiteit Amsterdam, the Netherlands.</p>
+<p>2024-10-21: I will give a keynote lecture at the <a href="https://www.amsterdam-dynamics.nl/">Amsterdam Center for Dynamics and Computation</a> workshop on “Numerical brain: inverse and forward problems”, Oct 21-23 2024, Vrije Universiteit Amsterdam, the Netherlands.</p>
 
 <p>2024-09-25: I will give keynote lectures on Computational Mathematics of Life Sciences at the [Woudschoten Conference of the Dutch-Flemish Scientific Computing Society](https://wsc.project.cwi.nl/woudschoten-conferences/2024-conference), Sept 25-27 2024.</p>
 

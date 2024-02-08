@@ -29,11 +29,16 @@ Key former research projects include
 
 <h3 id="news">News and Highlights</h3>
 
-<p>2024-10-21: I will give a keynote lecture at the <a href="https://www.amsterdam-dynamics.nl/">Amsterdam Center for Dynamics and Computation</a> workshop on “Numerical brain: inverse and forward problems”, Oct 21-23 2024, Vrije Universiteit Amsterdam, the Netherlands.</p>
+<p>2024-10-21: I will give a keynote lecture at the <a href="https://www.amsterdam-dynamics.nl/">Amsterdam Center for Dynamics and Computation</a> workshop on “Numerical brain: inverse and forward problems”, Vrije Universiteit Amsterdam, the Netherlands (Oct 21-23 2024) .</p>
 
-<p>2024-09-25: I will give keynote lectures on Computational Mathematics of Life Sciences at the <a href="https://wsc.project.cwi.nl/woudschoten-conferences/2024-conference">Woudschoten Conference of the Dutch-Flemish Scientific Computing Society</a>, Sept 25-27 2024. </p>
+<p>2024-09-25: I will give keynote lectures on Computational Mathematics of Life Sciences at the <a href="https://wsc.project.cwi.nl/woudschoten-conferences/2024-conference">Woudschoten Conference of the Dutch-Flemish Scientific Computing Society</a>, the Netherlands (Sept 25-27 2024). </p>
 
-<p>2024-03-11: By invitation, I will attend the ICERM semester programme on <a href="https://icerm.brown.edu/programs/sp-s24/">Numerical PDEs: Analysis, Algorithms, and Data Challenges</a>, March 11-21 2024. </p>
+<p>2024-09-12: I will give a plenary lecture at the <a href="https://www.mn.uio.no/math/forskning/aktuelt/arrangementer/konferanser/nmm24/">Norwegian Mathematics Meeting</a>, Oslo, Norway (Sept 12-13 2024). </p>
+
+<p>2024-06-09: I will give a keynote lecture at the <a href="https://erc-nemesis.eu/events/workshop-montpellier">ERC NEMESIS Synergy Grant Kick-off Workshop</a> in Montpellier, France (June 19-212024). </p>
+
+<p>2024-03-11: By invitation, I will attend the ICERM semester programme on <a href="https://icerm.brown.edu/programs/sp-s24/">Numerical PDEs: Analysis, Algorithms, and Data Challenges</a> (March 11-21 2024). </p>
+
 
 <h4 id="credit">Credits</h4>
 

@@ -13,4 +13,4 @@ Research Laboratory](https://www.simula.no) in Oslo, Norway.
 
 <p></p>
 
-The layout and formatting for this webpage is based on that of my colleague [Prof. Patrick Farrell](https://pefarrell.org/) (Thanks!)
+The layout and formatting for this webpage is based on that of my colleague [Prof. Patrick E. Farrell](https://pefarrell.org/) (Thanks!)

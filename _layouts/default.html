@@ -18,6 +18,16 @@
       <header>
         <h1><a href="{{ "/" | absolute_url }}" class="iwantyoubold">{{ site.title | default: site.github.repository_name }}</a></h1>
 
+        {% if site.github.is_project_page %}
+        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% endif %}
+        <ul>
+        <li><a href="mailto:meg@simula.no"><i class="far fa-envelope"></i></a> <a href="mailto:meg@simula.no">meg@simula.no</a>
+        <li><a href="https://github.com/meg-simula"><i class="fab fa-github"></i></a> <a href="https://github.com/meg-simula">meg-simula</a>
+        <li><a href="https://orcid.org/"><i class="fab fa-orcid"></i></a> <a href="https://orcid.org/0000-0002-6872-3710">0000-0002-6872-3710</a>
+        <li><a href="https://scholar.google.com/citations?user=BHyQJSAAAAAJ&hl=en"><i class="fab fa-google"></i></a> <a href="https://scholar.google.com/citations?user=BHyQJSAAAAAJ&hl=en">scholar</a>
+        </ul>
+
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
@@ -48,16 +58,6 @@
 
       </section>
       <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-
-        <ul>
-        <li><a href="mailto:meg@simula.no"><i class="far fa-envelope"></i></a> <a href="mailto:meg@simula.no">meg@simula.no</a>
-        <li><a href="https://github.com/meg-simula"><i class="fab fa-github"></i></a> <a href="https://github.com/meg-simula">meg-simula</a>
-        <li><a href="https://orcid.org/"><i class="fab fa-orcid"></i></a> <a href="https://orcid.org/0000-0002-6872-3710">0000-0002-6872-3710</a>
-        <li><a href="https://scholar.google.com/citations?user=BHyQJSAAAAAJ&hl=en"><i class="fab fa-google"></i></a> <a href="https://scholar.google.com/citations?user=BHyQJSAAAAAJ&hl=en">scholar</a>
-        </ul>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>

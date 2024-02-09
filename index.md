@@ -22,7 +22,6 @@ I am a core developer and Steering Council Member of the [FEniCS
 Project](https://www.fenicsproject.org) and a founding member of the
 [Dolfin-adjoint](https://www.dolfin-adjoint.org/en/latest/) project. 
 
-
 Current research projects:
  - [Exciting times: extreme modelling of excitable tissue (EMIx)](https://www.simula.no/research/projects/exciting-times-extreme-modelling-excitable-tissue-emix), a Research Council of Norway (RCN) FRIRRO Researcher project for scientific renewal (2021-2025) 
  - [AUTORHYTHM – the role of autophagy in healthy aging](https://www.uio.no/english/research/strategic-research-areas/life-science/research/convergence-environments/autorhythm/), a life science convergence environment (2022-2026) 

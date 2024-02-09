@@ -54,9 +54,11 @@ Project](https://www.fenicsproject.org) and a founding member of the
 <p>2024-06-09: I will give a keynote lecture at the <a href="https://erc-nemesis.eu/events/workshop-montpellier">ERC NEMESIS Synergy Grant Kick-off Workshop</a> in Montpellier, France (June 19-21 2024). </p>
 <p>2024-03-11: By invitation, I will attend the ICERM semester programme on <a href="https://icerm.brown.edu/programs/sp-s24/">Numerical PDEs: Analysis, Algorithms, and Data Challenges</a> at ICERM/Brown University, Providence, RI, US (March 11-21 2024). </p>
 
-<h3 id="news">News and highlights</h3>
+<h3 id="news">News and highlights (since Feb 4 2024)</h3>
 
 <p>2024-02-09: We have opened the <a href="https://fenicsproject.org/fenics-2024/">abstract submission for the FEniCS 2024 Conference</a> at Simula Research Laboratory in Oslo, June 12-14 2024. Deadline: April 5 2024.</p>
+
+<p>2024-02-04: Our paper on <a href="https://link.springer.com/article/10.1007/s10915-023-02449-2">Modeling excitable cells with the EMI equations: spectral analysis and iterative solution strategy</a> is now published in the Journal on Scientific Computing (Springer). Congratulations to Dr. Pietro Benedusi as lead author!</p>
 
 <h4 id="credit">Credits</h4>
 

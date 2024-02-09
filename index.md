@@ -32,11 +32,11 @@ Major former research projects:
  - [Automated uncertainty quantification for numerical solution of partial differential equations](https://www.simula.no/research/projects/auq-pde-automated-uncertainty-quantification-numerical-solutions-partial), a Nordic Council of Ministers Research Grant (2015-2018)
 
 Selection of online presentations:
- - Such stuff as dreams are made on: a computational tale of optimal transport and brain clearance [(YouTube)](https://youtu.be/bX0Jm8BgF7o?si=uG1M8Yz8qWUNw0vC)[(SlideShare)](https://www.slideshare.net/slideshows/such-stuff-as-dreams-are-made-on-a-computational-tale-of-optimal-transport-and-brain-clearance/266234263), IEEE Brain Discovery Workshop on Brain, Mind and Body at University of California San Diego, 2022
- - Mathematical modelling of human brain transport: from medical images to biophysical simulation [(YouTube)](https://youtu.be/HSuVn8KJL-w?si=jxmdJGlpKN9JwN-1), Solid Mechanics Laboratory Seminar at École Polytechnique, 2022
- - Understanding the mechanisms of the brain's waterscape [(YouTube)](https://youtu.be/Uis7-h3iWug?si=3HQ1_okdAve6NZzF), InterPore2021 Invited Lecture, 2021
- - The brain's numerical waterscape [(YouTube)](https://youtu.be/PcCuZiAJlEc?si=ra4Ley3k3btaMNnx)[(SlideShare)](https://www.slideshare.net/MarieERognes/the-numerical-foundations-of-the-brains-waterscape), Laboratoire Jacques-Louis Lions Seminar at Sorbonne, 2021
- - Mathematics that cures us [(YouTube)](https://youtu.be/FW1Z7cSUjmI?si=25TIWt5Lp980GfNl), TEDxOslo, 2016. 
+ - Such stuff as dreams are made on: a computational tale of optimal transport and brain clearance [YouTube](https://youtu.be/bX0Jm8BgF7o?si=uG1M8Yz8qWUNw0vC) [SlideShare](https://www.slideshare.net/slideshows/such-stuff-as-dreams-are-made-on-a-computational-tale-of-optimal-transport-and-brain-clearance/266234263), IEEE Brain Discovery Workshop on Brain, Mind and Body at University of California San Diego, 2022
+ - Mathematical modelling of human brain transport: from medical images to biophysical simulation [YouTube](https://youtu.be/HSuVn8KJL-w?si=jxmdJGlpKN9JwN-1), Solid Mechanics Laboratory Seminar at École Polytechnique, 2022
+ - Understanding the mechanisms of the brain's waterscape [YouTube](https://youtu.be/Uis7-h3iWug?si=3HQ1_okdAve6NZzF), InterPore2021 Invited Lecture, 2021
+ - The brain's numerical waterscape [YouTube](https://youtu.be/PcCuZiAJlEc?si=ra4Ley3k3btaMNnx) [SlideShare](https://www.slideshare.net/MarieERognes/the-numerical-foundations-of-the-brains-waterscape), Laboratoire Jacques-Louis Lions Seminar at Sorbonne, 2021
+ - Mathematics that cures us [YouTube](https://youtu.be/FW1Z7cSUjmI?si=25TIWt5Lp980GfNl), TEDxOslo, 2016 
 
 <h3 id="future">Future events</h3>
 

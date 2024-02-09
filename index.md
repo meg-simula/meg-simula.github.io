@@ -22,7 +22,7 @@ I am a core developer and Steering Council Member of the [FEniCS
 Project](https://www.fenicsproject.org) and a founding member of the
 [Dolfin-adjoint](https://www.dolfin-adjoint.org/en/latest/) project. 
 
-<h3>Current and major former research projects</h3>
+<h3>Research projects (current and major former)</h3>
  
  [Exciting times: extreme modelling of excitable tissue (EMIx)](https://www.simula.no/research/projects/exciting-times-extreme-modelling-excitable-tissue-emix), a Research Council of Norway (RCN) FRIRRO Researcher project for scientific renewal (2021-2025) 
  
@@ -34,12 +34,17 @@ Project](https://www.fenicsproject.org) and a founding member of the
  
  [Automated uncertainty quantification for numerical solution of partial differential equations](https://www.simula.no/research/projects/auq-pde-automated-uncertainty-quantification-numerical-solutions-partial), a Nordic Council of Ministers Research Grant (2015-2018)
 
-<h3>Selection of online presentations</h3>
- - Such stuff as dreams are made on: a computational tale of optimal transport and brain clearance [[YouTube]](https://youtu.be/bX0Jm8BgF7o?si=uG1M8Yz8qWUNw0vC), [[SlideShare]](https://www.slideshare.net/slideshows/such-stuff-as-dreams-are-made-on-a-computational-tale-of-optimal-transport-and-brain-clearance/266234263), IEEE Brain Discovery Workshop on Brain, Mind and Body at University of California San Diego, 2022
- - Mathematical modelling of human brain transport: from medical images to biophysical simulation [[YouTube]](https://youtu.be/HSuVn8KJL-w?si=jxmdJGlpKN9JwN-1), [[SlideShare]](https://www.slideshare.net/slideshows/mathematical-modelling-of-human-brain-transport-from-medical-images-to-biophysical-simulation/266234839), Solid Mechanics Laboratory Seminar at École Polytechnique, 2022
- - Understanding the mechanisms of the brain's waterscape [[YouTube]](https://youtu.be/Uis7-h3iWug?si=3HQ1_okdAve6NZzF), InterPore2021 Invited Lecture, 2021
- - The brain's numerical waterscape [[YouTube]](https://youtu.be/PcCuZiAJlEc?si=ra4Ley3k3btaMNnx), [[SlideShare]](https://www.slideshare.net/MarieERognes/the-numerical-foundations-of-the-brains-waterscape), Laboratoire Jacques-Louis Lions Seminar at Sorbonne, 2021
- - Mathematics that cures us [[YouTube]](https://youtu.be/FW1Z7cSUjmI?si=25TIWt5Lp980GfNl), TEDxOslo, 2016 
+<h3>Selection of presentations available online </h3>
+
+[Such stuff as dreams are made on: a computational tale of optimal transport and brain clearance [SlideShare]](https://www.slideshare.net/slideshows/such-stuff-as-dreams-are-made-on-a-computational-tale-of-optimal-transport-and-brain-clearance/266234263), [[YouTube]](https://youtu.be/bX0Jm8BgF7o?si=uG1M8Yz8qWUNw0vC), 2022
+ 
+[Mathematical modelling of human brain transport: from medical images to biophysical simulation [SlideShare]](https://www.slideshare.net/slideshows/mathematical-modelling-of-human-brain-transport-from-medical-images-to-biophysical-simulation/266234839), [[YouTube]](https://youtu.be/HSuVn8KJL-w?si=jxmdJGlpKN9JwN-1), 2022
+
+[Understanding the mechanisms of the brain's waterscape [YouTube]](https://youtu.be/Uis7-h3iWug?si=3HQ1_okdAve6NZzF), 2021
+
+[The brain's numerical waterscape  [SlideShare]](https://www.slideshare.net/MarieERognes/the-numerical-foundations-of-the-brains-waterscape), [[YouTube]](https://youtu.be/PcCuZiAJlEc?si=ra4Ley3k3btaMNnx), 2021
+
+[TEDxOslo: Mathematics that cures us [YouTube]](https://youtu.be/FW1Z7cSUjmI?si=25TIWt5Lp980GfNl), 2016 
 
 <h3 id="future">Future events</h3>
 

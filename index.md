@@ -22,21 +22,19 @@ I am a core developer and Steering Council Member of the [FEniCS
 Project](https://www.fenicsproject.org) and a founding member of the
 [Dolfin-adjoint](https://www.dolfin-adjoint.org/en/latest/) project. 
 
-<h3>Current research projects</h3>:
+<h3>Current and major former research projects</h3>
  - [Exciting times: extreme modelling of excitable tissue (EMIx)](https://www.simula.no/research/projects/exciting-times-extreme-modelling-excitable-tissue-emix), a Research Council of Norway (RCN) FRIRRO Researcher project for scientific renewal (2021-2025) 
  - [AUTORHYTHM – the role of autophagy in healthy aging](https://www.uio.no/english/research/strategic-research-areas/life-science/research/convergence-environments/autorhythm/), a life science convergence environment (2022-2026) 
-
-<h3>Major former research projects</h3>:
  - [Mathematical and computational foundations for modelling cerebral fluid flow (Waterscales)](https://www.simula.no/research/projects/waterscales-mathematical-and-computational-foundations-modeling-cerebral-fluid), a European Research Council Starting Grant in Mathematics (2016-2023). Read about the project here: [Rognes, Waterscales, Eur. Math. Soc. Mag. 126 (2022)](https://euromathsoc.org/magazine/articles/115)
  - [The numerical waterscape of the brain](https://www.simula.no/research/projects/waterscape-numerical-waterscape-brain), a RCN FRIPRO Young Research Talent Grant (2016-2019). 
  - [Automated uncertainty quantification for numerical solution of partial differential equations](https://www.simula.no/research/projects/auq-pde-automated-uncertainty-quantification-numerical-solutions-partial), a Nordic Council of Ministers Research Grant (2015-2018)
 
-<h3>Selection of online presentations</h3>:
- - Such stuff as dreams are made on: a computational tale of optimal transport and brain clearance [YouTube](https://youtu.be/bX0Jm8BgF7o?si=uG1M8Yz8qWUNw0vC) [SlideShare](https://www.slideshare.net/slideshows/such-stuff-as-dreams-are-made-on-a-computational-tale-of-optimal-transport-and-brain-clearance/266234263), IEEE Brain Discovery Workshop on Brain, Mind and Body at University of California San Diego, 2022
- - Mathematical modelling of human brain transport: from medical images to biophysical simulation [YouTube](https://youtu.be/HSuVn8KJL-w?si=jxmdJGlpKN9JwN-1), Solid Mechanics Laboratory Seminar at École Polytechnique, 2022
- - Understanding the mechanisms of the brain's waterscape [YouTube](https://youtu.be/Uis7-h3iWug?si=3HQ1_okdAve6NZzF), InterPore2021 Invited Lecture, 2021
- - The brain's numerical waterscape [YouTube](https://youtu.be/PcCuZiAJlEc?si=ra4Ley3k3btaMNnx) [SlideShare](https://www.slideshare.net/MarieERognes/the-numerical-foundations-of-the-brains-waterscape), Laboratoire Jacques-Louis Lions Seminar at Sorbonne, 2021
- - Mathematics that cures us [YouTube](https://youtu.be/FW1Z7cSUjmI?si=25TIWt5Lp980GfNl), TEDxOslo, 2016 
+<h3>Selection of online presentations</h3>
+ - Such stuff as dreams are made on: a computational tale of optimal transport and brain clearance [(YouTube)](https://youtu.be/bX0Jm8BgF7o?si=uG1M8Yz8qWUNw0vC), [(SlideShare)](https://www.slideshare.net/slideshows/such-stuff-as-dreams-are-made-on-a-computational-tale-of-optimal-transport-and-brain-clearance/266234263), IEEE Brain Discovery Workshop on Brain, Mind and Body at University of California San Diego, 2022
+ - Mathematical modelling of human brain transport: from medical images to biophysical simulation [(YouTube)](https://youtu.be/HSuVn8KJL-w?si=jxmdJGlpKN9JwN-1), Solid Mechanics Laboratory Seminar at École Polytechnique, 2022
+ - Understanding the mechanisms of the brain's waterscape [(YouTube)](https://youtu.be/Uis7-h3iWug?si=3HQ1_okdAve6NZzF), InterPore2021 Invited Lecture, 2021
+ - The brain's numerical waterscape [(YouTube)](https://youtu.be/PcCuZiAJlEc?si=ra4Ley3k3btaMNnx), [(SlideShare)](https://www.slideshare.net/MarieERognes/the-numerical-foundations-of-the-brains-waterscape), Laboratoire Jacques-Louis Lions Seminar at Sorbonne, 2021
+ - Mathematics that cures us [(YouTube)](https://youtu.be/FW1Z7cSUjmI?si=25TIWt5Lp980GfNl), TEDxOslo, 2016 
 
 <h3 id="future">Future events</h3>
 

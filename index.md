@@ -22,9 +22,9 @@ I am a core developer and Steering Council Member of the [FEniCS
 Project](https://www.fenicsproject.org) and a founding member of the
 [Dolfin-adjoint](https://www.dolfin-adjoint.org/en/latest/) project. 
 
-<h3>Research projects (current and major former)</h3>
+<h3>Research projects</h3>
  
- [Exciting times: extreme modelling of excitable tissue (EMIx)](https://www.simula.no/research/projects/exciting-times-extreme-modelling-excitable-tissue-emix), a Research Council of Norway (RCN) FRIRRO Researcher project for scientific renewal (2021-2025) 
+ [Exciting times: extreme modelling of excitable tissue (EMIx)](https://www.simula.no/research/projects/exciting-times-extreme-modelling-excitable-tissue-emix), a Research Council of Norway (RCN) FRIPRO Researcher project for scientific renewal (2021-2025) 
  
  [AUTORHYTHM – the role of autophagy in healthy aging](https://www.uio.no/english/research/strategic-research-areas/life-science/research/convergence-environments/autorhythm/), a life science convergence environment (2022-2026) 
  
@@ -34,7 +34,7 @@ Project](https://www.fenicsproject.org) and a founding member of the
  
  [Automated uncertainty quantification for numerical solution of partial differential equations](https://www.simula.no/research/projects/auq-pde-automated-uncertainty-quantification-numerical-solutions-partial), a Nordic Council of Ministers Research Grant (2015-2018)
 
-<h3>Selection of presentations available online </h3>
+<h3>Research presentations (online selection) </h3>
 
 [Such stuff as dreams are made on: a computational tale of optimal transport and brain clearance [SlideShare]](https://www.slideshare.net/slideshows/such-stuff-as-dreams-are-made-on-a-computational-tale-of-optimal-transport-and-brain-clearance/266234263), [[YouTube]](https://youtu.be/bX0Jm8BgF7o?si=uG1M8Yz8qWUNw0vC), 2022
  
@@ -55,6 +55,8 @@ Project](https://www.fenicsproject.org) and a founding member of the
 <p>2024-03-11: By invitation, I will attend the ICERM semester programme on <a href="https://icerm.brown.edu/programs/sp-s24/">Numerical PDEs: Analysis, Algorithms, and Data Challenges</a> at ICERM/Brown University, Providence, RI, US (March 11-21 2024). </p>
 
 <h3 id="news">News and highlights (since Feb 4 2024)</h3>
+
+<p>2024-02-12: Our Center for Brain Fluids Research has been selected for funding by the K.~G.~Jebsen Foundation! This interdisciplinary research center will translate recent discoveries in the basic neurosciences about brain fluids to clinical medicine targeting new theranostics for dementia and brain cancer. </p>
 
 <p>2024-02-09: We have opened the <a href="https://fenicsproject.org/fenics-2024/">abstract submission for the FEniCS 2024 Conference</a> at Simula Research Laboratory in Oslo, June 12-14 2024. Deadline: April 5 2024.</p>
 

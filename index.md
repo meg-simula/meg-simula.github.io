@@ -56,7 +56,7 @@ Project](https://www.fenicsproject.org) and a founding member of the
 
 <h3 id="news">News and highlights (since Feb 4 2024)</h3>
 
-<p>2024-02-12: Our Center for Brain Fluids Research has been selected for funding by the K.~G.~Jebsen Foundation! This interdisciplinary research center will translate recent discoveries in the basic neurosciences about brain fluids to clinical medicine targeting new theranostics for dementia and brain cancer. </p>
+<p>2024-02-12: Our Center for Brain Fluids Research has been selected for funding by the K. G. Jebsen Foundation! This interdisciplinary research center will translate fundamental knowledge of brain fluids to clinical medicine targeting new theranostics for dementia and brain cancer. </p>
 
 <p>2024-02-09: We have opened the <a href="https://fenicsproject.org/fenics-2024/">abstract submission for the FEniCS 2024 Conference</a> at Simula Research Laboratory in Oslo, June 12-14 2024. Deadline: April 5 2024.</p>
 

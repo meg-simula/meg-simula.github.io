@@ -13,10 +13,10 @@ Norway.
 
 My research spans applied and computational mathematics, scientific
 computing and computational physiology, targeting dual scientific
-impact in mathematics and in the life sciences. For publications, see
-Marie E. Rognes at [Google
+impact in mathematics and in the life sciences. For publications and
+bio, see Marie E. Rognes at [Google
 scholar](https://scholar.google.com/citations?user=BHyQJSAAAAAJ&hl=en)
-or [ORCID](https://orcid.org/0000-0002-6872-3710). 
+and [ORCID](https://orcid.org/0000-0002-6872-3710).
 
 I am a core developer and Steering Council Member of the [FEniCS
 Project](https://www.fenicsproject.org) and a founding member of the
@@ -60,7 +60,7 @@ TEDxOslo: Mathematics that cures us ([YouTube](https://youtu.be/FW1Z7cSUjmI?si=2
 
 <h3 id="news">News and highlights (since Feb 4 2024)</h3>
 
-<p>2024-02-21: I will be speaking at the European Society for Mathematical and Theoretical Biology <a href="https://www.esmtb.org/event-5597467">online colloquium</a>. Thank you so very much to the organizers for the invitation -- my presentation on <a href="https://doi.org/10.5281/zenodo.10687990">Brains in motion: computational modelling of the brain's waterscape</a> is now available. </p>
+<p>2024-02-21: I will be speaking at the European Society for Mathematical and Theoretical Biology <a href="https://www.esmtb.org/event-5597467">online colloquium</a>. Thank you so very much to the organizers for the invitation -- my presentation on <a href="https://doi.org/10.5281/zenodo.10687990">Brains in motion: computational modelling of the brain's waterscape (Zenodo)</a> is now available. </p>
 
 <p>2024-02-12: Our K. G. Jebsen Center for Brain Fluid Research (<a href="https://stiftkgj.no/nyheter/nytt-k-g-jebsen-senter-for-hjernevaeskeforskning/">in Norwegian</a>, <a href="https://www.simula.no/about/news/new-jebsen-center-research-brain-fluids">in English</a>) has been selected for funding! This interdisciplinary research center will translate fundamental knowledge of brain fluids to clinical medicine targeting personalized theranostics for dementia and brain cancer. </p>
 

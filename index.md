@@ -34,13 +34,13 @@ Project](https://www.fenicsproject.org) and a founding member of the
  
  [Automated uncertainty quantification for numerical solution of partial differential equations](https://www.simula.no/research/projects/auq-pde-automated-uncertainty-quantification-numerical-solutions-partial), a Nordic Council of Ministers Research Grant (2015-2018)
 
-<h3>Research presentations (online selection) </h3>
+<h3>Research presentations (selection) </h3>
 
-[Brains in motion: computational modelling of the brain's waterscape [Zenodo]](https://doi.org/10.5281/zenodo.10687990), 2024
+Brains in motion: computational modelling of the brain's waterscape ([Zenodo](https://doi.org/10.5281/zenodo.10687990)), 2024
 
-[Such stuff as dreams are made on: a computational tale of optimal transport and brain clearance [SlideShare]](https://www.slideshare.net/slideshows/such-stuff-as-dreams-are-made-on-a-computational-tale-of-optimal-transport-and-brain-clearance/266234263), [[YouTube]](https://youtu.be/bX0Jm8BgF7o?si=uG1M8Yz8qWUNw0vC), 2022
+Such stuff as dreams are made on: a computational tale of optimal transport and brain clearance ([YouTube](https://youtu.be/bX0Jm8BgF7o?si=uG1M8Yz8qWUNw0vC)), 2022
  
-[Mathematical modelling of human brain transport: from medical images to biophysical simulation [SlideShare]](https://www.slideshare.net/slideshows/mathematical-modelling-of-human-brain-transport-from-medical-images-to-biophysical-simulation/266234839), [[YouTube]](https://youtu.be/HSuVn8KJL-w?si=jxmdJGlpKN9JwN-1), 2022
+Mathematical modelling of human brain transport: from medical images to biophysical simulation ([Zenodo](https://doi.org/10.5281/zenodo.6401763), [YouTube](https://youtu.be/HSuVn8KJL-w?si=jxmdJGlpKN9JwN-1), 2022
 
 [Understanding the mechanisms of the brain's waterscape [YouTube]](https://youtu.be/Uis7-h3iWug?si=3HQ1_okdAve6NZzF), 2021
 

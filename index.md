@@ -36,6 +36,8 @@ Project](https://www.fenicsproject.org) and a founding member of the
 
 <h3>Research presentations (online selection) </h3>
 
+[Brains in motion: computational modelling of the brain's waterscape [Zenodo](https://doi.org/10.5281/zenodo.10687990), 2024
+
 [Such stuff as dreams are made on: a computational tale of optimal transport and brain clearance [SlideShare]](https://www.slideshare.net/slideshows/such-stuff-as-dreams-are-made-on-a-computational-tale-of-optimal-transport-and-brain-clearance/266234263), [[YouTube]](https://youtu.be/bX0Jm8BgF7o?si=uG1M8Yz8qWUNw0vC), 2022
  
 [Mathematical modelling of human brain transport: from medical images to biophysical simulation [SlideShare]](https://www.slideshare.net/slideshows/mathematical-modelling-of-human-brain-transport-from-medical-images-to-biophysical-simulation/266234839), [[YouTube]](https://youtu.be/HSuVn8KJL-w?si=jxmdJGlpKN9JwN-1), 2022
@@ -53,9 +55,10 @@ Project](https://www.fenicsproject.org) and a founding member of the
 <p>2024-09-12: I will give a plenary lecture at the <a href="https://www.mn.uio.no/math/forskning/aktuelt/arrangementer/konferanser/nmm24/">Norwegian Mathematics Meeting</a>, Oslo, Norway (Sept 12-13 2024). </p>
 <p>2024-06-09: I will give a keynote lecture at the <a href="https://erc-nemesis.eu/events/workshop-montpellier">ERC NEMESIS Synergy Grant Kick-off Workshop</a> in Montpellier, France (June 19-21 2024). </p>
 <p>2024-03-11: By invitation, I will attend the ICERM semester programme on <a href="https://icerm.brown.edu/programs/sp-s24/">Numerical PDEs: Analysis, Algorithms, and Data Challenges</a> at ICERM/Brown University, Providence, RI, US (March 11-21 2024). </p>
-<p>2024-02-21: I will be speaking at the European Society for Mathematical and Theoretical Biology <a href="https://www.esmtb.org/event-5597467">online colloquium</a>.</p>
 
 <h3 id="news">News and highlights (since Feb 4 2024)</h3>
+
+<p>2024-02-21: I will be speaking at the European Society for Mathematical and Theoretical Biology <a href="https://www.esmtb.org/event-5597467">online colloquium</a>.</p>
 
 <p>2024-02-12: Our K. G. Jebsen Center for Brain Fluid Research (<a href="https://stiftkgj.no/nyheter/nytt-k-g-jebsen-senter-for-hjernevaeskeforskning/">in Norwegian</a>, <a href="https://www.simula.no/about/news/new-jebsen-center-research-brain-fluids">in English</a>) has been selected for funding! This interdisciplinary research center will translate fundamental knowledge of brain fluids to clinical medicine targeting personalized theranostics for dementia and brain cancer. </p>
 

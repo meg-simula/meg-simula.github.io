@@ -55,7 +55,7 @@ TEDxOslo: Mathematics that cures us ([YouTube](https://youtu.be/FW1Z7cSUjmI?si=2
 <p>2024-10-21: I will give a keynote lecture at the <a href="https://www.amsterdam-dynamics.nl/">Amsterdam Center for Dynamics and Computation</a> workshop on “Numerical brain: inverse and forward problems”, Vrije Universiteit Amsterdam, the Netherlands (Oct 21-23 2024).</p>
 <p>2024-09-25: I will give keynote lectures on Computational Mathematics of Life Sciences at the <a href="https://wsc.project.cwi.nl/woudschoten-conferences/2024-conference">Woudschoten Conference of the Dutch-Flemish Scientific Computing Society</a>, the Netherlands (Sept 25-27 2024). </p>
 <p>2024-09-12: I will give a plenary lecture at the <a href="https://www.mn.uio.no/math/forskning/aktuelt/arrangementer/konferanser/nmm24/">Norwegian Mathematics Meeting</a>, Oslo, Norway (Sept 12-13 2024). </p>
-<p>2024-08-10: I will be visiting the University of California San Diego in connection with the <a href="https://www.simula.no/education/research-exchanges/suurph"SUURPh</a> 10th year anniversary and 3rd cohort kick-off (Aug 10-16 2024). </p>
+<p>2024-08-10: I will be visiting the University of California San Diego in connection with the <a href="https://www.simula.no/education/research-exchanges/suurph">SUURPh</a> 10th year anniversary and 3rd cohort kick-off (Aug 10-16 2024). </p>
 <p>2024-06-09: I will give a keynote lecture at the <a href="https://erc-nemesis.eu/events/workshop-montpellier">ERC NEMESIS Synergy Grant Kick-off Workshop</a> in Montpellier, France (June 19-21 2024). </p>
 
 <h3 id="news">News and highlights (Feb 4 2024 -- current)</h3>

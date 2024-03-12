@@ -56,9 +56,10 @@ TEDxOslo: Mathematics that cures us ([YouTube](https://youtu.be/FW1Z7cSUjmI?si=2
 <p>2024-09-25: I will give keynote lectures on Computational Mathematics of Life Sciences at the <a href="https://wsc.project.cwi.nl/woudschoten-conferences/2024-conference">Woudschoten Conference of the Dutch-Flemish Scientific Computing Society</a>, the Netherlands (Sept 25-27 2024). </p>
 <p>2024-09-12: I will give a plenary lecture at the <a href="https://www.mn.uio.no/math/forskning/aktuelt/arrangementer/konferanser/nmm24/">Norwegian Mathematics Meeting</a>, Oslo, Norway (Sept 12-13 2024). </p>
 <p>2024-06-09: I will give a keynote lecture at the <a href="https://erc-nemesis.eu/events/workshop-montpellier">ERC NEMESIS Synergy Grant Kick-off Workshop</a> in Montpellier, France (June 19-21 2024). </p>
-<p>2024-03-11: By invitation, I will attend the ICERM semester programme on <a href="https://icerm.brown.edu/programs/sp-s24/">Numerical PDEs: Analysis, Algorithms, and Data Challenges</a> at ICERM/Brown University, Providence, RI, US (March 11-21 2024). </p>
 
-<h3 id="news">News and highlights (since Feb 4 2024)</h3>
+<h3 id="news">News and highlights (Feb 4 2024 -- current) </h3>
+
+<p>2024-03-12: Our new preprint <a href="https://arxiv.org/abs/2403.04491">Scalable approximation and solvers for ionic electrodiffusion in cellular geometries</a> has been submitted. Congratulations to Pietro Benedusi, Ada J. Ellingsrud, Halvor Herlyng and the entire EMIx team!</p>
 
 <p>2024-02-21: I will be speaking at the European Society for Mathematical and Theoretical Biology <a href="https://www.esmtb.org/event-5597467">online colloquium</a>. Thank you so very much to the organizers for the invitation -- my presentation on <a href="https://doi.org/10.5281/zenodo.10687990">Brains in motion: computational modelling of the brain's waterscape (Zenodo)</a> is now available. </p>
 

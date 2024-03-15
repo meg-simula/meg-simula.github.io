@@ -22,19 +22,19 @@ I am a core developer and Steering Council Member of the [FEniCS
 Project](https://www.fenicsproject.org) and a founding member of the
 [Dolfin-adjoint](https://www.dolfin-adjoint.org/en/latest/) project. 
 
-<h3>Research projects</h3>
+<h3>Research projects (selection) </h3>
 
-[K. G. Jebsen Center for Brain Fluid Research](https://www.simula.no/about/news/new-jebsen-center-research-brain-fluids), funded by the K. G. Jebsen Foundation (2024--2029) 
+[K. G. Jebsen Center for Brain Fluid Research](https://www.simula.no/about/news/new-jebsen-center-research-brain-fluids), funded by the K. G. Jebsen Foundation, 2024--2029 (Deputy Director and Principal Investigator)
 
-[Exciting times: extreme modelling of excitable tissue (EMIx)](https://www.simula.no/research/projects/exciting-times-extreme-modelling-excitable-tissue-emix) , a Research Council of Norway (RCN) FRIPRO Researcher project for scientific renewal (2021-2025) 
+[Exciting times: extreme modelling of excitable tissue (EMIx)](https://www.simula.no/research/projects/exciting-times-extreme-modelling-excitable-tissue-emix) , a Research Council of Norway (RCN) FRIPRO Researcher project for scientific renewal, 2021-2025 (Project leader)
  
-[AUTORHYTHM – the role of autophagy in healthy aging](https://www.uio.no/english/research/strategic-research-areas/life-science/research/convergence-environments/autorhythm/), a life science convergence environment (2022-2026) 
+[AUTORHYTHM – the role of autophagy in healthy aging](https://www.uio.no/english/research/strategic-research-areas/life-science/research/convergence-environments/autorhythm/), a life science convergence environment, 2022-2026 (Principal investigator)
  
-[Mathematical and computational foundations for modelling cerebral fluid flow (Waterscales)](https://www.simula.no/research/projects/waterscales-mathematical-and-computational-foundations-modeling-cerebral-fluid), a European Research Council Starting Grant in Mathematics (2016-2023). Read about the project here: [Rognes, Waterscales, Eur. Math. Soc. Mag. 126 (2022)](https://euromathsoc.org/magazine/articles/115)
+[Mathematical and computational foundations for modelling cerebral fluid flow (Waterscales)](https://www.simula.no/research/projects/waterscales-mathematical-and-computational-foundations-modeling-cerebral-fluid), a European Research Council Starting Grant in Mathematics, 2016-2023 (Project leader). Read about the project here: [Rognes, Waterscales, Eur. Math. Soc. Mag. 126 (2022)](https://euromathsoc.org/magazine/articles/115)
  
-[The numerical waterscape of the brain](https://www.simula.no/research/projects/waterscape-numerical-waterscape-brain), a RCN FRIPRO Young Research Talent Grant (2016-2019). 
+[The numerical waterscape of the brain](https://www.simula.no/research/projects/waterscape-numerical-waterscape-brain), a RCN FRIPRO Young Research Talent Grant, 2016-2019 (Project leader)
  
-[Automated uncertainty quantification for numerical solution of partial differential equations](https://www.simula.no/research/projects/auq-pde-automated-uncertainty-quantification-numerical-solutions-partial), a Nordic Council of Ministers Research Grant (2015-2018)
+[Automated uncertainty quantification for numerical solution of partial differential equations](https://www.simula.no/research/projects/auq-pde-automated-uncertainty-quantification-numerical-solutions-partial), a Nordic Council of Ministers Research Grant, 2015-2018 (Project leader)
 
 <h3>Research presentations (selection) </h3>
 
@@ -50,7 +50,7 @@ The brain's numerical waterscape ([Zenodo](https://doi.org/10.5281/zenodo.106880
 
 TEDxOslo: Mathematics that cures us ([YouTube](https://youtu.be/FW1Z7cSUjmI?si=25TIWt5Lp980GfNl)), 2016 
 
-<h3 id="future">Future events</h3>
+<h3 id="future">Upcoming events</h3>
 
 <p>2024-10-21: I will give a keynote lecture at the <a href="https://www.amsterdam-dynamics.nl/">Amsterdam Center for Dynamics and Computation</a> workshop on “Numerical brain: inverse and forward problems”, Vrije Universiteit Amsterdam, the Netherlands (Oct 21-23 2024).</p>
 <p>2024-09-25: I will give keynote lectures on Computational Mathematics of Life Sciences at the <a href="https://wsc.project.cwi.nl/woudschoten-conferences/2024-conference">Woudschoten Conference of the Dutch-Flemish Scientific Computing Society</a>, the Netherlands (Sept 25-27 2024). </p>
@@ -61,7 +61,13 @@ TEDxOslo: Mathematics that cures us ([YouTube](https://youtu.be/FW1Z7cSUjmI?si=2
 
 <h3 id="news">News and highlights (Feb 4 2024 - current)</h3>
 
+<p>2024-03-14: We just submitted our edited volume "Mathematical modeling of the human brain II: from glymphatics to deep learning" as a Simula SpringerBrief on Computing. </p>
+
+<a href="https://arxiv.org/abs/2403.04491">Scalable approximation and solvers for ionic electrodiffusion in cellular geometries</a> has been submitted. Congratulations to Pietro Benedusi, Ada J. Ellingsrud, Halvor Herlyng and the entire EMIx team! </p>
+
 <p>2024-03-12: Our new preprint <a href="https://arxiv.org/abs/2403.04491">Scalable approximation and solvers for ionic electrodiffusion in cellular geometries</a> has been submitted. Congratulations to Pietro Benedusi, Ada J. Ellingsrud, Halvor Herlyng and the entire EMIx team! </p>
+
+<p>2024-03-08: I've been selected as one of <a href="https://www.abelia.no/50techkvinner/2024/">Norway's Top 50 Women in Tech</a>. Congratulations to all the awardees! </p>
 
 <p>2024-02-21: I will be speaking at the European Society for Mathematical and Theoretical Biology <a href="https://www.esmtb.org/event-5597467">online colloquium</a>. Thank you so very much to the organizers for the invitation -- my presentation on <a href="https://doi.org/10.5281/zenodo.10687990">Brains in motion: computational modelling of the brain's waterscape (Zenodo)</a> is now available. </p>
 

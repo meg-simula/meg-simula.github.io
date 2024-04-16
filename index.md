@@ -61,6 +61,10 @@ TEDxOslo: Mathematics that cures us ([YouTube](https://youtu.be/FW1Z7cSUjmI?si=2
 
 <h3 id="news">News and highlights (Feb 4 2024 - current)</h3>
 
+<p>2024-04-14: Our manuscript <a href="https://doi.org/10.48550/arXiv.2306.03001"> Cut finite element discretizations of cell-by-cell EMI electrophysiology models</a> has just been accepted for publication at the SIAM Journal on Scientific Computing. Congratulations to lead author Nanna Berre! </p>
+
+<p>2024-04-09: Our new preprint <a href="https://doi.org/10.1101/2024.04.08.588508">Modeling CSF circulation and the glymphatic system during infusion using subject specific intracranial pressures and brain geometries</a> has been submitted. Congratulations to Lars Willas Dreyer as lead author! </p>
+
 <p>2024-03-14: We just submitted our new volume "Mathematical modeling of the human brain II: from glymphatics to deep learning" as a Simula SpringerBrief on Computing. </p>
 
 <p>2024-03-12: Our new preprint <a href="https://arxiv.org/abs/2403.04491">Scalable approximation and solvers for ionic electrodiffusion in cellular geometries</a> has been submitted. Congratulations to Pietro Benedusi, Ada J. Ellingsrud, Halvor Herlyng and the entire EMIx team! </p>

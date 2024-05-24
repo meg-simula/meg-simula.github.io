@@ -58,33 +58,23 @@ TEDxOslo: Mathematics that cures us ([YouTube](https://youtu.be/FW1Z7cSUjmI?si=2
 <p>2024-09-12: I will give a plenary lecture at the <a href="https://www.mn.uio.no/math/forskning/aktuelt/arrangementer/konferanser/nmm24/">Norwegian Mathematics Meeting</a>, Oslo, Norway (Sept 12-13 2024). </p>
 <p>2024-09-25: I will give keynote lectures on Computational Mathematics of Life Sciences at the <a href="https://wsc.project.cwi.nl/woudschoten-conferences/2024-conference">Woudschoten Conference of the Dutch-Flemish Scientific Computing Society</a>, the Netherlands (Sept 25-27 2024). </p>
 <p>2024-10-21: I will give a keynote lecture at the <a href="https://www.amsterdam-dynamics.nl/">Amsterdam Center for Dynamics and Computation</a> workshop on “The numerical brain: forward and inverse problems in neuroscience applications”, Vrije Universiteit Amsterdam, the Netherlands (Oct 21-23 2024).</p>
-<p>2025-03-19: I will give a seminar in the MOX Colloquium Series and stay for a short research visit at the Politecnico di Milano, Italy, March 19-21 2024. </p>
-<p>2024-06-24: I will give a keynote lecture at the 30th Biennial Numerical Analysis Conference, University of Strathclyde, June 24-27 2025.</p>
-<p>2025-09-01: I will participate in the Institut Mittag-Leffler research program on Interfaces and Unfitted Discretization Methods, Stockholm, Sweden, Aug-Dec 2025.</p> 
+<p>2025-03-19: I will give a seminar in the MOX Colloquium Series and stay for a short research visit at the Politecnico di Milano, Italy (Mar 19-21 2025). </p>
+<p>2025-06-24: I will give a keynote lecture at the 30th Biennial Numerical Analysis Conference, University of Strathclyde (June 24-27 2025).</p>
+<p>2025-09-01: I will participate in the Institut Mittag-Leffler research program on Interfaces and Unfitted Discretization Methods in Stockholm, Sweden (Aug-Dec 2025).</p> 
 
 
 <h3 id="news">News and highlights (Feb 4 2024 - current)</h3>
 
 <p>2024-05-14: Welcome to Isabella Polsfuss (Bioengineering, Columbia University) who is visiting our EMIx research team as a summer research intern! </p>
-
 <p>2024-05-03: I presented our research on "Computational mathematics and brain multiphysics" at the Center for Molecular Medicine Norway, Oslo, Norway. </p>
-
 <p>2024-04-14: Our manuscript <a href="https://doi.org/10.48550/arXiv.2306.03001"> Cut finite element discretizations of cell-by-cell EMI electrophysiology models</a> has just been accepted for publication at the SIAM Journal on Scientific Computing. Congratulations to lead author Nanna Berre! </p>
-
 <p>2024-04-09: Our new preprint <a href="https://doi.org/10.1101/2024.04.08.588508">Modeling CSF circulation and the glymphatic system during infusion using subject specific intracranial pressures and brain geometries</a> has been submitted. Congratulations to Lars Willas Dreyer as lead author! </p>
-
 <p>2024-03-14: We just submitted our new volume "Mathematical modeling of the human brain II: from glymphatics to deep learning" as a Simula SpringerBrief on Computing. </p>
-
 <p>2024-03-12: Our new preprint <a href="https://arxiv.org/abs/2403.04491">Scalable approximation and solvers for ionic electrodiffusion in cellular geometries</a> has been submitted. Congratulations to Pietro Benedusi, Ada J. Ellingsrud, Halvor Herlyng and the entire EMIx team! </p>
-
 <p>2024-03-08: I've been selected as one of <a href="https://www.abelia.no/50techkvinner/2024/">Norway's Top 50 Women in Tech</a>. Congratulations to all the awardees! </p>
-
 <p>2024-02-21: I will be speaking at the European Society for Mathematical and Theoretical Biology <a href="https://www.esmtb.org/event-5597467">online colloquium</a>. Thank you so very much to the organizers for the invitation -- my presentation on <a href="https://doi.org/10.5281/zenodo.10687990">Brains in motion: computational modelling of the brain's waterscape (Zenodo)</a> is now available. </p>
-
 <p>2024-02-12: Our K. G. Jebsen Center for Brain Fluid Research (<a href="https://stiftkgj.no/nyheter/nytt-k-g-jebsen-senter-for-hjernevaeskeforskning/">in Norwegian</a>, <a href="https://www.simula.no/about/news/new-jebsen-center-research-brain-fluids">in English</a>) has been selected for funding! This interdisciplinary research center will translate fundamental knowledge of brain fluids to clinical medicine targeting personalized theranostics for dementia and brain cancer. </p>
-
 <p>2024-02-09: We have opened the <a href="https://fenicsproject.org/fenics-2024/">abstract submission for the FEniCS 2024 Conference</a> at Simula Research Laboratory in Oslo, June 12-14 2024. Deadline: April 5 2024.</p>
-
 <p>2024-02-04: Our paper on <a href="https://link.springer.com/article/10.1007/s10915-023-02449-2">Modeling excitable cells with the EMI equations: spectral analysis and iterative solution strategy</a> is now published in the Journal on Scientific Computing (Springer). Congratulations to Dr. Pietro Benedusi as lead author!</p>
 
 <h4 id="credit">Credits</h4>

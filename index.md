@@ -65,6 +65,8 @@ TEDxOslo: Mathematics that cures us ([YouTube](https://youtu.be/FW1Z7cSUjmI?si=2
 
 <h3 id="news">News and highlights (Feb 4 2024 - current)</h3>
 
+<p>2024-05-14: Welcome to Isabella Polsfuss (Bioengineering, Columbia University) who is visiting our research team as a summer research intern! </p>
+
 <p>2024-05-03: I presented our research on "Computational mathematics and brain multiphysics" at the Center for Molecular Medicine Norway, Oslo, Norway. </p>
 
 <p>2024-04-14: Our manuscript <a href="https://doi.org/10.48550/arXiv.2306.03001"> Cut finite element discretizations of cell-by-cell EMI electrophysiology models</a> has just been accepted for publication at the SIAM Journal on Scientific Computing. Congratulations to lead author Nanna Berre! </p>

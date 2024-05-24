@@ -57,8 +57,8 @@ TEDxOslo: Mathematics that cures us ([YouTube](https://youtu.be/FW1Z7cSUjmI?si=2
 <p>2024-08-08: I will be visiting the University of California San Diego in connection with the <a href="https://www.simula.no/education/research-exchanges/suurph">SUURPh</a> 10th year anniversary and 3rd cohort kick-off (Aug 8-16 2024). </p>
 <p>2024-09-12: I will give a plenary lecture at the <a href="https://www.mn.uio.no/math/forskning/aktuelt/arrangementer/konferanser/nmm24/">Norwegian Mathematics Meeting</a>, Oslo, Norway (Sept 12-13 2024). </p>
 <p>2024-09-25: I will give keynote lectures on Computational Mathematics of Life Sciences at the <a href="https://wsc.project.cwi.nl/woudschoten-conferences/2024-conference">Woudschoten Conference of the Dutch-Flemish Scientific Computing Society</a>, the Netherlands (Sept 25-27 2024). </p>
-<p>2024-10-21: I will give a keynote lecture at the <a href="https://www.amsterdam-dynamics.nl/">Amsterdam Center for Dynamics and Computation</a> workshop on “Numerical brain: inverse and forward problems”, Vrije Universiteit Amsterdam, the Netherlands (Oct 21-23 2024).</p>
-<p>2025-03-19: I will give a seminar in the MOX Colloquium Series at the Politecnico di Milano, Italy, March 19-21 2024. </p>
+<p>2024-10-21: I will give a keynote lecture at the <a href="https://www.amsterdam-dynamics.nl/">Amsterdam Center for Dynamics and Computation</a> workshop on “The numerical brain: forward and inverse problems in neuroscience applications”, Vrije Universiteit Amsterdam, the Netherlands (Oct 21-23 2024).</p>
+<p>2025-03-19: I will give a seminar in the MOX Colloquium Series and stay for a short research visit at the Politecnico di Milano, Italy, March 19-21 2024. </p>
 <p>2024-06-24: I will give a keynote lecture at the 30th Biennial Numerical Analysis Conference, University of Strathclyde, June 24-27 2025.</p>
 <p>2025-09-01: I will participate in the Institut Mittag-Leffler research program on Interfaces and Unfitted Discretization Methods, Stockholm, Sweden, Aug-Dec 2025.</p> 
 

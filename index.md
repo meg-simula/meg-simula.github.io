@@ -66,7 +66,7 @@ TEDxOslo: Mathematics that cures us ([YouTube](https://youtu.be/FW1Z7cSUjmI?si=2
 
 <h3 id="news">News and highlights (Feb 4 2024 - current)</h3>
 
-<p>2024-06-26: The <a href="https://cas-nor.no/">Center for Advanced Study at the Norwegian Academy of Science and Letters</a> has selected our project on <a href="">Mathematical challenges in brain mechanics"</a> for the 2025/2026 academic year. Congratulations to lead PIs Kent-Andre Mardal and Jan Martin Nordbotten! </p>
+<p>2024-06-26: The <a href="https://cas-nor.no/">Center for Advanced Study at the Norwegian Academy of Science and Letters</a> has selected our project on <a href="https://cas-nor.no/index.php/project/mathematical-challenges-brain-mechanics">Mathematical challenges in brain mechanics</a> for the 2025/2026 academic year. Congratulations to lead PIs Kent-Andre Mardal and Jan Martin Nordbotten! </p>
 <p>2024-06-19: I gave an invited lecture at the <a href="https://erc-nemesis.eu/events/workshop-montpellier">ERC NEMESIS Synergy Grant Kick-off Workshop</a> in Montpellier, France (June 19-21 2024). Thanks to the hosts for organizing such a great workshop! </p>
 <p>2024-06-12: We organized the <a href="https://fenicsproject.org/fenics-2024/">FEniCS 2024 conference</a> at Simula Research Laboratory in Oslo, Norway (June 12-14 2024). Thanks to all speakers, sponsors, chairs, and all (nearly 100) attendees for contributing to the meeting!</p>
 <p>2024-05-27: We have a new preprint out: <a href="https://doi.org/10.1101/2024.05.23.595604">Spatial modeling algorithms for reactions and transport (SMART) in biological cells</a>. Congratulations to Emmet Francis and Justin Laughlin as lead authors! </p>

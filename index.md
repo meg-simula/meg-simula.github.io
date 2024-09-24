@@ -65,7 +65,7 @@ TEDxOslo: Mathematics that cures us ([YouTube](https://youtu.be/FW1Z7cSUjmI?si=2
 <h3 id="news">News and highlights (Feb 4 2024 - current)</h3>
 
 <p>2024-09-12: I gave a plenary lecture at the <a href="https://www.mn.uio.no/math/forskning/aktuelt/arrangementer/konferanser/nmm24/">Norwegian Mathematics Meeting</a>, Oslo, Norway (Sept 12-13 2024). </p>
-<p>2024-09-05: I gave an imformal talk about brain clearance and sleep at the Alumni Meeting at the Institute of Mathematics, University of Oslo (Sept 5 2024). So lovely to see old and new faces. </p>
+<p>2024-09-05: I gave an informal talk about brain clearance and sleep at the Alumni Meeting at the Institute of Mathematics, University of Oslo (Sept 5 2024). So lovely to see old and new faces. </p>
 <p>2024-08-20: We organized an EMIx workshop on "Computational modelling of excitable tissue in the extreme" at Simula (Aug 20-21, 21-24 2024). Thanks to all participants. </p>
 <p>2024-08-08: I visited the University of California San Diego in connection with the <a href="https://www.simula.no/education/research-exchanges/suurph">SUURPh</a> 10th year anniversary and 3rd cohort kick-off (Aug 8-16 2024). </p>
 <p>2024-07-01: Our research proposal on <a href="https://chanzuckerberg.com/eoss/proposals/next-generation-simulation-and-learning-in-imaging-based-biomedicine/">Next-Generation Simulation and Learning in Imaging-Based Biomedicine</a> has been selected as part of the Essential Open Source Software for Science program funded by the Wellcome Trust. </p>

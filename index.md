@@ -64,6 +64,7 @@ TEDxOslo: Mathematics that cures us ([YouTube](https://youtu.be/FW1Z7cSUjmI?si=2
 
 <h3 id="news">News and highlights (Feb 4 2024 - current)</h3>
 
+<p>2024-09-24: Our paper on <a href="https://www.esaim-m2an.org/articles/m2an/abs/2024/05/m2an230121/m2an230121.html">The modelling error in multi-dimensional time-dependent solute transport models</a> is now published in ESAIM: M2AN. Congratulations to first author Rami Masri. </p>
 <p>2024-09-12: I gave a plenary lecture at the <a href="https://www.mn.uio.no/math/forskning/aktuelt/arrangementer/konferanser/nmm24/">Norwegian Mathematics Meeting</a>, Oslo, Norway (Sept 12-13 2024). </p>
 <p>2024-09-05: I gave an informal talk about brain clearance and sleep at the Alumni Meeting at the Institute of Mathematics, University of Oslo (Sept 5 2024). So lovely to see old and new faces. </p>
 <p>2024-08-20: We organized an EMIx workshop on "Computational modelling of excitable tissue in the extreme" at Simula (Aug 20-21, 21-24 2024). Thanks to all participants. </p>

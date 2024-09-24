@@ -24,6 +24,8 @@ Project](https://www.fenicsproject.org) and a founding member of the
 
 <h3>Research projects (selection) </h3>
 
+[FEniCS in the Wild: Next-generation simulation and learning in imaging-based biomedicine](https://www.simula.no/about/news/funding-awarded-next-generation-simulation-learning-imaging-based-biomedicine), funded by the Wellcome Trust, 2024--2026 (Project leader)
+
 [K. G. Jebsen Center for Brain Fluid Research](https://www.simula.no/about/news/new-jebsen-center-research-brain-fluids), funded by the K. G. Jebsen Foundation, 2024--2029 (Deputy Director and Principal investigator)
 
 [Exciting times: extreme modelling of excitable tissue (EMIx)](https://www.simula.no/research/projects/exciting-times-extreme-modelling-excitable-tissue-emix) , a Research Council of Norway (RCN) FRIPRO Researcher project for scientific renewal, 2021-2025 (Project leader)

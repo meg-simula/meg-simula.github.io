@@ -56,7 +56,6 @@ TEDxOslo: Mathematics that cures us ([YouTube](https://youtu.be/FW1Z7cSUjmI?si=2
 
 <h3 id="future">Upcoming events</h3>
 
-<p>2024-09-25: I will give keynote lectures on Computational Mathematics of Life Sciences at the <a href="https://wsc.project.cwi.nl/woudschoten-conferences/2024-conference">Woudschoten Conference of the Dutch-Flemish Scientific Computing Society</a>, the Netherlands (Sept 25-27 2024). </p>
 <p>2024-10-21: I will give a keynote lecture at the <a href="https://www.amsterdam-dynamics.nl/">Amsterdam Center for Dynamics and Computation</a> workshop on “The numerical brain: forward and inverse problems in neuroscience applications”, Vrije Universiteit Amsterdam, the Netherlands (Oct 21-23 2024).</p>
 <p>2025-03-19: I will give a seminar in the MOX Colloquium Series and stay for a short research visit at the Politecnico di Milano, Italy (Mar 19-21 2025). </p>
 <p>2025-06-24: I will give a keynote lecture at the 30th Biennial Numerical Analysis Conference, University of Strathclyde (June 24-27 2025).</p>
@@ -64,9 +63,10 @@ TEDxOslo: Mathematics that cures us ([YouTube](https://youtu.be/FW1Z7cSUjmI?si=2
 
 <h3 id="news">News and highlights (Feb 4 2024 - current)</h3>
 
-<p>2024-09-24: Our paper on <a href="https://www.esaim-m2an.org/articles/m2an/abs/2024/05/m2an230121/m2an230121.html">The modelling error in multi-dimensional time-dependent solute transport models</a> is now published in ESAIM: M2AN. Congratulations to first author Rami Masri. </p>
-<p>2024-09-12: I gave a plenary lecture at the <a href="https://www.mn.uio.no/math/forskning/aktuelt/arrangementer/konferanser/nmm24/">Norwegian Mathematics Meeting</a>, Oslo, Norway (Sept 12-13 2024). </p>
-<p>2024-08-20: We organized an EMIx workshop on "Computational modelling of excitable tissue in the extreme" at Simula (Aug 20-21, 21-24 2024). Thanks to all participants. </p>
+<p>2024-09-25: I presented a set of keynote lectures on Computational Mathematics of Life Sciences at the <a href="https://wsc.project.cwi.nl/woudschoten-conferences/2024-conference">Woudschoten Conference of the Dutch-Flemish Scientific Computing Society</a>, the Netherlands (Sept 25-27 2024). Thanks again to the organizers for the invitation and for arranging such a lovely event in gorgeous surroundings. </p>
+<p>2024-09-24: Our paper on <a href="https://www.esaim-m2an.org/articles/m2an/abs/2024/05/m2an230121/m2an230121.html">The modelling error in multi-dimensional time-dependent solute transport models</a> is now published in ESAIM: M2AN. Congratulations to lead author Rami Masri and the entire team! </p>
+<p>2024-09-12: I gave a plenary lecture at the <a href="https://www.mn.uio.no/math/forskning/aktuelt/arrangementer/konferanser/nmm24/">Norwegian Mathematics Meeting</a>, at Soria Moria in Oslo, Norway (Sept 12-13 2024). Thanks to the organizing committee for the opportunity to present our research in such unique setting. </p>
+<p>2024-08-20: We organized an EMIx workshop on "Computational modelling of excitable tissue in the extreme" at Simula (Aug 20-21, 21-24 2024). Thanks to all participants - and especially to the brave mountaineers! </p>
 <p>2024-08-08: I visited the University of California San Diego in connection with the <a href="https://www.simula.no/education/research-exchanges/suurph">SUURPh</a> 10th year anniversary and 3rd cohort kick-off (Aug 8-16 2024). </p>
 <p>2024-07-01: Our research proposal on <a href="https://chanzuckerberg.com/eoss/proposals/next-generation-simulation-and-learning-in-imaging-based-biomedicine/">Next-Generation Simulation and Learning in Imaging-Based Biomedicine</a> has been selected as part of the Essential Open Source Software for Science program funded by the Wellcome Trust. </p>
 <p>2024-06-19: I gave an invited lecture at the <a href="https://erc-nemesis.eu/events/workshop-montpellier">ERC NEMESIS Synergy Grant Kick-off Workshop</a> in Montpellier, France (June 19-21 2024). Thanks to the hosts for organizing such a great workshop. </p>

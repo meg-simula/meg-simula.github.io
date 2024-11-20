@@ -56,9 +56,11 @@ TEDxOslo: Mathematics that cures us ([YouTube](https://youtu.be/FW1Z7cSUjmI?si=2
 
 <h3 id="future">Upcoming events</h3>
 
-<p>2024-10-21: I will give a keynote lecture at the <a href="https://www.amsterdam-dynamics.nl/">Amsterdam Center for Dynamics and Computation</a> workshop on “The numerical brain: forward and inverse problems in neuroscience applications”, Vrije Universiteit Amsterdam, the Netherlands (Oct 21-23 2024).</p>
+<p>2024-11-25: I will present at the <a href="https://www.med.uio.no/klinmed/english/research/centres/kg-jebsen-brain-fluid/news-and-events/events/2024/oslo-brain-fluid-symposium.html">Oslo Brain Fluid Symposium</a> at Simula Research Laboratory</p>
 <p>2025-03-19: I will give a seminar in the MOX Colloquium Series and stay for a short research visit at the Politecnico di Milano, Italy (Mar 19-21 2025). </p>
-<p>2025-06-24: I will give a keynote lecture at the 30th Biennial Numerical Analysis Conference, University of Strathclyde (June 24-27 2025).</p>
+<p>2025-05-26: I will give a plenary lecture at <a href="https://coupled2025.cimne.com/">Coupled Problems 2025</a>: the XI International Conference on Coupled Problems in Science and Engineering, Villasimius, Sardinia (May 26-29 2025).</p>
+<p>2025-06-24: I will give a keynote lecture at the <a href="https://numericalanalysisconference.org.uk/conferences/2025">30th Biennial Numerical Analysis Conference</a>, University of Strathclyde (Jun 24-27 2025).</p>
+<p>2025-08-20: I will give a keynote talk at the opening conference of the <a href="https://cas-nor.no/news/announcing-cas-projects-20252026">Mathematical challenges in brain mechanics</a> year-of-study at the Center of Advanced Study at the Norwegian Academy of Science and Letters (Aug 20-22 2025) </p>
 <p>2025-09-01: I will participate in the Institut Mittag-Leffler research program on Interfaces and Unfitted Discretization Methods in Stockholm, Sweden (Aug-Dec 2025).</p> 
 
 <h3 id="news">News and highlights (Feb 4 2024 - current)</h3>

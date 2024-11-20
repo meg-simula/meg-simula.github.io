@@ -56,7 +56,7 @@ TEDxOslo: Mathematics that cures us ([YouTube](https://youtu.be/FW1Z7cSUjmI?si=2
 
 <h3 id="future">Upcoming events</h3>
 
-<p>2024-11-25: I will present at the <a href="https://www.med.uio.no/klinmed/english/research/centres/kg-jebsen-brain-fluid/news-and-events/events/2024/oslo-brain-fluid-symposium.html">Oslo Brain Fluid Symposium</a> at Simula Research Laboratory</p>
+<p>2024-11-25: I will present at the <a href="https://www.med.uio.no/klinmed/english/research/centres/kg-jebsen-brain-fluid/news-and-events/events/2024/oslo-brain-fluid-symposium.html">Oslo Brain Fluid Symposium</a> at Simula Research Laboratory in Oslo, Norway. Also looking forward to welcoming all attendees to Simula! </p>
 <p>2025-03-19: I will give a seminar in the MOX Colloquium Series and stay for a short research visit at the Politecnico di Milano, Italy (Mar 19-21 2025). </p>
 <p>2025-05-26: I will give a plenary lecture at <a href="https://coupled2025.cimne.com/">Coupled Problems 2025</a>: the XI International Conference on Coupled Problems in Science and Engineering, Villasimius, Sardinia (May 26-29 2025).</p>
 <p>2025-06-24: I will give a keynote lecture at the <a href="https://numericalanalysisconference.org.uk/conferences/2025">30th Biennial Numerical Analysis Conference</a>, University of Strathclyde (Jun 24-27 2025).</p>

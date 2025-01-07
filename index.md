@@ -56,14 +56,16 @@ TEDxOslo: Mathematics that cures us ([YouTube](https://youtu.be/FW1Z7cSUjmI?si=2
 
 <h3 id="future">Upcoming events</h3>
 
+<p>2025-02-10: I will give a talk in the Computational and Applied Mathematics Seminar at Chalmbers University of Technology, Gothenburg, Sweden. </p>
 <p>2025-03-19: I will give a seminar in the MOX Colloquium Series and stay for a short research visit at the Politecnico di Milano, Italy (Mar 19-21 2025). </p>
 <p>2025-05-26: I will give a plenary lecture at <a href="https://coupled2025.cimne.com/">Coupled Problems 2025</a>: the XI International Conference on Coupled Problems in Science and Engineering, Villasimius, Sardinia (May 26-29 2025).</p>
-<p>2025-06-24: I will give a keynote lecture at the <a href="https://numericalanalysisconference.org.uk/conferences/2025">30th Biennial Numerical Analysis Conference</a>, University of Strathclyde (Jun 24-27 2025).</p>
+<p>2025-06-24: I will give a keynote lecture at the <a href="https://numericalanalysisconference.org.uk/conferences/2025">30th Biennial Numerical Analysis Conference</a>, University of Strathclyde (Jun 24-27 2025).</p> 
 <p>2025-08-20: I will give a keynote talk at the opening conference of the <a href="https://cas-nor.no/news/announcing-cas-projects-20252026">Mathematical challenges in brain mechanics</a> year-of-study at the Center of Advanced Study at the Norwegian Academy of Science and Letters (Aug 20-22 2025) </p>
 <p>2025-09-01: I will participate in the Institut Mittag-Leffler research program on Interfaces and Unfitted Discretization Methods in Stockholm, Sweden (Aug-Dec 2025).</p> 
 
 <h3 id="news">News and highlights (Feb 4 2024 - current)</h3>
 
+<p>2025-01-07: Our paper on <a href="https://doi.org/10.1038/s43588-024-00745-x">Spatial modeling algorithms for reactions and transport in biological cells</a> is published in Nature Computational Science! Congratulations to lead author Emmet Francis and the whole crew!</p>
 <p>2024-11-25: I presented at the <a href="https://www.med.uio.no/klinmed/english/research/centres/kg-jebsen-brain-fluid/news-and-events/events/2024/oslo-brain-fluid-symposium.html">Oslo Brain Fluid Symposium</a> at Simula Research Laboratory in Oslo, Norway. Thanks to all presenters and attendees for making this such a great meeting! </p>
 <p>2024-04-09: Our paper <a href="https://fluidsbarrierscns.biomedcentral.com/articles/10.1186/s12987-024-00582-0">Modeling CSF circulation and the glymphatic system during infusion using subject specific intracranial pressures and brain geometries</a> has been published in Fluids and Barriers of the Central Nervous System (<a href="https://doi.org/10.1101/2024.04.08.588508">bioRxiv</a>). Congratulations to lead author Lars W. Dreyer and the whole crew! </p>
 <p>2024-10-16: Our paper <a href="https://epubs.siam.org/doi/10.1137/24M1644717">Scalable approximation and solvers for ionic electrodiffusion in cellular geometries</a> has been published in SISC (<a href="https://arxiv.org/abs/2403.04491">arXiv</a>). Congratulations to Pietro Benedusi, Ada J. Ellingsrud, Halvor Herlyng and the entire EMIx team! </p>

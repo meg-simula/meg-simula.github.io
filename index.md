@@ -19,7 +19,7 @@ bio, see Marie E. Rognes at [Google
 scholar](https://scholar.google.com/citations?user=BHyQJSAAAAAJ&hl=en)
 and [ORCID](https://orcid.org/0000-0002-6872-3710).
 
-I was a core developer (2007--2024) and Steering Council Member
+I have been a core developer (2007--2024) and Steering Council Member
 (2016--2024) of the [FEniCS Project](https://www.fenicsproject.org)
 and a founding member of the
 [Dolfin-adjoint](https://www.dolfin-adjoint.org/en/latest/) project

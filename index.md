@@ -57,7 +57,7 @@ The brain's numerical waterscape ([Zenodo](https://doi.org/10.5281/zenodo.106880
 
 TEDxOslo: Mathematics that cures us ([YouTube](https://youtu.be/FW1Z7cSUjmI?si=25TIWt5Lp980GfNl)), 2016 
 
-<h3 id="future">Upcoming events</h3>
+<h3 id="future">Upcoming events in 2025</h3>
 
 <p>2025-02-10: I will give a talk in the <a href="https://researchseminars.org/seminar/cam">Computational and Applied Mathematics Seminar</a> at Chalmbers University of Technology, Gothenburg, Sweden (Feb 10 2025). </p>
 

@@ -8,8 +8,9 @@ title: Marie E. Rognes
 I am [Chief Research Scientist](https://www.simula.no/people/meg) in
 the [Department of Numerical Analysis and Scientific
 Computing](https://www.simula.no/research/research-departments/numerical-analysis-and-scientific-computing)
-at [Simula Research Laboratory](https://www.simula.no) in Oslo,
-Norway. 
+at [Simula Research Laboratory](https://www.simula.no) in Oslo, Norway
+and Deputy Director of the [K. G. Jebsen Centre for Brain Fluid
+Research](https://www.med.uio.no/klinmed/forskning/sentre/kg-jebsen-hjerneveske/index.html).
 
 My research spans applied and computational mathematics, scientific
 computing and computational physiology, targeting dual scientific
@@ -18,9 +19,11 @@ bio, see Marie E. Rognes at [Google
 scholar](https://scholar.google.com/citations?user=BHyQJSAAAAAJ&hl=en)
 and [ORCID](https://orcid.org/0000-0002-6872-3710).
 
-I am a core developer and Steering Council Member of the [FEniCS
-Project](https://www.fenicsproject.org) and a founding member of the
-[Dolfin-adjoint](https://www.dolfin-adjoint.org/en/latest/) project. 
+I was a core developer (2007--2024) and Steering Council Member
+(2016--2024) of the [FEniCS Project](https://www.fenicsproject.org)
+and a founding member of the
+[Dolfin-adjoint](https://www.dolfin-adjoint.org/en/latest/) project
+(2011--).
 
 <h3>Research projects (selection) </h3>
 
@@ -57,10 +60,17 @@ TEDxOslo: Mathematics that cures us ([YouTube](https://youtu.be/FW1Z7cSUjmI?si=2
 <h3 id="future">Upcoming events</h3>
 
 <p>2025-02-10: I will give a talk in the <a href="https://researchseminars.org/seminar/cam">Computational and Applied Mathematics Seminar</a> at Chalmbers University of Technology, Gothenburg, Sweden (Feb 10 2025). </p>
+
 <p>2025-03-19: I will give a <a href="https://mox.polimi.it/mox-colloquia-seminars-list/mox-seminars/?id_evento=2516">seminar in the MOX Colloquium Series</a> and stay for a short research visit at the Politecnico di Milano, Italy (Mar 19-21 2025). </p>
+
 <p>2025-05-26: I will give a plenary lecture at <a href="https://coupled2025.cimne.com/">Coupled Problems 2025</a>: the XI International Conference on Coupled Problems in Science and Engineering, Villasimius, Sardinia (May 26-29 2025).</p>
+
+<p>2025-05-26: Paola Antonietti, Ivan Fumagalli, Miroslav Kuchta and I are organizing a minisymposium on <a href="https://coupled2025.cimne.com/event/area/6db76a95-7f16-11ef-a6b7-000c29ddfc0c">Computational brain multiphysics</a> at <a href="https://coupled2025.cimne.com/">Coupled Problems 2025</a>. </p>
+
 <p>2025-06-24: I will give a keynote lecture at the <a href="https://numericalanalysisconference.org.uk/conferences/2025">30th Biennial Numerical Analysis Conference</a>, University of Strathclyde (Jun 24-27 2025).</p> 
+
 <p>2025-08-20: I will give a keynote talk at the opening conference of the <a href="https://cas-nor.no/news/announcing-cas-projects-20252026">Mathematical challenges in brain mechanics</a> year-of-study at the Center of Advanced Study at the Norwegian Academy of Science and Letters (Aug 20-22 2025) </p>
+
 <p>2025-09-01: I will participate in the Institut Mittag-Leffler research program on Interfaces and Unfitted Discretization Methods in Stockholm, Sweden (Aug-Dec 2025).</p> 
 
 <h3 id="news">News and highlights (Feb 4 2024 - current)</h3>

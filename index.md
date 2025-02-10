@@ -59,7 +59,7 @@ TEDxOslo: Mathematics that cures us ([YouTube](https://youtu.be/FW1Z7cSUjmI?si=2
 
 <h3 id="future">Upcoming events in 2025</h3>
 
-<p>2025-02-10: I will give a talk in the <a href="https://researchseminars.org/seminar/cam">Computational and Applied Mathematics Seminar</a> at Chalmbers University of Technology, Gothenburg, Sweden (Feb 10 2025). </p>
+<p>2025-02-10: I will give a talk in the <a href="https://researchseminars.org/seminar/cam">Computational and Applied Mathematics Seminar</a> at Chalmers University of Technology, Gothenburg, Sweden (Feb 10 2025). </p>
 
 <p>2025-03-19: I will give a <a href="https://mox.polimi.it/mox-colloquia-seminars-list/mox-seminars/?id_evento=2516">seminar in the MOX Colloquium Series</a> and stay for a short research visit at the Politecnico di Milano, Italy (Mar 19-21 2025). </p>
 

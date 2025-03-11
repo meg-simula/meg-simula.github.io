@@ -25,7 +25,7 @@ and a founding member of the
 [Dolfin-adjoint](https://www.dolfin-adjoint.org/en/latest/) project
 (2011--).
 
-<h3>Research projects (selection) </h3>
+<h3>Current research projects </h3>
 
 [FEniCS in the Wild: Next-generation simulation and learning in imaging-based biomedicine](https://www.simula.no/about/news/funding-awarded-next-generation-simulation-learning-imaging-based-biomedicine), funded by the Wellcome Trust, 2024--2026 (Project leader)
 
@@ -34,12 +34,6 @@ and a founding member of the
 [Exciting times: extreme modelling of excitable tissue (EMIx)](https://www.simula.no/research/projects/exciting-times-extreme-modelling-excitable-tissue-emix) , a Research Council of Norway (RCN) FRIPRO Researcher project for scientific renewal, 2021-2025 (Project leader)
  
 [AUTORHYTHM – the role of autophagy in healthy aging](https://www.uio.no/english/research/strategic-research-areas/life-science/research/convergence-environments/autorhythm/), a life science convergence environment, 2022-2026 (Principal investigator)
- 
-[Mathematical and computational foundations for modelling cerebral fluid flow (Waterscales)](https://www.simula.no/research/projects/waterscales-mathematical-and-computational-foundations-modeling-cerebral-fluid), a European Research Council Starting Grant in Mathematics, 2016-2023 (Project leader). Read about the project results here: [Rognes, Waterscales, Eur. Math. Soc. Mag. 126 (2022)](https://euromathsoc.org/magazine/articles/115)
- 
-[The numerical waterscape of the brain](https://www.simula.no/research/projects/waterscape-numerical-waterscape-brain), a RCN FRIPRO Young Research Talent Grant, 2016-2019 (Project leader)
- 
-[Automated uncertainty quantification for numerical solution of partial differential equations](https://www.simula.no/research/projects/auq-pde-automated-uncertainty-quantification-numerical-solutions-partial), a Nordic Council of Ministers Research Grant, 2015-2018 (Project leader)
 
 <h3>Research presentations (selection) </h3>
 
@@ -102,6 +96,15 @@ thanks to the entire cross-disciplinary team! </p>
 <p>2024-02-12: Our K. G. Jebsen Center for Brain Fluid Research (<a href="https://stiftkgj.no/nyheter/nytt-k-g-jebsen-senter-for-hjernevaeskeforskning/">in Norwegian</a>, <a href="https://www.simula.no/about/news/new-jebsen-center-research-brain-fluids">in English</a>) has been selected for funding. This interdisciplinary research center will translate fundamental knowledge of brain fluids to clinical medicine targeting personalized theranostics for dementia and brain cancer. </p>
 <p>2024-02-09: We have opened the <a href="https://fenicsproject.org/fenics-2024/">abstract submission for the FEniCS 2024 Conference</a> at Simula Research Laboratory in Oslo, June 12-14 2024. Deadline: April 5 2024.</p>
 <p>2024-02-04: Our paper on <a href="https://link.springer.com/article/10.1007/s10915-023-02449-2">Modeling excitable cells with the EMI equations: spectral analysis and iterative solution strategy</a> is now published in the Journal on Scientific Computing (Springer). Congratulations to Dr. Pietro Benedusi as lead author.</p>
+
+<h3>Past research projects (selection) </h3>
+
+[Mathematical and computational foundations for modelling cerebral fluid flow (Waterscales)](https://www.simula.no/research/projects/waterscales-mathematical-and-computational-foundations-modeling-cerebral-fluid), a European Research Council Starting Grant in Mathematics, 2016-2023 (Project leader). Read about the project results here: [Rognes, Waterscales, Eur. Math. Soc. Mag. 126 (2022)](https://euromathsoc.org/magazine/articles/115)
+ 
+[The numerical waterscape of the brain](https://www.simula.no/research/projects/waterscape-numerical-waterscape-brain), a RCN FRIPRO Young Research Talent Grant, 2016-2019 (Project leader)
+ 
+[Automated uncertainty quantification for numerical solution of partial differential equations](https://www.simula.no/research/projects/auq-pde-automated-uncertainty-quantification-numerical-solutions-partial), a Nordic Council of Ministers Research Grant, 2015-2018 (Project leader)
+
 
 <h4 id="credit">Credits</h4>
 

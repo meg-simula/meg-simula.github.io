@@ -27,35 +27,19 @@ and a founding member of the
 
 <h3>Current research projects </h3>
 
-[FEniCS in the Wild: Next-generation simulation and learning in imaging-based biomedicine](https://www.simula.no/about/news/funding-awarded-next-generation-simulation-learning-imaging-based-biomedicine), funded by the Wellcome Trust, 2024--2026 (Project leader)
-
 [K. G. Jebsen Center for Brain Fluid Research](https://www.med.uio.no/klinmed/forskning/sentre/kg-jebsen-hjerneveske/), funded by the K. G. Jebsen Foundation, 2024--2029 (Deputy Director and Principal investigator)
+
+[FEniCS in the Wild: Next-generation simulation and learning in imaging-based biomedicine](https://www.simula.no/about/news/funding-awarded-next-generation-simulation-learning-imaging-based-biomedicine), funded by the Wellcome Trust, 2024--2026 (Project leader)
 
 [Exciting times: extreme modelling of excitable tissue (EMIx)](https://www.simula.no/research/projects/exciting-times-extreme-modelling-excitable-tissue-emix) , a Research Council of Norway (RCN) FRIPRO Researcher project for scientific renewal, 2021-2025 (Project leader)
  
 [AUTORHYTHM – the role of autophagy in healthy aging](https://www.uio.no/english/research/strategic-research-areas/life-science/research/convergence-environments/autorhythm/), a life science convergence environment, 2022-2026 (Principal investigator)
 
-<h3>Research presentations (selection) </h3>
-
-Perivascular pathways and the dimension-2 gap ([Zenodo](https://zenodo.org/doi/10.5281/zenodo.12192254)), 2024
-
-Brains in motion: computational modelling of the brain's waterscape ([Zenodo](https://doi.org/10.5281/zenodo.10687990)), 2024
-
-Such stuff as dreams are made on: a computational tale of optimal transport and brain clearance ([Zenodo](https://doi.org/10.5281/zenodo.7838956), [YouTube](https://youtu.be/bX0Jm8BgF7o?si=uG1M8Yz8qWUNw0vC)), 2022
- 
-Mathematical modelling of human brain transport: from medical images to biophysical simulation ([Zenodo](https://doi.org/10.5281/zenodo.6401763), [YouTube](https://youtu.be/HSuVn8KJL-w?si=jxmdJGlpKN9JwN-1)), 2022
-
-Understanding the mechanisms of the brain's waterscape ([YouTube](https://youtu.be/Uis7-h3iWug?si=3HQ1_okdAve6NZzF)), 2021
-
-The brain's numerical waterscape ([Zenodo](https://doi.org/10.5281/zenodo.10688045), [YouTube](https://youtu.be/PcCuZiAJlEc?si=ra4Ley3k3btaMNnx)), 2021
-
-TEDxOslo: Mathematics that cures us ([YouTube](https://youtu.be/FW1Z7cSUjmI?si=25TIWt5Lp980GfNl)), 2016 
-
 <h3 id="future">Upcoming events in 2025</h3>
 
 <p>2025-05-26: Paola Antonietti, Ivan Fumagalli, Miroslav Kuchta and I are organizing a minisymposium on <a href="https://coupled2025.cimne.com/event/area/6db76a95-7f16-11ef-a6b7-000c29ddfc0c">Computational brain multiphysics</a> at <a href="https://coupled2025.cimne.com/">Coupled Problems 2025</a>. </p>
 
-<p>2025-06-24: I will give a keynote lecture at the <a href="https://numericalanalysisconference.org.uk/conferences/2025">30th Biennial Numerical Analysis Conference</a>, University of Strathclyde (Jun 24-27 2025).</p> 
+<p>2025-06-24: I will give a plenary lecture at the <a href="https://numericalanalysisconference.org.uk/conferences/2025">30th Biennial Numerical Analysis Conference</a>, University of Strathclyde (Jun 24-27 2025).</p> 
 
 <p>2025-08-20: I will give a keynote talk at the opening conference of the <a href="https://cas-nor.no/news/announcing-cas-projects-20252026">Mathematical challenges in brain mechanics</a> year-of-study at the Center of Advanced Study at the Norwegian Academy of Science and Letters (Aug 20-22 2025) </p>
 
@@ -64,8 +48,8 @@ TEDxOslo: Mathematics that cures us ([YouTube](https://youtu.be/FW1Z7cSUjmI?si=2
 <h3 id="news">News and highlights (Feb 4 2024 - current)</h3>
 
 <p>2025-05-26: I gave a plenary lecture at <a href="https://coupled2025.cimne.com/">Coupled Problems 2025</a>: the XI International Conference on Coupled Problems in Science and Engineering, Villasimius, Sardinia (May 26-29 2025).</p>
-<p>2025-04-15: We have a new preprint out: <a href="https://doi.org/10.1101/2025.05.08.652799">Stretch and flow at the gliovascular interface: high-fidelity modelling of the mechanics of astrocyte endfeet</a>. Congratulations to Marius Causemann as lead author. </p>
-<p>2025-03-11: We have a new preprint out: <a href="https://doi.org/10.1101/2025.04.15.648743">Advection versus diffusion in brain ventricular transport </a>. Congratulations to Halvor Herlyng as lead author, and thanks to Nathalie Jurisch-Yaksi and her team for a very interesting collaboration. </p>
+<p>2025-04-15: We have a new preprint out: <a href="https://doi.org/10.1101/2025.05.08.652799">Stretch and flow at the gliovascular interface: high-fidelity modelling of the mechanics of astrocyte endfeet</a>. Congratulations to Marius Causemann as lead author, and thanks to Rune Enger for a very fruitful collaboration - as always. </p>
+<p>2025-03-11: We have a new preprint out: <a href="https://doi.org/10.1101/2025.04.15.648743">Advection versus diffusion in brain ventricular transport</a>. Congratulations to Halvor Herlyng as lead author, and thanks to Nathalie Jurisch-Yaksi and her team for a very interesting collaboration. </p>
 <p>2025-03-11: We have a new journal submission out: <a href="">Heterogeneity in human brain clearance adds resilience against tauopathy</a>. Congratulations to Georgia Brennan as lead author, and thanks to the entire team for a rewarding collaboration across disciplines. </p>
 <p>2025-02-10: I presented our research at the <a href="https://researchseminars.org/seminar/cam">Computational and Applied Mathematics Seminar</a> at Chalmers University of Technology, Gothenburg, Sweden. Thanks so much to the organizers for the invitation. </p>
 <p>2024-01-30: We have a new preprint out: <a href="https://doi.org/10.1101/2025.01.30.635680">In-silico molecular enrichment and clearance of the human intracranial space</a>. Major congratulations to Marius Causemann as lead author for this true team effort. </p>
@@ -92,6 +76,22 @@ TEDxOslo: Mathematics that cures us ([YouTube](https://youtu.be/FW1Z7cSUjmI?si=2
 <p>2024-02-12: Our K. G. Jebsen Center for Brain Fluid Research (<a href="https://stiftkgj.no/nyheter/nytt-k-g-jebsen-senter-for-hjernevaeskeforskning/">in Norwegian</a>, <a href="https://www.simula.no/about/news/new-jebsen-center-research-brain-fluids">in English</a>) has been selected for funding. This interdisciplinary research center will translate fundamental knowledge of brain fluids to clinical medicine targeting personalized theranostics for dementia and brain cancer. </p>
 <p>2024-02-09: We have opened the <a href="https://fenicsproject.org/fenics-2024/">abstract submission for the FEniCS 2024 Conference</a> at Simula Research Laboratory in Oslo, June 12-14 2024. Deadline: April 5 2024.</p>
 <p>2024-02-04: Our paper on <a href="https://link.springer.com/article/10.1007/s10915-023-02449-2">Modeling excitable cells with the EMI equations: spectral analysis and iterative solution strategy</a> is now published in the Journal on Scientific Computing (Springer). Congratulations to Dr. Pietro Benedusi as lead author.</p>
+
+<h3>Research presentations (selection) </h3>
+
+Perivascular pathways and the dimension-2 gap ([Zenodo](https://zenodo.org/doi/10.5281/zenodo.12192254)), 2024
+
+Brains in motion: computational modelling of the brain's waterscape ([Zenodo](https://doi.org/10.5281/zenodo.10687990)), 2024
+
+Such stuff as dreams are made on: a computational tale of optimal transport and brain clearance ([Zenodo](https://doi.org/10.5281/zenodo.7838956), [YouTube](https://youtu.be/bX0Jm8BgF7o?si=uG1M8Yz8qWUNw0vC)), 2022
+ 
+Mathematical modelling of human brain transport: from medical images to biophysical simulation ([Zenodo](https://doi.org/10.5281/zenodo.6401763), [YouTube](https://youtu.be/HSuVn8KJL-w?si=jxmdJGlpKN9JwN-1)), 2022
+
+Understanding the mechanisms of the brain's waterscape ([YouTube](https://youtu.be/Uis7-h3iWug?si=3HQ1_okdAve6NZzF)), 2021
+
+The brain's numerical waterscape ([Zenodo](https://doi.org/10.5281/zenodo.10688045), [YouTube](https://youtu.be/PcCuZiAJlEc?si=ra4Ley3k3btaMNnx)), 2021
+
+TEDxOslo: Mathematics that cures us ([YouTube](https://youtu.be/FW1Z7cSUjmI?si=25TIWt5Lp980GfNl)), 2016 
 
 <h3>Past research projects (selection) </h3>
 

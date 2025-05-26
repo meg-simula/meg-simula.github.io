@@ -47,7 +47,7 @@ and a founding member of the
 
 <h3 id="news">News and highlights (Feb 4 2024 - current)</h3>
 
-<p>2025-05-26: I gave a plenary lecture at <a href="https://coupled2025.cimne.com/">Coupled Problems 2025: the XI International Conference on Coupled Problems in Science and Engineering</a>, Villasimius, Sardinia (May 26-29 2025).</p> Many thanks to the organizers for the invitation.
+<p>2025-05-26: I gave a plenary lecture at <a href="https://coupled2025.cimne.com/">Coupled Problems 2025: the XI International Conference on Coupled Problems in Science and Engineering</a>, Villasimius, Sardinia (May 26-29 2025). Many thanks to the organizers for the invitation. </p>
 <p>2025-04-15: We have a new preprint out: <a href="https://doi.org/10.1101/2025.05.08.652799">Stretch and flow at the gliovascular interface: high-fidelity modelling of the mechanics of astrocyte endfeet</a>. Congratulations to Marius Causemann as lead author, and thanks to Rune Enger for a very fruitful collaboration - as always. </p>
 <p>2025-03-11: We have a new preprint out: <a href="https://doi.org/10.1101/2025.04.15.648743">Advection versus diffusion in brain ventricular transport</a>. Congratulations to Halvor Herlyng as lead author, and thanks to Nathalie Jurisch-Yaksi and her team for a very interesting collaboration. </p>
 <p>2025-03-11: We have a new journal submission out: <a href="">Heterogeneity in human brain clearance adds resilience against tauopathy</a>. Congratulations to Georgia Brennan as lead author, and thanks to the entire team for a rewarding collaboration across disciplines. </p>

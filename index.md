@@ -41,7 +41,7 @@ and a founding member of the
 
 <p>2025-08-20: I will give a keynote talk at the opening conference of the <a href="https://cas-nor.no/news/announcing-cas-projects-20252026">Mathematical challenges in brain mechanics</a> year-of-study at the Center of Advanced Study at the Norwegian Academy of Science and Letters (Aug 20-22 2025) </p>
 
-<p>2025-09-01: I will attend and speak at ENUMATH 2025 in Heidelberg, Germany. <(Sep 1-5 2025) </p> 
+<p>2025-09-01: I will attend and speak in MS69: Multiphysics Computational Modeling of the Brain Function at ENUMATH 2025 in Heidelberg, Germany. <(Sep 1-5 2025) </p> 
 
 <p>2025-09-01: I will participate in the Institut Mittag-Leffler research program on Interfaces and Unfitted Discretization Methods in Stockholm, Sweden (Aug-Dec 2025).</p> 
 

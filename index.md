@@ -37,11 +37,11 @@ and a founding member of the
 
 <h3 id="future">Upcoming events in 2025</h3>
 
-<p>2025-06-24: I will give the opening plenary lecture at the <a href="https://numericalanalysisconference.org.uk/conferences/2025">30th Biennial Numerical Analysis Conference</a>, University of Strathclyde (Jun 24-27 2025).</p> 
+<p>2025-06-24: I will give the opening plenary lecture at the <a href="https://numericalanalysisconference.org.uk/conferences/2025">30th Biennial Numerical Analysis Conference</a>, University of Strathclyde (Jun 24-27 2025) </p> 
 
 <p>2025-08-20: I will give a keynote talk at the opening conference of the <a href="https://cas-nor.no/news/announcing-cas-projects-20252026">Mathematical challenges in brain mechanics</a> year-of-study at the Center of Advanced Study at the Norwegian Academy of Science and Letters (Aug 20-22 2025) </p>
 
-<p>2025-09-01: I will attend and speak at ENUMATH 2025 in Heidelberg, Germany. <(Sep 1-5 2025) /p> 
+<p>2025-09-01: I will attend and speak at ENUMATH 2025 in Heidelberg, Germany. <(Sep 1-5 2025) </p> 
 
 <p>2025-09-01: I will participate in the Institut Mittag-Leffler research program on Interfaces and Unfitted Discretization Methods in Stockholm, Sweden (Aug-Dec 2025).</p> 
 

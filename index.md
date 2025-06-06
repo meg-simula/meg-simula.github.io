@@ -37,20 +37,22 @@ and a founding member of the
 
 <h3 id="future">Upcoming events in 2025</h3>
 
-<p>2025-05-26: Paola Antonietti, Ivan Fumagalli, Miroslav Kuchta and I are organizing a minisymposium on <a href="https://coupled2025.cimne.com/event/area/6db76a95-7f16-11ef-a6b7-000c29ddfc0c">Computational brain multiphysics</a> at <a href="https://coupled2025.cimne.com/">Coupled Problems 2025</a>. </p>
-
-<p>2025-06-24: I will give a plenary lecture at the <a href="https://numericalanalysisconference.org.uk/conferences/2025">30th Biennial Numerical Analysis Conference</a>, University of Strathclyde (Jun 24-27 2025).</p> 
+<p>2025-06-24: I will give the opening plenary lecture at the <a href="https://numericalanalysisconference.org.uk/conferences/2025">30th Biennial Numerical Analysis Conference</a>, University of Strathclyde (Jun 24-27 2025).</p> 
 
 <p>2025-08-20: I will give a keynote talk at the opening conference of the <a href="https://cas-nor.no/news/announcing-cas-projects-20252026">Mathematical challenges in brain mechanics</a> year-of-study at the Center of Advanced Study at the Norwegian Academy of Science and Letters (Aug 20-22 2025) </p>
+
+<p>2025-09-01: I will attend and speak at ENUMATH 2025 in Heidelberg, Germany. <(Sep 1-5 2025) /p> 
 
 <p>2025-09-01: I will participate in the Institut Mittag-Leffler research program on Interfaces and Unfitted Discretization Methods in Stockholm, Sweden (Aug-Dec 2025).</p> 
 
 <h3 id="news">News and highlights (Feb 4 2024 - current)</h3>
 
+<p>2025-05-26: Paola Antonietti, Ivan Fumagalli, Miroslav Kuchta and I organized a minisymposium on <a href="https://coupled2025.cimne.com/event/area/6db76a95-7f16-11ef-a6b7-000c29ddfc0c">Computational brain multiphysics</a> at <a href="https://coupled2025.cimne.com/">Coupled Problems 2025</a>. </p>
+
 <p>2025-05-26: I gave a plenary lecture at <a href="https://coupled2025.cimne.com/">Coupled Problems 2025: the XI International Conference on Coupled Problems in Science and Engineering</a>, Villasimius, Sardinia (May 26-29 2025). Many thanks to the organizers for the invitation. </p>
 <p>2025-05-08: We have a new preprint out: <a href="https://doi.org/10.1101/2025.05.08.652799">Stretch and flow at the gliovascular interface: high-fidelity modelling of the mechanics of astrocyte endfeet</a>. Congratulations to Marius Causemann as lead author, and thanks to Rune Enger for a very fruitful collaboration - as always. </p>
 <p>2025-04-15: We have a new preprint out: <a href="https://doi.org/10.1101/2025.04.15.648743">Advection versus diffusion in brain ventricular transport</a>. Congratulations to Halvor Herlyng as lead author, and thanks to Nathalie Jurisch-Yaksi and her team for a very interesting collaboration. </p>
-<p>2025-03-11: We have a new journal submission out: <a href="">Heterogeneity in human brain clearance adds resilience against tauopathy</a>. Congratulations to Georgia Brennan as lead author, and thanks to the entire team for a rewarding collaboration across disciplines. </p>
+<p>2025-03-11: We have a new journal submission out: <a href="https://doi.org/10.1101/2025.06.03.657596">Heterogeneity in human brain clearance adds resilience against tauopathy</a>. Congratulations to Georgia Brennan as lead author, and thanks to the entire team for a rewarding collaboration across disciplines. </p>
 <p>2025-02-10: I presented our research at the <a href="https://researchseminars.org/seminar/cam">Computational and Applied Mathematics Seminar</a> at Chalmers University of Technology, Gothenburg, Sweden. Thanks so much to the organizers for the invitation. </p>
 <p>2024-01-30: We have a new preprint out: <a href="https://doi.org/10.1101/2025.01.30.635680">In-silico molecular enrichment and clearance of the human intracranial space</a>. Major congratulations to Marius Causemann as lead author for this true team effort. </p>
 <p>2025-01-07: Our paper on <a href="https://doi.org/10.1038/s43588-024-00745-x">Spatial modeling algorithms for reactions and transport in biological cells</a> is published in Nature Computational Science. Congratulations to lead author Emmet Francis and the whole crew!</p>

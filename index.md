@@ -35,13 +35,15 @@ and a founding member of the
 
 <h3 id="future">Upcoming events</h3>
 
-<p>2026-01-15: I will visit and give a guest lecture at MOX, Politecnico di Milano, Italy (Jan 12-13 2025).</p> 
+<p>2025-09-01: I will participate in the Institut Mittag-Leffler research program on Interfaces and Unfitted Discretization Methods in Stockholm, Sweden (Sept 7-12 2025). Thanks to the organizers for the invitation and for organizing this wonderful event.</p> 
+
+<p>2025-10-14: Our K. G. Jebsen Centre for Brain Fluid Research is organizing the Annual meeting for K. G. Jebsen Centres for Medical Research at Refsnes Gods, Norway (Oct 14-15 2025).</p> 
 
 <p>2025-11-12: I will participate in the Symposium on Computational Science-Quo Vadis (CSQV 2025) in Trondheim, Norway (Nov 12-13 2025).</p> 
 
-<p>2025-10-14: The K. G. Jebsen Centre for Brain Fluid Research is organizing the Annual meetings for all K. G. Jebsen Centres for Medical Research at Refsnes Gods, Norway (Oct 14-15 2025).</p> 
+<p>2025-11-25: We are organizing a 2-day workshop on [Mathematical Challenges in Brain Mechanics](https://cas-nor.no/project/mathematical-challenges-brain-mechanics) in association with the Centre for Advanced Study followed by the Oslo Brain Fluid Symposium at Simula Research Laboratory on Nov 25-27 2025. Feel free to reach out to me if you are interested in participating in either or both of these events.</p> 
 
-<p>2025-09-01: I will participate in the Institut Mittag-Leffler research program on Interfaces and Unfitted Discretization Methods in Stockholm, Sweden (Sept 7-12 2025).</p> 
+<p>2026-01-15: I will visit and give a [Colloquium at MOX](https://mox.polimi.it/mox-colloquia-seminars-list/), Politecnico di Milano, Italy (Jan 12-13 2026). </p> 
 
 <h3 id="news">News and highlights (Feb 4 2024 - current)</h3>
 
@@ -49,7 +51,7 @@ and a founding member of the
 
 <p>2025-08-20: I gave a keynote talk at the opening conference of the <a href="https://cas-nor.no/news/announcing-cas-projects-20252026">Mathematical challenges in brain mechanics</a> year-of-study at the Center of Advanced Study at the Norwegian Academy of Science and Letters (Aug 20-22 2025) </p>
 
-<p>2025-06-24: I gave the opening plenary lecture at the <a href="https://numericalanalysisconference.org.uk/conferences/2025">30th Biennial Numerical Analysis Conference</a>, University of Strathclyde (Jun 24-27 2025). Wonderful time in Scotland, thank you to the conference organizers. </p> 
+<p>2025-06-24: I gave the opening plenary lecture at the <a href="https://numericalanalysisconference.org.uk/conferences/2025">30th Biennial Numerical Analysis Conference</a>, University of Strathclyde (Jun 24-27 2025). Fantastic time in Scotland, thank you to the conference organizers. </p> 
 
 
 <p>2025-05-26: Paola Antonietti, Ivan Fumagalli, Miroslav Kuchta and I organized a minisymposium on <a href="https://coupled2025.cimne.com/event/area/6db76a95-7f16-11ef-a6b7-000c29ddfc0c">Computational brain multiphysics</a> at <a href="https://coupled2025.cimne.com/">Coupled Problems 2025</a>. </p>
@@ -102,7 +104,7 @@ TEDxOslo: Mathematics that cures us ([YouTube](https://youtu.be/FW1Z7cSUjmI?si=2
 
 <h3>Past research projects (selection) </h3>
 
-[Exciting times: extreme modelling of excitable tissue (EMIx)](https://www.simula.no/research/projects/exciting-times-extreme-modelling-excitable-tissue-emix) , a Research Council of Norway (RCN) FRIPRO Researcher project for scientific renewal, 2021-2025 (Project leader). Read about the project results here: [EMIx in a nutshell (2021-2025)](https://meg-simula.github.io//files/emix-in-a-nutshell.pdf)
+[Exciting times: extreme modelling of excitable tissue (EMIx)](https://www.simula.no/research/projects/exciting-times-extreme-modelling-excitable-tissue-emix) , a Research Council of Norway (RCN) FRIPRO Researcher project for scientific renewal, 2021-2025 (Project leader). Read about the project here: [EMIx in a nutshell (2021-2025)](https://meg-simula.github.io//files/emix-in-a-nutshell.pdf)
 
 [Mathematical and computational foundations for modelling cerebral fluid flow (Waterscales)](https://www.simula.no/research/projects/waterscales-mathematical-and-computational-foundations-modeling-cerebral-fluid), a European Research Council Starting Grant in Mathematics, 2016-2023 (Project leader). Read about the project results here: [Rognes, Waterscales, Eur. Math. Soc. Mag. 126 (2022)](https://euromathsoc.org/magazine/articles/115)
  

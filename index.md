@@ -35,15 +35,15 @@ and a founding member of the
 
 <h3 id="future">Upcoming events</h3>
 
-<p>2025-09-01: I will participate in the Institut Mittag-Leffler research program on [Interfaces and Unfitted Discretization Methods](https://www.mittag-leffler.se/activities/interfaces-and-unfitted-discretization-methods/) in Stockholm, Sweden (Sept 7-12 2025). Thanks to the organizers for the invitation and for organizing this wonderful event.</p> 
+<p>2025-09-01: I will participate in the Institut Mittag-Leffler research program on <a href="https://www.mittag-leffler.se/activities/interfaces-and-unfitted-discretization-methods/">Interfaces and Unfitted Discretization Methods</a> in Stockholm, Sweden (Sept 7-12 2025). Thanks to the organizers for the invitation and for organizing this wonderful event.</p> 
 
 <p>2025-10-14: Our K. G. Jebsen Centre for Brain Fluid Research is organizing the Annual meeting for the K. G. Jebsen Centres for Medical Research at Refsnes Gods, Norway (Oct 14-15 2025).</p> 
 
 <p>2025-11-12: I will participate in the Symposium on Computational Science-Quo Vadis (CSQV 2025) in Trondheim, Norway (Nov 12-13 2025).</p> 
 
-<p>2025-11-25: We are organizing a 2-day workshop on [Mathematical Challenges in Brain Mechanics](https://cas-nor.no/project/mathematical-challenges-brain-mechanics) in association with the Centre for Advanced Study followed by the Oslo Brain Fluid Symposium at Simula Research Laboratory on Nov 25-27 2025. Feel free to reach out to me if you are interested in participating in either or both of these events.</p> 
+<p>2025-11-25: We are organizing a 2-day workshop on <a href="https://cas-nor.no/project/mathematical-challenges-brain-mechanics">Mathematical Challenges in Brain Mechanics</a> in association with the Centre for Advanced Study followed by the Oslo Brain Fluid Symposium at Simula Research Laboratory on Nov 25-27 2025. Feel free to reach out to me if you are interested in participating in either or both of these events.</p> 
 
-<p>2026-01-15: I will visit and give a [Colloquium at MOX](https://mox.polimi.it/mox-colloquia-seminars-list/), Politecnico di Milano, Italy (Jan 12-13 2026). </p> 
+<p>2026-01-15: I am looking forward to visiting and giving a <a href="https://mox.polimi.it/mox-colloquia-seminars-list/">Colloquium at MOX</a>, Politecnico di Milano, Italy (Jan 12-13 2026). </p> 
 
 <h3 id="news">News and highlights (Feb 4 2024 - current)</h3>
 

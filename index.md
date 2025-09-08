@@ -33,7 +33,7 @@ and a founding member of the
 
 [AUTORHYTHM – the role of autophagy in healthy aging](https://www.uio.no/english/research/strategic-research-areas/life-science/research/convergence-environments/autorhythm/), a life science convergence environment, 2022-2026 (Principal investigator)
 
-<h3 id="future">Upcoming events</h3>
+<h3 id="future">Upcoming events (selection)</h3>
 
 <p>2025-09-01: I will participate in the Institut Mittag-Leffler research program on <a href="https://www.mittag-leffler.se/activities/interfaces-and-unfitted-discretization-methods/">Interfaces and Unfitted Discretization Methods</a> in Stockholm, Sweden (Sept 7-12 2025). Thanks to the organizers for the invitation and for organizing this wonderful event.</p> 
 
@@ -43,7 +43,7 @@ and a founding member of the
 
 <p>2025-11-25: We are organizing a 2-day workshop on <a href="https://cas-nor.no/project/mathematical-challenges-brain-mechanics">Mathematical Challenges in Brain Mechanics</a> in association with the Centre for Advanced Study Nov 25-26, followed by the Oslo Brain Fluid Symposium at Simula Research Laboratory on Nov 27 2025. Feel free to reach out to me if you are interested in participating in either or both of these events.</p> 
 
-<p>2026-01-15: I am looking forward to visiting and giving a <a href="https://mox.polimi.it/mox-colloquia-seminars-list/">Colloquium at MOX</a>, Politecnico di Milano, Italy (Jan 12-13 2026). </p> 
+<p>2026-01-15: I am looking forward to visiting and giving a <a href="https://mox.polimi.it/mox-colloquia-seminars-list/">Colloquium at MOX</a>, Politecnico di Milano, Italy (Jan 15-17 2026). </p> 
 
 <p>2026-01-15: I will participate in the Erwin Schrödinger Institut Thematic Programme on <a href="https://www.esi.ac.at/events/e585/">Differential Complexes: Theory, Discretization, and Applications</a> (May 4-8 2026). </p> 
 

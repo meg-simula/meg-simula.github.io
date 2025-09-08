@@ -12,7 +12,7 @@ at [Simula Research Laboratory](https://www.simula.no) in Oslo, Norway
 and Deputy Director of the [K. G. Jebsen Centre for Brain Fluid
 Research](https://www.med.uio.no/klinmed/forskning/sentre/kg-jebsen-hjerneveske/index.html).
 
-My research spans applied mathematics, scientific computing and
+My research spans applied mathematics , scientific computing and
 computational physiology, targeting frontier research both in
 computational mathematics and in the neurosciences. For publications
 and bio, see Marie E. Rognes at [Google
@@ -25,7 +25,7 @@ and a founding member of the
 [Dolfin-adjoint](https://www.dolfin-adjoint.org/en/latest/) project
 (2011--).
 
-Our research project [Exciting times: extreme modelling of excitable tissue (EMIx)](https://www.simula.no/research/projects/exciting-times-extreme-modelling-excitable-tissue-emix) recently ended. Read more: [EMIx in a nutshell (2021-2025)](https://meg-simula.github.io//files/emix-in-a-nutshell.pdf)
+Our research project [Exciting times: extreme modelling of excitable tissue (EMIx)](https://www.simula.no/research/projects/exciting-times-extreme-modelling-excitable-tissue-emix) recently ended. For a high-level glimpse into our activities, see: [EMIx in a nutshell (2021-2025)](https://meg-simula.github.io//files/emix-in-a-nutshell.pdf).
 
 <h3>Current research projects </h3>
 

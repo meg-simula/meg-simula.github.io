@@ -25,6 +25,8 @@ and a founding member of the
 [Dolfin-adjoint](https://www.dolfin-adjoint.org/en/latest/) project
 (2011--).
 
+Our research project [Exciting times: extreme modelling of excitable tissue (EMIx)](https://www.simula.no/research/projects/exciting-times-extreme-modelling-excitable-tissue-emix) recently ended. Read more: [EMIx in a nutshell (2021-2025)](https://meg-simula.github.io//files/emix-in-a-nutshell.pdf)
+
 <h3>Current research projects </h3>
 
 [K. G. Jebsen Center for Brain Fluid Research](https://www.med.uio.no/klinmed/forskning/sentre/kg-jebsen-hjerneveske/), funded by the K. G. Jebsen Foundation, 2024--2029 (Deputy Director and Principal investigator)
@@ -45,7 +47,7 @@ and a founding member of the
 
 <p>2026-01-15: I am looking forward to visiting and giving a <a href="https://mox.polimi.it/mox-colloquia-seminars-list/">Colloquium at MOX</a>, Politecnico di Milano, Italy (Jan 15-17 2026). </p> 
 
-<p>2026-01-15: I will participate in the Erwin Schrödinger Institut Thematic Programme on <a href="https://www.esi.ac.at/events/e585/">Differential Complexes: Theory, Discretization, and Applications</a> (May 4-8 2026). </p> 
+<p>2026-05-04: I will participate in the Erwin Schrödinger Institut Thematic Programme on <a href="https://www.esi.ac.at/events/e585/">Differential Complexes: Theory, Discretization, and Applications</a> (May 4-8 2026). </p> 
 
 <p>2027-06-06: I will speak at the biennial European Mathematical Society School on Applied Mathematics at Kácov, Czech Republic (June 6-11 2027). </p> 
 

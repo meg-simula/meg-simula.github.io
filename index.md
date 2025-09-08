@@ -12,10 +12,10 @@ at [Simula Research Laboratory](https://www.simula.no) in Oslo, Norway
 and Deputy Director of the [K. G. Jebsen Centre for Brain Fluid
 Research](https://www.med.uio.no/klinmed/forskning/sentre/kg-jebsen-hjerneveske/index.html).
 
-My research spans applied and computational mathematics, scientific
-computing and computational physiology, targeting dual scientific
-impact in mathematics and in the life sciences. For publications and
-bio, see Marie E. Rognes at [Google
+My research spans applied mathematics, scientific computing and
+computational physiology, targeting frontier research both in
+computational mathematics and in the neurosciences. For publications
+and bio, see Marie E. Rognes at [Google
 scholar](https://scholar.google.com/citations?user=BHyQJSAAAAAJ&hl=en)
 and [ORCID](https://orcid.org/0000-0002-6872-3710).
 
@@ -31,21 +31,26 @@ and a founding member of the
 
 [FEniCS in the Wild: Next-generation simulation and learning in imaging-based biomedicine](https://www.simula.no/about/news/funding-awarded-next-generation-simulation-learning-imaging-based-biomedicine), funded by the Wellcome Trust, 2024--2026 (Project leader)
 
-[Exciting times: extreme modelling of excitable tissue (EMIx)](https://www.simula.no/research/projects/exciting-times-extreme-modelling-excitable-tissue-emix) , a Research Council of Norway (RCN) FRIPRO Researcher project for scientific renewal, 2021-2025 (Project leader)
- 
 [AUTORHYTHM – the role of autophagy in healthy aging](https://www.uio.no/english/research/strategic-research-areas/life-science/research/convergence-environments/autorhythm/), a life science convergence environment, 2022-2026 (Principal investigator)
 
-<h3 id="future">Upcoming events in 2025</h3>
+<h3 id="future">Upcoming events</h3>
 
-<p>2025-06-24: I will give the opening plenary lecture at the <a href="https://numericalanalysisconference.org.uk/conferences/2025">30th Biennial Numerical Analysis Conference</a>, University of Strathclyde (Jun 24-27 2025) </p> 
+<p>2026-01-15: I will visit and give a guest lecture at MOX, Politecnico di Milano, Italy (Jan 12-13 2025).</p> 
 
-<p>2025-08-20: I will give a keynote talk at the opening conference of the <a href="https://cas-nor.no/news/announcing-cas-projects-20252026">Mathematical challenges in brain mechanics</a> year-of-study at the Center of Advanced Study at the Norwegian Academy of Science and Letters (Aug 20-22 2025) </p>
+<p>2025-11-12: I will participate in the Symposium on Computational Science-Quo Vadis (CSQV 2025) in Trondheim, Norway (Nov 12-13 2025).</p> 
 
-<p>2025-09-01: I will attend and speak in MS69: Multiphysics Computational Modeling of the Brain Function at <a href="https://enumath2025.eu/">ENUMATH 2025</a> in Heidelberg, Germany (Sep 1-5 2025) </p> 
+<p>2025-10-14: The K. G. Jebsen Centre for Brain Fluid Research is organizing the Annual meetings for all K. G. Jebsen Centres for Medical Research at Refsnes Gods, Norway (Oct 14-15 2025).</p> 
 
-<p>2025-09-01: I will participate in the Institut Mittag-Leffler research program on Interfaces and Unfitted Discretization Methods in Stockholm, Sweden (Aug-Dec 2025).</p> 
+<p>2025-09-01: I will participate in the Institut Mittag-Leffler research program on Interfaces and Unfitted Discretization Methods in Stockholm, Sweden (Sept 7-12 2025).</p> 
 
 <h3 id="news">News and highlights (Feb 4 2024 - current)</h3>
+
+<p>2025-09-01: I presented at MS69: Multiphysics Computational Modeling of the Brain Function at <a href="https://enumath2025.eu/">ENUMATH 2025</a> in Heidelberg, Germany (Sep 1-5 2025). Thanks to the organizers for the invitation and event! </p> 
+
+<p>2025-08-20: I gave a keynote talk at the opening conference of the <a href="https://cas-nor.no/news/announcing-cas-projects-20252026">Mathematical challenges in brain mechanics</a> year-of-study at the Center of Advanced Study at the Norwegian Academy of Science and Letters (Aug 20-22 2025) </p>
+
+<p>2025-06-24: I gave the opening plenary lecture at the <a href="https://numericalanalysisconference.org.uk/conferences/2025">30th Biennial Numerical Analysis Conference</a>, University of Strathclyde (Jun 24-27 2025). Wonderful time in Scotland, thank you to the conference organizers. </p> 
+
 
 <p>2025-05-26: Paola Antonietti, Ivan Fumagalli, Miroslav Kuchta and I organized a minisymposium on <a href="https://coupled2025.cimne.com/event/area/6db76a95-7f16-11ef-a6b7-000c29ddfc0c">Computational brain multiphysics</a> at <a href="https://coupled2025.cimne.com/">Coupled Problems 2025</a>. </p>
 
@@ -96,6 +101,8 @@ The brain's numerical waterscape ([Zenodo](https://doi.org/10.5281/zenodo.106880
 TEDxOslo: Mathematics that cures us ([YouTube](https://youtu.be/FW1Z7cSUjmI?si=25TIWt5Lp980GfNl)), 2016 
 
 <h3>Past research projects (selection) </h3>
+
+[Exciting times: extreme modelling of excitable tissue (EMIx)](https://www.simula.no/research/projects/exciting-times-extreme-modelling-excitable-tissue-emix) , a Research Council of Norway (RCN) FRIPRO Researcher project for scientific renewal, 2021-2025 (Project leader). Read about the project results here: [EMIx in a nutshell (2021-2025)](https://meg-simula.github.io//files/emix-in-a-nutshell.pdf)
 
 [Mathematical and computational foundations for modelling cerebral fluid flow (Waterscales)](https://www.simula.no/research/projects/waterscales-mathematical-and-computational-foundations-modeling-cerebral-fluid), a European Research Council Starting Grant in Mathematics, 2016-2023 (Project leader). Read about the project results here: [Rognes, Waterscales, Eur. Math. Soc. Mag. 126 (2022)](https://euromathsoc.org/magazine/articles/115)
  

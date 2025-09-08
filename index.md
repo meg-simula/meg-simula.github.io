@@ -41,9 +41,13 @@ and a founding member of the
 
 <p>2025-11-12: I will participate in the Symposium on Computational Science-Quo Vadis (CSQV 2025) in Trondheim, Norway (Nov 12-13 2025).</p> 
 
-<p>2025-11-25: We are organizing a 2-day workshop on <a href="https://cas-nor.no/project/mathematical-challenges-brain-mechanics">Mathematical Challenges in Brain Mechanics</a> in association with the Centre for Advanced Study followed by the Oslo Brain Fluid Symposium at Simula Research Laboratory on Nov 25-27 2025. Feel free to reach out to me if you are interested in participating in either or both of these events.</p> 
+<p>2025-11-25: We are organizing a 2-day workshop on <a href="https://cas-nor.no/project/mathematical-challenges-brain-mechanics">Mathematical Challenges in Brain Mechanics</a> in association with the Centre for Advanced Study Nov 25-26, followed by the Oslo Brain Fluid Symposium at Simula Research Laboratory on Nov 27 2025. Feel free to reach out to me if you are interested in participating in either or both of these events.</p> 
 
 <p>2026-01-15: I am looking forward to visiting and giving a <a href="https://mox.polimi.it/mox-colloquia-seminars-list/">Colloquium at MOX</a>, Politecnico di Milano, Italy (Jan 12-13 2026). </p> 
+
+<p>2026-01-15: I will participate in the Erwin Schrödinger Institut Thematic Programme on <a href="https://www.esi.ac.at/events/e585/">Differential Complexes: Theory, Discretization, and Applications</a> (May 4-8 2026). </p> 
+
+<p>2027-06-06: I will speak at the biennial European Mathematical Society School on Applied Mathematics at Kácov, Czech Republic (June 6-11 2027). </p> 
 
 <h3 id="news">News and highlights (Feb 4 2024 - current)</h3>
 

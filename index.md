@@ -35,7 +35,7 @@ Our research project [Exciting times: extreme modelling of excitable tissue (EMI
 
 <h3 id="future">Upcoming events (selection)</h3>
 
-<p>2025-09-01: I will participate in the Institut Mittag-Leffler research program on <a href="https://www.mittag-leffler.se/activities/interfaces-and-unfitted-discretization-methods/">Interfaces and Unfitted Discretization Methods</a> in Stockholm, Sweden (Sept 7-12 2025). Thanks to the organizers for the invitation and for organizing this wonderful event.</p> 
+<p>2025-09-01: I will participate and give a seminar in the Institut Mittag-Leffler research program on <a href="https://www.mittag-leffler.se/activities/interfaces-and-unfitted-discretization-methods/">Interfaces and Unfitted Discretization Methods</a> in Stockholm, Sweden (Sept 7-12 2025). Thanks to the organizers for the invitation and for organizing this wonderful event.</p> 
 
 <p>2025-10-14: Our K. G. Jebsen Centre for Brain Fluid Research is organizing the Annual meeting for the K. G. Jebsen Centres for Medical Research at Refsnes Gods, Norway (Oct 14-15 2025).</p> 
 

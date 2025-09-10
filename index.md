@@ -17,7 +17,7 @@ computational physiology, targeting frontier research both in
 computational mathematics and in the neurosciences. For publications
 and bio, see Marie E. Rognes at [Google
 scholar](https://scholar.google.com/citations?user=BHyQJSAAAAAJ&hl=en)
-and [ORCID](https://orcid.org/0000-0002-6872-3710).
+and [ORCID](https://orcid.org/0000-0002-6872-3710). For a presentation of our current lines of research, see <a href="https://doi.org/10.5281/zenodo.17093210">Brain membranes and vasculature: a computational mathematics tale of dimensional gaps (pdf)</a>.
 
 I have been a core developer (2007--2024) and Steering Council Member
 (2016--2024) of the [FEniCS Project](https://www.fenicsproject.org)
@@ -27,7 +27,6 @@ and a founding member of the
 
 Our research project [Exciting times: extreme modelling of excitable tissue (EMIx)](https://www.simula.no/research/projects/exciting-times-extreme-modelling-excitable-tissue-emix) recently ended. For a high-level glimpse into our activities, see: [EMIx in a nutshell (pdf)](https://meg-simula.github.io//files/emix-in-a-nutshell.pdf).
 
-For a more detailed glimpse into our current research, see <a href="https://doi.org/10.5281/zenodo.17093210">Brain membranes and vasculature: a computational mathematics tale of dimensional gaps (pdf)</a>
 
 <h3>Current research projects </h3>
 

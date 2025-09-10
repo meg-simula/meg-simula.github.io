@@ -15,9 +15,7 @@ Research](https://www.med.uio.no/klinmed/forskning/sentre/kg-jebsen-hjerneveske/
 My research spans applied mathematics , scientific computing and
 computational physiology, targeting frontier research both in
 computational mathematics and in the neurosciences. For publications
-and bio, see Marie E. Rognes at [Google
-scholar](https://scholar.google.com/citations?user=BHyQJSAAAAAJ&hl=en)
-and [ORCID](https://orcid.org/0000-0002-6872-3710). For a presentation of our current lines of research, see <a href="https://doi.org/10.5281/zenodo.17093210">Brain membranes and vasculature: a computational mathematics tale of dimensional gaps (pdf)</a>.
+and bio, see Marie E. Rognes at [Google scholar](https://scholar.google.com/citations?user=BHyQJSAAAAAJ&hl=en) and [ORCID](https://orcid.org/0000-0002-6872-3710). For a presentation of our current lines of research, see <a href="https://doi.org/10.5281/zenodo.17093210">Brain membranes and vasculature: a computational mathematics tale of dimensional gaps</a>.
 
 I have been a core developer (2007--2024) and Steering Council Member
 (2016--2024) of the [FEniCS Project](https://www.fenicsproject.org)

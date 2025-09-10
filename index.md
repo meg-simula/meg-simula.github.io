@@ -25,7 +25,9 @@ and a founding member of the
 [Dolfin-adjoint](https://www.dolfin-adjoint.org/en/latest/) project
 (2011--).
 
-Our research project [Exciting times: extreme modelling of excitable tissue (EMIx)](https://www.simula.no/research/projects/exciting-times-extreme-modelling-excitable-tissue-emix) recently ended. For a high-level glimpse into our activities, see: [EMIx in a nutshell (2021-2025)](https://meg-simula.github.io//files/emix-in-a-nutshell.pdf).
+Our research project [Exciting times: extreme modelling of excitable tissue (EMIx)](https://www.simula.no/research/projects/exciting-times-extreme-modelling-excitable-tissue-emix) recently ended. For a high-level glimpse into our activities, see: [EMIx in a nutshell (pdf)](https://meg-simula.github.io//files/emix-in-a-nutshell.pdf).
+
+For a more detailed glimpse into our current research, see <a href="https://doi.org/10.5281/zenodo.17093210">Brain membranes and vasculature: a computational mathematics tale of dimensional gaps (pdf)</a>
 
 <h3>Current research projects </h3>
 

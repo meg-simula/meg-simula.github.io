@@ -35,23 +35,27 @@ Our research project [Exciting times: extreme modelling of excitable tissue (EMI
 
 <h3 id="future">Upcoming events (selection)</h3>
 
-<p>2025-09-01: I will participate and give a seminar in the Institut Mittag-Leffler research program on <a href="https://www.mittag-leffler.se/activities/interfaces-and-unfitted-discretization-methods/">Interfaces and Unfitted Discretization Methods</a> in Stockholm, Sweden (Sept 7-12 2025). Thanks to the organizers for the invitation and for organizing this wonderful event.</p> 
-
-<p>2025-10-14: Our K. G. Jebsen Centre for Brain Fluid Research is organizing the Annual meeting for the K. G. Jebsen Centres for Medical Research at Refsnes Gods, Norway (Oct 14-15 2025).</p> 
-
 <p>2025-11-12: I will participate in the Symposium on Computational Science-Quo Vadis (CSQV 2025) in Trondheim, Norway (Nov 12-13 2025).</p> 
 
-<p>2025-11-25: We are organizing a 2-day workshop on <a href="https://cas-nor.no/project/mathematical-challenges-brain-mechanics">Mathematical Challenges in Brain Mechanics</a> in association with the Centre for Advanced Study Nov 25-26, followed by the Oslo Brain Fluid Symposium at Simula Research Laboratory on Nov 27 2025. Feel free to reach out to me if you are interested in participating in either or both of these events.</p> 
+<p>2025-11-25: Ivan Yotov and I are organizing a 2-day workshop on <a href="https://cas-nor.no/project/mathematical-challenges-brain-mechanics">Mathematical Challenges in Brain Mechanics</a> in association with the Centre for Advanced Study Nov 25-26, followed by the Oslo Brain Fluid Symposium at Simula Research Laboratory on Nov 27 2025. Feel free to reach out to me if you are interested in participating in either or both of these events.</p> 
 
 <p>2026-01-15: I am looking forward to visiting and giving a <a href="https://mox.polimi.it/mox-colloquia-seminars-list/">Colloquium at MOX</a>, Politecnico di Milano, Italy (Jan 15-17 2026). </p> 
+
+<p>2026-03-17: I've been invited to speak at the ISMRM Workshop on Fluids, Flows & Clearance in the Brain: What Can We Image & How Should It Be Interpreted? at Yale University, New Haven, CT, US (Mar 17-19 2026) </p> 
 
 <p>2026-05-04: I will participate in the Erwin Schrödinger Institut Thematic Programme on <a href="https://www.esi.ac.at/events/e585/">Differential Complexes: Theory, Discretization, and Applications</a> (May 4-8 2026). </p> 
 
 <p>2026-07-24: Matthias Mayr, Paolo Zunino and I are organizing a minisymposium on "Mixed-dimensional modeling: advances in modeling, numerical methods and applications" at the <a href="https://wccm-eccomas2026.org/">WCCM-ECCOMAS2026</a>, Münich, Germany (July 19-24 2026). </p> 
 
-<p>2027-06-06: I will speak at the biennial European Mathematical Society School on Applied Mathematics at Kácov, Czech Republic (June 6-11 2027). </p> 
+<p>2026-11-17: I've accepted the invitation to speak in the minisymposium on Computational Glioscience at the 28th meeting of the French Glial Cell Club, Sète, France (Nov 17-20, 2026). </p>
+
+<p>2027-06-06: I will lecture at the biennial European Mathematical Society School on Applied Mathematics at Kácov, Czech Republic (June 6-11 2027). </p> 
 
 <h3 id="news">News and highlights (Feb 4 2024 - current)</h3>
+
+<p>2025-10-14: Our K. G. Jebsen Centre for Brain Fluid Research organized the Annual meeting for the K. G. Jebsen Centres for Medical Research at Refsnes Gods, Norway (Oct 14-15 2025).</p> 
+
+<p>2025-09-01: I participated and givgave a seminar in the Institut Mittag-Leffler research program on <a href="https://www.mittag-leffler.se/activities/interfaces-and-unfitted-discretization-methods/">Interfaces and Unfitted Discretization Methods</a> in Stockholm, Sweden (Sept 7-12 2025). Thanks to the organizers for the invitation and for organizing this wonderful event.</p> 
 
 <p>2025-09-01: I presented at MS69: Multiphysics Computational Modeling of the Brain Function at <a href="https://enumath2025.eu/">ENUMATH 2025</a> in Heidelberg, Germany (Sep 1-5 2025). Thanks to the organizers for the invitation and event! </p> 
 

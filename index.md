@@ -54,7 +54,7 @@ simulation of electrodiffusion in dense reconstructions of cerebral
 tissue</a> for the 50th Anniversary Woudschoten Conference book is now
 on arXiv. Congratulations to Halvor Herlyng as lead author. </p>
 
-<p>2025-11-27: I organized our annual <a href="https://www.med.uio.no/klinmed/forskning/sentre/kg-jebsen-hjerneveske/aktuelt/arrangementer/2025/oslo-brain-fluid-symposium-2025.html">Oslo Brain Fluid Symposium</a> at Simula on Nov 27. This was the 8th edition of this meeting, with nearly 60 participants. Thanks to all participants and speakers, inspiring as always.</p> 
+<p>2025-11-27: On behalf of the K. G. Jebsen Centre for Brain Fluid Research, I organized our annual <a href="https://www.med.uio.no/klinmed/forskning/sentre/kg-jebsen-hjerneveske/aktuelt/arrangementer/2025/oslo-brain-fluid-symposium-2025.html">Oslo Brain Fluid Symposium</a> at Simula on Nov 27. This was the 8th edition of this meeting, with nearly 60 participants. Thanks to all participants and speakers, inspiring as always.</p> 
 
 <p>2025-11-25: Ivan Yotov and I organized a 2-day workshop on <a href="https://cas-nor.no/project/mathematical-challenges-brain-mechanics">Mathematical Challenges in Brain Mechanics</a> in association with the Centre for Advanced Study Nov 25-26. Thanks to all speakers and participants.</p> 
 

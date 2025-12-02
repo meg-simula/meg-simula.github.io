@@ -27,7 +27,7 @@ Our research project [Exciting times: extreme modelling of excitable tissue (EMI
 
 <h3>Current research projects </h3>
 
-[K. G. Jebsen Center for Brain Fluid Research](https://www.med.uio.no/klinmed/forskning/sentre/kg-jebsen-hjerneveske/), funded by the K. G. Jebsen Foundation, 2024--2029 (Deputy Director and Principal investigator)
+[K. G. Jebsen Centre for Brain Fluid Research](https://www.med.uio.no/klinmed/forskning/sentre/kg-jebsen-hjerneveske/), funded by the K. G. Jebsen Foundation, 2024--2029 (Deputy Director and Principal investigator)
 
 [FEniCS in the Wild: Next-generation simulation and learning in imaging-based biomedicine](https://www.simula.no/about/news/funding-awarded-next-generation-simulation-learning-imaging-based-biomedicine), funded by the Wellcome Trust, 2024--2026 (Project leader)
 
@@ -58,7 +58,7 @@ on arXiv. Congratulations to Halvor Herlyng as lead author. </p>
 
 <p>2025-11-27: On behalf of the K. G. Jebsen Centre for Brain Fluid Research, I organized our annual <a href="https://www.med.uio.no/klinmed/forskning/sentre/kg-jebsen-hjerneveske/aktuelt/arrangementer/2025/oslo-brain-fluid-symposium-2025.html">Oslo Brain Fluid Symposium</a> at Simula on Nov 27. This was the 8th edition of this meeting, with nearly 60 participants. Thanks to all participants and speakers, inspiring as always.</p> 
 
-<p>2025-11-25: Ivan Yotov and I organized a 2-day workshop on <a href="https://cas-nor.no/project/mathematical-challenges-brain-mechanics">Mathematical Challenges in Brain Mechanics</a> in association with the Centre for Advanced Study Nov 25-26. Thanks to all speakers and participants.</p> 
+<p>2025-11-25: Ivan Yotov and I organized a 2-day workshop on <a href="https://cas-nor.no/project/mathematical-challenges-brain-mechanics">Mathematical Challenges in Brain Mechanics</a> in association with the Centre for Advanced Study, Norwegian Academy of Science and Letters on Nov 25-26. Thanks to all speakers and participants.</p> 
 
 <p>2025-11-12: I participated in the Symposium on Computational Science-Quo Vadis (CSQV 2025) in Trondheim, Norway (Nov 12-13 2025). Thanks to the organizers for the inspiring event.</p> 
 
@@ -108,7 +108,7 @@ deserved Bálint! </p>
 <p>2024-03-14: We just submitted our new volume "Mathematical modeling of the human brain II: from glymphatics to deep learning" as a Simula SpringerBrief on Computing. </p>
 <p>2024-03-08: I've been selected as one of <a href="https://www.abelia.no/50techkvinner/2024/">Norway's Top 50 Women in Tech</a>. Congratulations to all the awardees. </p>
 <p>2024-02-21: I will be speaking at the European Society for Mathematical and Theoretical Biology <a href="https://www.esmtb.org/event-5597467">online colloquium</a>. Thank you so very much to the organizers for the invitation -- my presentation on <a href="https://doi.org/10.5281/zenodo.10687990">Brains in motion: computational modelling of the brain's waterscape (Zenodo)</a> is now available. </p>
-<p>2024-02-12: Our K. G. Jebsen Center for Brain Fluid Research (<a href="https://stiftkgj.no/nyheter/nytt-k-g-jebsen-senter-for-hjernevaeskeforskning/">in Norwegian</a>, <a href="https://www.simula.no/about/news/new-jebsen-center-research-brain-fluids">in English</a>) has been selected for funding. This interdisciplinary research center will translate fundamental knowledge of brain fluids to clinical medicine targeting personalized theranostics for dementia and brain cancer. </p>
+<p>2024-02-12: Our K. G. Jebsen Centre for Brain Fluid Research (<a href="https://stiftkgj.no/nyheter/nytt-k-g-jebsen-senter-for-hjernevaeskeforskning/">in Norwegian</a>, <a href="https://www.simula.no/about/news/new-jebsen-center-research-brain-fluids">in English</a>) has been selected for funding. This interdisciplinary research center will translate fundamental knowledge of brain fluids to clinical medicine targeting personalized theranostics for dementia and brain cancer. </p>
 <p>2024-02-09: We have opened the <a href="https://fenicsproject.org/fenics-2024/">abstract submission for the FEniCS 2024 Conference</a> at Simula Research Laboratory in Oslo, June 12-14 2024. Deadline: April 5 2024.</p>
 <p>2024-02-04: Our paper on <a href="https://link.springer.com/article/10.1007/s10915-023-02449-2">Modeling excitable cells with the EMI equations: spectral analysis and iterative solution strategy</a> is now published in the Journal on Scientific Computing (Springer). Congratulations to Dr. Pietro Benedusi as lead author.</p>
 

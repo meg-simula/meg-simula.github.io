@@ -60,6 +60,12 @@ on arXiv. Congratulations to Halvor Herlyng as lead author. </p>
 
 <p>2025-11-12: I participated in the Symposium on Computational Science-Quo Vadis (CSQV 2025) in Trondheim, Norway (Nov 12-13 2025). Thanks to the organizers for the inspiring event.</p> 
 
+<p>2025-11-11: Bálint Laczko, Alexander Refsum Jensenius and I won the
+Best Poster Prize at the 17th International Symposium on Computer
+Music Multidisciplinary Research for our joint work on Image
+Sonification as Unsupervised Domain Transfer. Congratulations and much
+deserved Bálint! </p>
+
 <p>2025-10-14: Our K. G. Jebsen Centre for Brain Fluid Research organized the Annual meeting for the K. G. Jebsen Centres for Medical Research at Refsnes Gods, Norway (Oct 14-15 2025).</p> 
 
 <p>2025-09-01: I participated and gave a seminar in the Institut Mittag-Leffler research program on <a href="https://www.mittag-leffler.se/activities/interfaces-and-unfitted-discretization-methods/">Interfaces and Unfitted Discretization Methods</a> in Stockholm, Sweden (Sept 7-12 2025). Thanks to the organizers for the invitation and for organizing this wonderful event.</p> 

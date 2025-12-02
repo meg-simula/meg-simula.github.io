@@ -49,6 +49,8 @@ Our research project [Exciting times: extreme modelling of excitable tissue (EMI
 
 <h3 id="news">News and highlights (Feb 4 2024 - current)</h3>
 
+<p>2025-12-02: Our new book <a href="https://link.springer.com/book/9783032006783">Mathematical modelling of the human brain II - from glymphatics to deep learning</a>, a Simula SpringerBriefs on Computing, will appear online and in a book store near you on Jan 14 2026. Thanks to Springer and the entire editorial board.</p>
+
 <p>2025-12-02: Our invited book chapter on <a href="">Modeling and
 simulation of electrodiffusion in dense reconstructions of cerebral
 tissue</a> for the 50th Anniversary Woudschoten Conference book is now

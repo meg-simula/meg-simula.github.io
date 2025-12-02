@@ -49,7 +49,7 @@ Our research project [Exciting times: extreme modelling of excitable tissue (EMI
 
 <h3 id="news">News and highlights (Feb 4 2024 - current)</h3>
 
-<p>2025-08-13: Our invited book chapter on <a href="">Modeling and
+<p>2025-12-02: Our invited book chapter on <a href="">Modeling and
 simulation of electrodiffusion in dense reconstructions of cerebral
 tissue</a> for the 50th Anniversary Woudschoten Conference book is now
 on arXiv. Congratulations to Halvor Herlyng as lead author. </p>

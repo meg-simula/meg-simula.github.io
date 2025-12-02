@@ -12,8 +12,8 @@ at [Simula Research Laboratory](https://www.simula.no) in Oslo, Norway
 and Deputy Director of the [K. G. Jebsen Centre for Brain Fluid
 Research](https://www.med.uio.no/klinmed/forskning/sentre/kg-jebsen-hjerneveske/index.html).
 
-My research spans applied mathematics , scientific computing and
-computational physiology, targeting frontier research both in
+My research focuses on numerics for partial differential equations, high-performance mathematical software, and high-fidelity modeling of
+excitable tissue, targeting frontier research both in
 computational mathematics and in the neurosciences. For publications
 and bio, see Marie E. Rognes at [Google scholar](https://scholar.google.com/citations?user=BHyQJSAAAAAJ&hl=en) and [ORCID](https://orcid.org/0000-0002-6872-3710). For a 2025 presentation of key lines of current research, see <a href="https://doi.org/10.5281/zenodo.17093210">Brain membranes and vasculature: a computational mathematics tale of dimensional gaps</a>.
 
@@ -35,10 +35,6 @@ Our research project [Exciting times: extreme modelling of excitable tissue (EMI
 
 <h3 id="future">Upcoming events (selection)</h3>
 
-<p>2025-11-12: I will participate in the Symposium on Computational Science-Quo Vadis (CSQV 2025) in Trondheim, Norway (Nov 12-13 2025).</p> 
-
-<p>2025-11-25: Ivan Yotov and I are organizing a 2-day workshop on <a href="https://cas-nor.no/project/mathematical-challenges-brain-mechanics">Mathematical Challenges in Brain Mechanics</a> in association with the Centre for Advanced Study Nov 25-26, followed by the Oslo Brain Fluid Symposium at Simula Research Laboratory on Nov 27 2025. Feel free to reach out to me if you are interested in participating in either or both of these events.</p> 
-
 <p>2026-01-15: I am looking forward to visiting and giving a <a href="https://mox.polimi.it/mox-colloquia-seminars-list/">Colloquium at MOX</a>, Politecnico di Milano, Italy (Jan 15-17 2026). </p> 
 
 <p>2026-03-17: I've been invited to speak at the ISMRM Workshop on Fluids, Flows & Clearance in the Brain: What Can We Image & How Should It Be Interpreted? at Yale University, New Haven, CT, US (Mar 17-19 2026) </p> 
@@ -53,9 +49,20 @@ Our research project [Exciting times: extreme modelling of excitable tissue (EMI
 
 <h3 id="news">News and highlights (Feb 4 2024 - current)</h3>
 
+<p>2025-08-13: Our invited book chapter on <a href="">Modeling and
+simulation of electrodiffusion in dense reconstructions of cerebral
+tissue</a> for the 50th Anniversary Woudschoten Conference book is now
+on arXiv. Congratulations to Halvor Herlyng as lead author. </p>
+
+<p>2025-11-27: I organized our annual <a href="https://www.med.uio.no/klinmed/forskning/sentre/kg-jebsen-hjerneveske/aktuelt/arrangementer/2025/oslo-brain-fluid-symposium-2025.html">Oslo Brain Fluid Symposium</a> at Simula on Nov 27. This was the 8th edition of this meeting, with nearly 60 participants. Thanks to all participants and speakers, inspiring as always.</p> 
+
+<p>2025-11-25: Ivan Yotov and I organized a 2-day workshop on <a href="https://cas-nor.no/project/mathematical-challenges-brain-mechanics">Mathematical Challenges in Brain Mechanics</a> in association with the Centre for Advanced Study Nov 25-26. Thanks to all speakers and participants.</p> 
+
+<p>2025-11-12: I participated in the Symposium on Computational Science-Quo Vadis (CSQV 2025) in Trondheim, Norway (Nov 12-13 2025). Thanks to the organizers for the inspiring event.</p> 
+
 <p>2025-10-14: Our K. G. Jebsen Centre for Brain Fluid Research organized the Annual meeting for the K. G. Jebsen Centres for Medical Research at Refsnes Gods, Norway (Oct 14-15 2025).</p> 
 
-<p>2025-09-01: I participated and givgave a seminar in the Institut Mittag-Leffler research program on <a href="https://www.mittag-leffler.se/activities/interfaces-and-unfitted-discretization-methods/">Interfaces and Unfitted Discretization Methods</a> in Stockholm, Sweden (Sept 7-12 2025). Thanks to the organizers for the invitation and for organizing this wonderful event.</p> 
+<p>2025-09-01: I participated and gave a seminar in the Institut Mittag-Leffler research program on <a href="https://www.mittag-leffler.se/activities/interfaces-and-unfitted-discretization-methods/">Interfaces and Unfitted Discretization Methods</a> in Stockholm, Sweden (Sept 7-12 2025). Thanks to the organizers for the invitation and for organizing this wonderful event.</p> 
 
 <p>2025-09-01: I presented at MS69: Multiphysics Computational Modeling of the Brain Function at <a href="https://enumath2025.eu/">ENUMATH 2025</a> in Heidelberg, Germany (Sep 1-5 2025). Thanks to the organizers for the invitation and event! </p> 
 

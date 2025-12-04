@@ -51,9 +51,7 @@ Our research project [Exciting times: extreme modelling of excitable tissue (EMI
 
 <p>2025-12-02: Our new book <a href="https://link.springer.com/book/9783032006783">Mathematical modelling of the human brain II - from glymphatics to deep learning</a>, a Simula SpringerBriefs on Computing, will appear online and in a book store near you on Jan 14 2026. Thanks to Springer and the entire editorial board.</p>
 
-<p>2025-12-02: Our invited book chapter on <a href="">Modeling and
-simulation of electrodiffusion in dense reconstructions of cerebral
-tissue</a> for the 50th Anniversary Woudschoten Conference book is now
+<p>2025-12-02: Our invited book chapter on <a href="https://arxiv.org/abs/2512.03224">Modeling and simulation of electrodiffusion in dense reconstructions of cerebral tissue</a> for the 50th Anniversary Woudschoten Conference book is now
 on arXiv. Congratulations to Halvor Herlyng as lead author. </p>
 
 <p>2025-11-27: On behalf of the K. G. Jebsen Centre for Brain Fluid Research, I organized our annual <a href="https://www.med.uio.no/klinmed/forskning/sentre/kg-jebsen-hjerneveske/aktuelt/arrangementer/2025/oslo-brain-fluid-symposium-2025.html">Oslo Brain Fluid Symposium</a> at Simula on Nov 27. This was the 8th edition of this meeting, with nearly 60 participants. Thanks to all participants and speakers, inspiring as always.</p> 

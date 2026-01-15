@@ -49,7 +49,7 @@ Our research project [Exciting times: extreme modelling of excitable tissue (EMI
 
 <p>2026-01-15: I gave the <a href="https://mox.polimi.it/mox-colloquia-seminars-list/">Colloquium at MOX</a>, Politecnico di Milano, Italy on Jan 15 2026. The recording of the talk is available here: <a href="https://cassyni.com/events/NoWG9DXEeHAQPUNRshY2zR?cb=0.obc3">Exciting times: high-fidelity modelling of excitable tisuse</a>. Thanks to Paola Antonietti, Ivan Fumagalli and all for hosting me and for interesting discussions. </p> 
 
-<p>2025-12-19: New preprint out! Our study <a href="https://doi.org/10.64898/2025.12.17.694686">Mechanochemical modeling of exercise-induced skeletal muscle hypertrophy</a> is now on bioRxiv. Congratulations to Ingvild Devold as lead author! </p>
+<p>2025-12-19: New preprint out! Our study <a href="https://doi.org/10.64898/2025.12.17.694686">Mechanochemical modeling of exercise-induced skeletal muscle hypertrophy</a> is now on bioRxiv. Congratulations to Ingvild Devold as lead author. </p>
 
 <p>2025-12-02: Our new book <a href="https://link.springer.com/book/9783032006783">Mathematical modelling of the human brain II - from glymphatics to deep learning</a>, a Simula SpringerBriefs on Computing, will appear online and in a book store near you on Jan 14 2026. Thanks to Springer and the entire editorial board.</p>
 
@@ -113,6 +113,8 @@ deserved Bálint! </p>
 <p>2024-02-04: Our paper on <a href="https://link.springer.com/article/10.1007/s10915-023-02449-2">Modeling excitable cells with the EMI equations: spectral analysis and iterative solution strategy</a> is now published in the Journal on Scientific Computing (Springer). Congratulations to Dr. Pietro Benedusi as lead author.</p>
 
 <h3>Research presentations (selection) </h3>
+
+Brain membranes and vasculature: a computational mathematics tale of dimensional gaps ([Zenodo](https://doi.org/10.5281/zenodo.17093210)), 2025
 
 Perivascular pathways and the dimension-2 gap ([Zenodo](https://zenodo.org/doi/10.5281/zenodo.12192254)), 2024
 

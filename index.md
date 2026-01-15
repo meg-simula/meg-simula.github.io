@@ -35,8 +35,6 @@ Our research project [Exciting times: extreme modelling of excitable tissue (EMI
 
 <h3 id="future">Upcoming events (selection)</h3>
 
-<p>2026-01-15: I am looking forward to visiting and giving a <a href="https://mox.polimi.it/mox-colloquia-seminars-list/">Colloquium at MOX</a>, Politecnico di Milano, Italy (Jan 15-17 2026). </p> 
-
 <p>2026-03-17: I've been invited to speak at the ISMRM Workshop on Fluids, Flows & Clearance in the Brain: What Can We Image & How Should It Be Interpreted? at Yale University, New Haven, CT, US (Mar 17-19 2026) </p> 
 
 <p>2026-05-04: I will participate in the Erwin Schrödinger Institut Thematic Programme on <a href="https://www.esi.ac.at/events/e585/">Differential Complexes: Theory, Discretization, and Applications</a> (May 4-8 2026). </p> 
@@ -48,6 +46,10 @@ Our research project [Exciting times: extreme modelling of excitable tissue (EMI
 <p>2027-06-06: I will lecture at the biennial European Mathematical Society School on Applied Mathematics at Kácov, Czech Republic (June 6-11 2027). </p> 
 
 <h3 id="news">News and highlights (Feb 4 2024 - current)</h3>
+
+<p>2026-01-15: I gave the <a href="https://mox.polimi.it/mox-colloquia-seminars-list/">Colloquium at MOX</a>, Politecnico di Milano, Italy on Jan 15 2026. The recording of the talk is available here: <a href="https://cassyni.com/events/NoWG9DXEeHAQPUNRshY2zR?cb=0.obc3">Exciting times: high-fidelity modelling of excitable tisuse</a>. Thanks to Paola Antonietti, Ivan Fumagalli and all for hosting me and for interesting discussions. </p> 
+
+<p>2025-12-19: New preprint out! Our study <a href="https://doi.org/10.64898/2025.12.17.694686">Mechanochemical modeling of exercise-induced skeletal muscle hypertrophy</a> is now on bioRxiv. Congratulations to Ingvild Devold as lead author! </p>
 
 <p>2025-12-02: Our new book <a href="https://link.springer.com/book/9783032006783">Mathematical modelling of the human brain II - from glymphatics to deep learning</a>, a Simula SpringerBriefs on Computing, will appear online and in a book store near you on Jan 14 2026. Thanks to Springer and the entire editorial board.</p>
 

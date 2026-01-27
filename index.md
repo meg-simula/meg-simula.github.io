@@ -35,7 +35,7 @@ Our research project [Exciting times: extreme modelling of excitable tissue (EMI
 
 <h3 id="future">Upcoming events (selection)</h3>
 
-<p>2026-02-02: Jørgen Dokken and I are organizing a FEniCS-in-the-Wild Hackathon, truly in the wild, at Finse, Norway (Feb 2-3 2026). Looking forward to 2 days of collaborative coding, the serenity at Finse (also known as the ice planet <a href="https://en.wikipedia.org/wiki/Hoth">Hoth</a>), and the hospitality of <a href="https://www.steinboligen.no/">Steinboligen</a>. </p> 
+<p>2026-02-02: Jørgen Dokken and I are organizing a FEniCS-in-the-Wild Hackathon, truly in the wild, at Finse, Norway (Feb 2-3 2026). Looking forward to two days of collaborative coding in good company, the serenity at <a href="https://en.wikipedia.org/wiki/Finse">Finse</a> (also known as the ice planet <a href="https://en.wikipedia.org/wiki/Hoth">Hoth</a>), and the hospitality of <a href="https://www.steinboligen.no/">Steinboligen</a>. </p> 
 
 <p>2026-03-17: I've been invited to speak at the ISMRM Workshop on Fluids, Flows & Clearance in the Brain: What Can We Image & How Should It Be Interpreted? at Yale University, New Haven, CT, US (Mar 17-19 2026) </p> 
 

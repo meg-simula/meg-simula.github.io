@@ -53,6 +53,8 @@ Our research project [Exciting times: extreme modelling of excitable tissue (EMI
 
 <p>2026-01-15: I gave the <a href="https://mox.polimi.it/mox-colloquia-seminars-list/">Colloquium at MOX</a>, Politecnico di Milano, Italy on Jan 15 2026. The recording of the talk is available here: <a href="https://cassyni.com/events/NoWG9DXEeHAQPUNRshY2zR?cb=0.obc3">Exciting times: high-fidelity modelling of excitable tisuse</a>. Thanks to Paola Antonietti, Ivan Fumagalli and all for hosting me and for interesting discussions. </p> 
 
+<p>2025-12-16: Wonderful news, our project proposal Next-generation digital twins for biological cell environments (DigiCells) has been <a href="https://www.simula.no/about/news/simula-awarded-five-researcher-projects-ict-renewal-and-development">selected for funding</a> as a Researcher Project for ICT Renewal and Development by the Research Council of Norway. More details in due time.  </p> 
+
 <p>2025-12-19: New preprint out! Our study <a href="https://doi.org/10.64898/2025.12.17.694686">Mechanochemical modeling of exercise-induced skeletal muscle hypertrophy</a> is now on bioRxiv. Congratulations to Ingvild Devold as lead author. </p>
 
 <p>2025-12-02: Our new book <a href="https://link.springer.com/book/9783032006783">Mathematical modelling of the human brain II - from glymphatics to deep learning</a>, a Simula SpringerBriefs on Computing, will appear online and in a book store near you on Jan 14 2026. Thanks to Springer and the entire editorial board.</p>

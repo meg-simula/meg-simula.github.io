@@ -35,6 +35,8 @@ Our research project [Exciting times: extreme modelling of excitable tissue (EMI
 
 <h3 id="future">Upcoming events (selection)</h3>
 
+<p>2026-02-02: Jørgen Dokken and I are organizing a FEniCS-in-the-Wild Hackathon, truly in the wild, at Finse, Norway (Feb 2-3 2026). Looking forward to 2 days of collaborative coding, the serenity at Finse (also known as the ice planet <a href="https://en.wikipedia.org/wiki/Hoth">Hoth</a>), and the hospitality of <a href="https://www.steinboligen.no/">Steinboligen</a>. </p> 
+
 <p>2026-03-17: I've been invited to speak at the ISMRM Workshop on Fluids, Flows & Clearance in the Brain: What Can We Image & How Should It Be Interpreted? at Yale University, New Haven, CT, US (Mar 17-19 2026) </p> 
 
 <p>2026-05-04: I will participate in the Erwin Schrödinger Institut Thematic Programme on <a href="https://www.esi.ac.at/events/e585/">Differential Complexes: Theory, Discretization, and Applications</a> (May 4-8 2026). </p> 
@@ -46,6 +48,8 @@ Our research project [Exciting times: extreme modelling of excitable tissue (EMI
 <p>2027-06-06: I will lecture at the biennial European Mathematical Society School on Applied Mathematics at Kácov, Czech Republic (June 6-11 2027). </p> 
 
 <h3 id="news">News and highlights (Feb 4 2024 - current)</h3>
+
+<p>2026-01-23: Marius Causemann defended his PhD thesis with flying colors today. Congratulations Dr. Causemann! A big thank you to the evaluation committee: Profs. Luca Heltai, Inga Berre, and Håkon Stensland. </p> 
 
 <p>2026-01-15: I gave the <a href="https://mox.polimi.it/mox-colloquia-seminars-list/">Colloquium at MOX</a>, Politecnico di Milano, Italy on Jan 15 2026. The recording of the talk is available here: <a href="https://cassyni.com/events/NoWG9DXEeHAQPUNRshY2zR?cb=0.obc3">Exciting times: high-fidelity modelling of excitable tisuse</a>. Thanks to Paola Antonietti, Ivan Fumagalli and all for hosting me and for interesting discussions. </p> 
 

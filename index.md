@@ -51,7 +51,7 @@ We are <a href="https://www.simula.no/careers/job-openings/phd-position-in-scien
 
 <p>2026-07-26: I'll contribute to the 2026 <a href="https://www.festum-pi.eu/">Festum Pi</a> Summer School and Research Conference in Chania, Greece (Jul 26-31 2026). Thanks to Cédric Villani, Katharina Schratz and entire organization team for the delightful invitation. </p>
 
-<p>2026-10-12: I'll visit and give a talk at the Mathematical Institute, Charles University, Prague, Czech Republic (Oct 12-14, 2026). Thanks so much to Miroslav Bulíček and Lucia Wintrova for the invitation, looking forward to it. </p>
+<p>2026-10-12: I'll visit and give a talk at the Mathematical Institute, Charles University, Prague, Czech Republic (Oct 12-14, 2026). Thanks so much to Miroslav Bulíček and Lucie Wintrova for the invitation, looking forward to it. </p>
 
 <p>2026-11-17: I've accepted the invitation to speak in the minisymposium on Computational Glioscience at the 28th meeting of the French Glial Cell Club, Sète, France (Nov 17-20, 2026). </p>
 

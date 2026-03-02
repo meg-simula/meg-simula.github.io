@@ -27,7 +27,7 @@ Our research project [Exciting times: extreme modelling of excitable tissue (EMI
 
 <h3>Current research projects </h3>
 
-<p>2026-03-02: We are <a href="https://www.simula.no/careers/job-openings/phd-position-in-scientific-computing-next-generation-digital-twin-algorithms">hiring a PhD candidate</a> for the DigiCells project! </p> 
+We are <a href="https://www.simula.no/careers/job-openings/phd-position-in-scientific-computing-next-generation-digital-twin-algorithms">hiring a PhD candidate</a> for the DigiCells project! </p> 
 
 [DigiCells: Next-generation digital twins for biological cell environments](https://www.simula.no/research/projects/digicells-next-generation-digital-twins-biological-cell-environments), funded by the Enabling technologies Portfolio, Research Council of Norway, 2026--2029 (Project leader and Principal investigator)
 
@@ -45,7 +45,7 @@ Our research project [Exciting times: extreme modelling of excitable tissue (EMI
 
 <p>2026-05-04: I will participate in the Erwin Schrödinger Institut Thematic Programme on <a href="https://www.esi.ac.at/events/e585/">Differential Complexes: Theory, Discretization, and Applications</a> (May 4-8 2026). </p> 
 
-<p>2026-06-03: The final conference of our year on Mathematical challenges of brain mechanics will take place on June 3-5 2026 at the Centre for Advanced Study at the Norwegian Academy of Science and Letters.</p> 
+<p>2026-06-03: The final conference of our year on <a href="https://cas-nor.no/project/mathematical-challenges-brain-mechanics">Mathematical Challenges in Brain Mechanics</a> will take place on June 3-5 2026 at the Centre for Advanced Study at the Norwegian Academy of Science and Letters.</p> 
 
 <p>2026-07-24: Matthias Mayr, Paolo Zunino and I are organizing a minisymposium on "Mixed-dimensional modeling: advances in modeling, numerical methods and applications" at the <a href="https://wccm-eccomas2026.org/">WCCM-ECCOMAS2026</a>, Münich, Germany (Jul 19-24 2026). </p> 
 
@@ -55,7 +55,7 @@ Our research project [Exciting times: extreme modelling of excitable tissue (EMI
 
 <p>2026-11-17: I've accepted the invitation to speak in the minisymposium on Computational Glioscience at the 28th meeting of the French Glial Cell Club, Sète, France (Nov 17-20, 2026). </p>
 
-<p>2026-11-23: K. G. Jebsen Centre for Brain Fluid Research organizes the 9th edition of its annual Oslo Brain Fluid Symposium at Simula Research Laboratory on Nov 23 2026.</p> 
+<p>2026-11-23: The K. G. Jebsen Centre for Brain Fluid Research organizes the 9th edition of its annual Oslo Brain Fluid Symposium at Simula Research Laboratory on Nov 23 2026.</p> 
 
 <p>2027-06-06: I will lecture at the biennial European Mathematical Society School on Applied Mathematics at Kácov, Czech Republic (June 6-11 2027). </p> 
 

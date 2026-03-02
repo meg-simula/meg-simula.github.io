@@ -27,6 +27,10 @@ Our research project [Exciting times: extreme modelling of excitable tissue (EMI
 
 <h3>Current research projects </h3>
 
+<p>2026-03-02: We are <a href="https://www.simula.no/careers/job-openings/phd-position-in-scientific-computing-next-generation-digital-twin-algorithms">hiring a PhD candidate</a> for the DigiCells project! </p> 
+
+[DigiCells: Next-generation digital twins for biological cell environments](https://www.simula.no/research/projects/digicells-next-generation-digital-twins-biological-cell-environments), funded by the Enabling technologies Portfolio, Research Council of Norway, 2026--2029 (Project leader and Principal investigator)
+
 [K. G. Jebsen Centre for Brain Fluid Research](https://www.med.uio.no/klinmed/forskning/sentre/kg-jebsen-hjerneveske/), funded by the K. G. Jebsen Foundation, 2024--2029 (Deputy Director and Principal investigator)
 
 [FEniCS in the Wild: Next-generation simulation and learning in imaging-based biomedicine](https://www.simula.no/about/news/funding-awarded-next-generation-simulation-learning-imaging-based-biomedicine), funded by the Wellcome Trust, 2024--2026 (Project leader)
@@ -35,23 +39,35 @@ Our research project [Exciting times: extreme modelling of excitable tissue (EMI
 
 <h3 id="future">Upcoming events (selection)</h3>
 
-<p>2026-02-02: Jørgen Dokken and I are organizing a FEniCS-in-the-Wild Hackathon, truly in the wild, at Finse, Norway (Feb 2-3 2026). Looking forward to two days of collaborative coding in good company, the serenity at <a href="https://en.wikipedia.org/wiki/Finse">Finse</a> (also known as the ice planet <a href="https://en.wikipedia.org/wiki/Hoth">Hoth</a>), and the hospitality of <a href="https://www.steinboligen.no/">Steinboligen</a>. </p> 
+<p>2026-03-18: I'll attend and give an Invited Talk at the <a href="https://echo.ismrm.org/program/NeuroFluids26">ISMRM Workshop on Fluids, Flows & Clearance in the Brain: What Can We Image & How Should It Be Interpreted?</a> at Yale University, New Haven, CT, US (Mar 17-19 2026) </p> 
 
-<p>2026-03-17: I've been invited to speak at the ISMRM Workshop on Fluids, Flows & Clearance in the Brain: What Can We Image & How Should It Be Interpreted? at Yale University, New Haven, CT, US (Mar 17-19 2026) </p> 
+<p>2026-04-22: Dr. Sofia Farina from the University of Bern will be visiting our research team at Simula (Apr 22-24 2026). Welcome! </p> 
 
 <p>2026-05-04: I will participate in the Erwin Schrödinger Institut Thematic Programme on <a href="https://www.esi.ac.at/events/e585/">Differential Complexes: Theory, Discretization, and Applications</a> (May 4-8 2026). </p> 
 
-<p>2026-07-24: Matthias Mayr, Paolo Zunino and I are organizing a minisymposium on "Mixed-dimensional modeling: advances in modeling, numerical methods and applications" at the <a href="https://wccm-eccomas2026.org/">WCCM-ECCOMAS2026</a>, Münich, Germany (July 19-24 2026). </p> 
+<p>2026-06-03: The final conference of our year on Mathematical challenges of brain mechanics will take place on June 3-5 2026 at the Centre for Advanced Study at the Norwegian Academy of Science and Letters.</p> 
+
+<p>2026-07-24: Matthias Mayr, Paolo Zunino and I are organizing a minisymposium on "Mixed-dimensional modeling: advances in modeling, numerical methods and applications" at the <a href="https://wccm-eccomas2026.org/">WCCM-ECCOMAS2026</a>, Münich, Germany (Jul 19-24 2026). </p> 
+
+<p>2026-07-26: I'll contribute to the 2026 <a href="https://www.festum-pi.eu/">Festum Pi</a> Summer School and Research Conference in Chania, Greece (Jul 26-31 2026). Thanks to Cédric Villani, Katharina Schratz and entire organization team for the delightful invitation. </p>
+
+<p>2026-10-12: I'll visit and give a talk at the Mathematical Institute, Charles University, Prague, Czech Republik (Oct 12-14, 2026). Thanks so much to Miroslav Bulíček and Lucia Wintrova for the invitation, looking forward to it. </p>
 
 <p>2026-11-17: I've accepted the invitation to speak in the minisymposium on Computational Glioscience at the 28th meeting of the French Glial Cell Club, Sète, France (Nov 17-20, 2026). </p>
+
+<p>2026-11-23: K. G. Jebsen Centre for Brain Fluid Research organizes the 9th edition of its annual Oslo Brain Fluid Symposium at Simula Research Laboratory on Nov 23 2026.</p> 
 
 <p>2027-06-06: I will lecture at the biennial European Mathematical Society School on Applied Mathematics at Kácov, Czech Republic (June 6-11 2027). </p> 
 
 <h3 id="news">News and highlights (Feb 4 2024 - current)</h3>
 
+<p>2026-02-16: We've had the pleasure of hosting Miriam Navarro from the Copenhagen University Hospital for a two-week research visit in our research team at Simula. </p>
+
+<p>2026-02-02: Jørgen Dokken and I organized a FEniCS-in-the-Wild Hackathon, truly in the wild, at Finse, Norway (Feb 2-3 2026). Two days of collaborative coding in good company, serenity at <a href="https://en.wikipedia.org/wiki/Finse">Finse</a> (also known as the ice planet <a href="https://en.wikipedia.org/wiki/Hoth">Hoth</a>), and the hospitality of <a href="https://www.steinboligen.no/">Steinboligen</a> much appreciated. </p> 
+
 <p>2026-01-23: Marius Causemann defended his PhD thesis with flying colors today. Congratulations Dr. Causemann! A big thank you to the evaluation committee: Profs. Luca Heltai, Inga Berre, and Håkon Stensland. </p> 
 
-<p>2026-01-15: I gave the <a href="https://mox.polimi.it/mox-colloquia-seminars-list/">Colloquium at MOX</a>, Politecnico di Milano, Italy on Jan 15 2026. The recording of the talk is available here: <a href="https://cassyni.com/events/NoWG9DXEeHAQPUNRshY2zR?cb=0.obc3">Exciting times: high-fidelity modelling of excitable tisuse</a>. Thanks to Paola Antonietti, Ivan Fumagalli and all for hosting me and for interesting discussions. </p> 
+<p>2026-01-15: I gave the <a href="https://mox.polimi.it/mox-colloquia-seminars-list/">Colloquium at MOX</a>, Politecnico di Milano, Italy on Jan 15 2026. The recording of the talk is available here: <a href="https://cassyni.com/events/NoWG9DXEeHAQPUNRshY2zR?cb=0.obc3">Exciting times: high-fidelity modelling of excitable tissue</a>. Thanks to Paola Antonietti, Ivan Fumagalli and all for hosting me and for interesting discussions. </p> 
 
 <p>2025-12-16: Wonderful news, our project proposal Next-generation digital twins for biological cell environments (DigiCells) has been <a href="https://www.simula.no/about/news/simula-awarded-five-researcher-projects-ict-renewal-and-development">selected for funding</a> as a Researcher Project for ICT Renewal and Development by the Research Council of Norway. More details in due time.  </p> 
 

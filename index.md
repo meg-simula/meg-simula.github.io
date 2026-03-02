@@ -61,7 +61,7 @@ We are <a href="https://www.simula.no/careers/job-openings/phd-position-in-scien
 
 <h3 id="news">News and highlights (Feb 4 2024 - current)</h3>
 
-<p>2026-02-16: We've had the pleasure of hosting Miriam Navarro from the Copenhagen University Hospital for a two-week research visit in our research team at Simula. </p>
+<p>2026-02-16: We've had the pleasure of hosting Miriam Navarro from the Copenhagen University Hospital for a two-week research visit in our research team at Simula. Welcome back anytime.</p>
 
 <p>2026-02-02: Jørgen Dokken and I organized a FEniCS-in-the-Wild Hackathon, truly in the wild, at Finse, Norway (Feb 2-3 2026). Two days of collaborative coding in good company, serenity at <a href="https://en.wikipedia.org/wiki/Finse">Finse</a> (also known as the ice planet <a href="https://en.wikipedia.org/wiki/Hoth">Hoth</a>), and the hospitality of <a href="https://www.steinboligen.no/">Steinboligen</a> much appreciated. </p> 
 

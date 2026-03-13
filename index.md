@@ -61,6 +61,8 @@ We are <a href="https://www.simula.no/careers/job-openings/phd-position-in-scien
 
 <h3 id="news">News and highlights (Feb 4 2024 - current)</h3>
 
+<p>2026-03-13: Our paper on <a href="https://doi.org/10.1073/pnas.2517059123">Stretch and flow at the gliovascular interface: high-fidelity modelling of astrocyte endfeet</a> is now published in the Proceedings of the National Academy of Sciences. Congratulations again to Marius Causemann as lead author, and thanks to the editors and reviewers for the highly constructive feedback. </p>
+
 <p>2026-03-03: The <a href="https://link.springer.com/book/10.1007/978-3-032-17396-6">Proceedings from the FEniCS 2024 Conference</a> are now available online as part of the Simula SpringerBriefs on Computing. This open access book gives a snapshot of the research undertaken by the members of the FEniCS community, as presented at the FEniCS Conference at Simula Research Laboratory, Oslo, Norway, in June 2024. Thanks to all contributors and to the entire editorial team at Springer for their continued support.</p>
 
 <p>2026-02-16: We've had the pleasure of hosting Miriam Navarro from the Copenhagen University Hospital for a two-week research visit in our research team at Simula. Welcome back anytime.</p>

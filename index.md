@@ -37,13 +37,7 @@ We are <a href="https://www.simula.no/careers/job-openings/phd-position-in-scien
 
 [AUTORHYTHM – the role of autophagy in healthy aging](https://www.uio.no/english/research/strategic-research-areas/life-science/research/convergence-environments/autorhythm/), a life science convergence environment, 2022-2026 (Principal investigator)
 
-<h3 id="future">Upcoming events (selection)</h3>
-
-<p>2026-03-18: I'll attend and give an Invited Talk at the <a href="https://echo.ismrm.org/program/NeuroFluids26">ISMRM Workshop on Fluids, Flows & Clearance in the Brain: What Can We Image & How Should It Be Interpreted?</a> at Yale University, New Haven, CT, US (Mar 17-19 2026) </p> 
-
-<p>2026-04-22: Dr. Sofia Farina from the University of Bern will be visiting our research team at Simula (Apr 22-24 2026). Welcome! </p> 
-
-<p>2026-05-04: I will participate in the Erwin Schrödinger Institut Thematic Programme on <a href="https://www.esi.ac.at/events/e585/">Differential Complexes: Theory, Discretization, and Applications</a> (May 4-8 2026). </p> 
+<h3 id="future">Upcoming events</h3>
 
 <p>2026-06-03: The final conference of our year on <a href="https://cas-nor.no/project/mathematical-challenges-brain-mechanics">Mathematical Challenges in Brain Mechanics</a> will take place on June 3-5 2026 at the Centre for Advanced Study at the Norwegian Academy of Science and Letters.</p> 
 
@@ -60,6 +54,10 @@ We are <a href="https://www.simula.no/careers/job-openings/phd-position-in-scien
 <p>2027-06-06: I will lecture at the biennial European Mathematical Society School on Applied Mathematics at Kácov, Czech Republic (June 6-11 2027). </p> 
 
 <h3 id="news">News and highlights (Feb 4 2024 - current)</h3>
+
+<p>2026-04-22: Dr. Sofia Farina from the University of Bern visited our research team at Simula (Apr 22-24 2026). </p> 
+
+<p>2026-03-18: I gave an Invited Talk at the <a href="https://echo.ismrm.org/program/NeuroFluids26">ISMRM Workshop on Fluids, Flows & Clearance in the Brain: What Can We Image & How Should It Be Interpreted?</a> at Yale University, New Haven, CT, US (Mar 17-19 2026) </p> 
 
 <p>2026-03-13: Our paper on <a href="https://doi.org/10.1073/pnas.2517059123">Stretch and flow at the gliovascular interface: high-fidelity modelling of astrocyte endfeet</a> is now published in the Proceedings of the National Academy of Sciences. Congratulations again to Marius Causemann as lead author, and thanks to the editors and reviewers for the highly constructive feedback. </p>
 

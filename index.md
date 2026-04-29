@@ -27,8 +27,6 @@ Our research project [Exciting times: extreme modelling of excitable tissue (EMI
 
 <h3>Current research projects </h3>
 
-We are <a href="https://www.simula.no/careers/job-openings/phd-position-in-scientific-computing-next-generation-digital-twin-algorithms">hiring a PhD candidate</a> for the DigiCells project!
-
 [DigiCells: Next-generation digital twins for biological cell environments](https://www.simula.no/research/projects/digicells-next-generation-digital-twins-biological-cell-environments), funded by the Enabling technologies Portfolio, Research Council of Norway, 2026--2029 (Project leader and Principal investigator)
 
 [K. G. Jebsen Centre for Brain Fluid Research](https://www.med.uio.no/klinmed/forskning/sentre/kg-jebsen-hjerneveske/), funded by the K. G. Jebsen Foundation, 2024--2029 (Deputy Director and Principal investigator)

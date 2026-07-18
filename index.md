@@ -37,23 +37,37 @@ Our research project [Exciting times: extreme modelling of excitable tissue (EMI
 
 <h3 id="future">Upcoming events</h3>
 
-<p>2026-06-03: The final conference of our year on <a href="https://cas-nor.no/project/mathematical-challenges-brain-mechanics">Mathematical Challenges in Brain Mechanics</a> will take place on June 3-5 2026 at the Centre for Advanced Study at the Norwegian Academy of Science and Letters.</p> 
-
 <p>2026-07-24: Matthias Mayr, Paolo Zunino and I are organizing a minisymposium on "Mixed-dimensional modeling: advances in modeling, numerical methods and applications" at the <a href="https://wccm-eccomas2026.org/">WCCM-ECCOMAS2026</a>, Münich, Germany (Jul 19-24 2026). </p> 
 
-<p>2026-07-26: I'll contribute to the 2026 <a href="https://www.festum-pi.eu/">Festum Pi</a> Summer School and Research Conference in Chania, Greece (Jul 26-31 2026). Thanks to Cédric Villani, Katharina Schratz and entire organization team for the delightful invitation. </p>
+<p>2026-07-26: I'll give a public lecture on Deltas of the Brain: Mathematics, Supercomputing and the Rhythms of Life, and an invited scientific talk at the 2026 <a href="https://www.festum-pi.eu/">Festum Pi</a> Summer School and Research Conference in Chania, Greece (Jul 26-31 2026). Thanks to Cédric Villani, Katharina Schratz and entire organization team for the delightful invitation. </p>
+
+<p>2026-08-05: I'll visit the University of California San Diego in connection with the <a href="https://www.simula.no/education/courses-summer-schools/summer-school-computational-physiology">2026 SUURPh Summer School in Computational Physiology</a> (Aug 5-13 2026). </p>
+
+<p>2026-09-10: We are organizing the 2026 DigiCells Workshop: Towards next-generation digital twins for biological cell environments at Simula Research Laboratory on Sep 10 2026, following the <a href="https://www.simula.no/about/events/simula-25-years-fenics-workshop">FEniCS@Simula 25 Anniversary Conference</a> on Sep 8-9. Reach out if you are interested in joining. </p>
 
 <p>2026-10-12: I'll visit and give a talk at the Mathematical Institute, Charles University, Prague, Czech Republic (Oct 12-14, 2026). Thanks so much to Miroslav Bulíček and Lucie Wintrova for the invitation, looking forward to it. </p>
+
+<p>2026-10-20: I'll participate in the annual meeting of the K. G. Jebsen Centres for Medical Research at Solstrand, Bergen, Norway (Oct 20-21, 2026). </p>
 
 <p>2026-11-17: I've accepted the invitation to speak in the minisymposium on Computational Glioscience at the 28th meeting of the French Glial Cell Club, Sète, France (Nov 17-20, 2026). </p>
 
 <p>2026-11-23: The K. G. Jebsen Centre for Brain Fluid Research organizes the 9th edition of its annual Oslo Brain Fluid Symposium at Simula Research Laboratory on Nov 23 2026.</p> 
 
+<p>2027-06-02: I will give a talk at <a href="https://www.mn.uio.no/math/english/research/groups/cm/events/conferences/norpde2027/">Norwegian meeting on PDEs 2027</a> at the Norwegian Academy of Science and Letters (June 2--4 2027). Thanks to the organizers for the initiative and invitation.</p> 
+
 <p>2027-06-06: I will lecture at the biennial European Mathematical Society School on Applied Mathematics at Kácov, Czech Republic (June 6-11 2027). </p> 
 
 <h3 id="news">News and highlights (Feb 4 2024 - current)</h3>
 
+<p>2026-07-02: I'm absolutely delighted to receive the <a href="https://euromathsoc.org/news/developers-of-the-fenics-project-awarded-the-2026-emsecmi-lanczos-prize-217">2026 EMS/ECMI Lanczos Prize for Mathematical Software</a> together with members of the FEniCS Project core team. <a href="https://www.simula.no/about/news/fenics-team-members-win-2026-lanczos-prize-mathematical-software">Read more about the prize and its context here</a>. </p> 
+
+<p>2026-06-23: More fabulous news, our research proposal From connectomes to continua: new complexes in brain multiphysics (BrainComplexes), has been <a href="https://www.simula.no/about/news/new-funding-math-link-how-we-think-how-brain-moves">selected for funding</a> as a FRIPRO Researcher Project by the Research Council of Norway. </p> 
+
+<p>2026-06-03: The final conference of our year on <a href="https://cas-nor.no/project/mathematical-challenges-brain-mechanics">Mathematical Challenges in Brain Mechanics</a> took place on June 3-5 2026 at the Centre for Advanced Study at the Norwegian Academy of Science and Letters. A big thank you to Jan Martin Nordbotten and Kent-Andre Mardal and the other organizers, speakers and guests for making this year such a success.</p> 
+
 <p>2026-04-22: Dr. Sofia Farina from the University of Bern visited our research team at Simula (Apr 22-24 2026). </p> 
+
+<p>2026-04-01: We have officially launched the DigiCells research project. This 4-year research project based at Simula aims to establish algorithmic and technological foundations for next-generation modelling and analysis of biological cell environments. </p> 
 
 <p>2026-03-18: I gave an Invited Talk at the <a href="https://echo.ismrm.org/program/NeuroFluids26">ISMRM Workshop on Fluids, Flows & Clearance in the Brain: What Can We Image & How Should It Be Interpreted?</a> at Yale University, New Haven, CT, US (Mar 17-19 2026) </p> 
 

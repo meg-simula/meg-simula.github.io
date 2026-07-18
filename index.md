@@ -65,6 +65,8 @@ Our research project [Exciting times: extreme modelling of excitable tissue (EMI
 
 <p>2026-06-03: The final conference of our year on <a href="https://cas-nor.no/project/mathematical-challenges-brain-mechanics">Mathematical Challenges in Brain Mechanics</a> took place on June 3-5 2026 at the Centre for Advanced Study at the Norwegian Academy of Science and Letters. A big thank you to Jan Martin Nordbotten and Kent-Andre Mardal and the other organizers, speakers and guests for making this year such a success.</p> 
 
+<p>2026-05-12: Thomas Surowiec and I organized this year's edition of the <a href="https://www.simula.no/langtangen-seminar">Langtangen Seminars on Scientific Computing</a>. The 2026 seminar series featured invited lectures by Francesco Regazzoni, Olga Mula Hernandez, Matthew Colbrook, Yunan Yang, and Erin Carson. A big thank you to all speakers -- the talks are available on the <a href="https://www.youtube.com/@langtangen-seminar">Langtangen Seminar YouTube Channel</a>. </p> 
+
 <p>2026-04-22: Dr. Sofia Farina from the University of Bern visited our research team at Simula (Apr 22-24 2026). </p> 
 
 <p>2026-04-01: We have officially launched the <a href="https://www.simula.no/research/projects/digicells-next-generation-digital-twins-biological-cell-environments">DigiCells</a> project. This 4-year research project based at Simula aims to establish algorithmic and technological foundations for next-generation modelling and analysis of biological cell environments. </p> 

@@ -61,7 +61,7 @@ Our research project [Exciting times: extreme modelling of excitable tissue (EMI
 
 <p>2026-07-02: I'm absolutely delighted to receive the <a href="https://euromathsoc.org/news/developers-of-the-fenics-project-awarded-the-2026-emsecmi-lanczos-prize-217">2026 EMS/ECMI Lanczos Prize for Mathematical Software</a> together with members of the FEniCS Project core team. <a href="https://www.simula.no/about/news/fenics-team-members-win-2026-lanczos-prize-mathematical-software">Read more</a> about the prize and its context here. </p> 
 
-<p>2026-06-23: More fabulous news, our research proposal <a href="https://www.simula.no/about/news/new-funding-math-link-how-we-think-how-brain-moves">From connectomes to continua: new complexes in brain multiphysics (BrainComplexes)</a>, has been selected for funding as a FRIPRO Researcher Project by the Research Council of Norway. </p> 
+<p>2026-06-23: More fabulous news, our research proposal <a href="https://www.simula.no/about/news/new-funding-math-link-how-we-think-how-brain-moves">From connectomes to continua: new complexes in brain multiphysics (BrainComplexes)</a>, has been selected for funding as a FRIPRO Researcher Project by the Research Council of Norway. The project will launch in early 2027, and we will announce open positions in the fall of 2026.</p> 
 
 <p>2026-06-03: The final conference of our year on <a href="https://cas-nor.no/project/mathematical-challenges-brain-mechanics">Mathematical Challenges in Brain Mechanics</a> took place on June 3-5 2026 at the Centre for Advanced Study at the Norwegian Academy of Science and Letters. A big thank you to Jan Martin Nordbotten and Kent-Andre Mardal and the other organizers, speakers and guests for making this year such a success.</p> 
 

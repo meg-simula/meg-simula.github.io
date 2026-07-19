@@ -45,15 +45,15 @@ Our research project [Exciting times: extreme modelling of excitable tissue (EMI
 
 <p>2026-09-10: We are organizing the 2026 DigiCells Workshop: Towards next-generation digital twins for biological cell environments at Simula Research Laboratory on Sep 10 2026, following the <a href="https://www.simula.no/about/events/simula-25-years-fenics-workshop">FEniCS@Simula 25 Anniversary Conference</a> on Sep 8-9. Reach out if you are interested in joining. </p>
 
-<p>2026-10-12: I'll visit and give a talk at the Mathematical Institute, Charles University, Prague, Czech Republic (Oct 12-14, 2026). Thanks so much to Miroslav Bulíček and Lucie Wintrova for the invitation, looking forward to it. </p>
+<p>2026-10-12: I'll visit and give a talk at the Mathematical Institute, Charles University, Prague, Czech Republic (Oct 12-14 2026). Thanks so much to Miroslav Bulíček and Lucie Wintrova for the invitation, looking forward to it. </p>
 
-<p>2026-10-20: I'll participate in the annual meeting of the K. G. Jebsen Centres for Medical Research at Solstrand, Bergen, Norway (Oct 20-21, 2026). </p>
+<p>2026-10-20: I'll participate in the annual meeting of the K. G. Jebsen Centres for Medical Research at Solstrand, Bergen, Norway (Oct 20-21 2026). </p>
 
-<p>2026-11-17: I've accepted the invitation to speak in the minisymposium on Computational Glioscience at the 28th meeting of the French Glial Cell Club, Sète, France (Nov 17-20, 2026). </p>
+<p>2026-11-17: I've accepted the invitation to speak in the minisymposium on Computational Glioscience at the 28th meeting of the French Glial Cell Club, Sète, France (Nov 17-20 2026). </p>
 
 <p>2026-11-23: The K. G. Jebsen Centre for Brain Fluid Research organizes the 9th edition of its annual Oslo Brain Fluid Symposium at Simula Research Laboratory on Nov 23 2026.</p> 
 
-<p>2027-06-02: I will give a talk at <a href="https://www.mn.uio.no/math/english/research/groups/cm/events/conferences/norpde2027/">Norwegian meeting on PDEs 2027</a> at the Norwegian Academy of Science and Letters (June 2--4 2027). Thanks to the organizers for the initiative and invitation.</p> 
+<p>2027-06-02: I will give a talk at <a href="https://www.mn.uio.no/math/english/research/groups/cm/events/conferences/norpde2027/">Norwegian meeting on PDEs 2027</a> at the Norwegian Academy of Science and Letters (June 2-4 2027). Thanks to the organizers for the initiative and invitation.</p> 
 
 <p>2027-06-06: I will lecture at the biennial European Mathematical Society School on Applied Mathematics at Kácov, Czech Republic (June 6-11 2027). </p> 
 

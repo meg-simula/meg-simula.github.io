@@ -10,20 +10,12 @@ the [Department of Numerical Analysis and Scientific
 Computing](https://www.simula.no/research/research-departments/numerical-analysis-and-scientific-computing)
 at [Simula Research Laboratory](https://www.simula.no) in Oslo, Norway
 and Deputy Director of the [K. G. Jebsen Centre for Brain Fluid
-Research](https://www.med.uio.no/klinmed/forskning/sentre/kg-jebsen-hjerneveske/index.html).
+Research](https://www.med.uio.no/klinmed/forskning/sentre/kg-jebsen-hjerneveske/index.html). 
 
-My research focuses on numerics for partial differential equations, high-performance mathematical software, and high-fidelity modeling of
-excitable tissue, targeting frontier research both in
-computational mathematics and in the neurosciences. For publications
-and bio, see Marie E. Rognes at [Google scholar](https://scholar.google.com/citations?user=BHyQJSAAAAAJ&hl=en) and [ORCID](https://orcid.org/0000-0002-6872-3710). For a 2025 presentation of key lines of current research, see <a href="https://doi.org/10.5281/zenodo.17093210">Brain membranes and vasculature: a computational mathematics tale of dimensional gaps</a>.
+My research focuses on numerics for partial differential equations, high-performance mathematical software, and high-fidelity modeling of excitable tissue, targeting frontier research both in computational mathematics and in the neurosciences. For publications and bio, see Marie E. Rognes at [Google scholar](https://scholar.google.com/citations?user=BHyQJSAAAAAJ&hl=en) and [ORCID](https://orcid.org/0000-0002-6872-3710). For a 2025 presentation of key lines of current research, see <a href="https://doi.org/10.5281/zenodo.17093210">Brain membranes and vasculature: a computational mathematics tale of dimensional gaps</a>.
 
-I have been a core developer (2007--2024) and Steering Council Member
-(2016--2024) of the [FEniCS Project](https://www.fenicsproject.org)
-and a founding member of the
-[Dolfin-adjoint](https://www.dolfin-adjoint.org/en/latest/) project
+I have been a core developer (2007--) and Steering Council Member (2016--2024) of the [FEniCS Project](https://www.fenicsproject.org) and a founding member of the [Dolfin-adjoint](https://www.dolfin-adjoint.org/en/latest/) project
 (2011--).
-
-Our research project [Exciting times: extreme modelling of excitable tissue (EMIx)](https://www.simula.no/research/projects/exciting-times-extreme-modelling-excitable-tissue-emix) recently ended. For a high-level glimpse into our activities, see: [EMIx in a nutshell (pdf)](https://meg-simula.github.io//files/emix-in-a-nutshell.pdf).
 
 <h3>Current research projects </h3>
 
@@ -33,13 +25,7 @@ Our research project [Exciting times: extreme modelling of excitable tissue (EMI
 
 [FEniCS in the Wild: Next-generation simulation and learning in imaging-based biomedicine](https://www.simula.no/about/news/funding-awarded-next-generation-simulation-learning-imaging-based-biomedicine), funded by the Wellcome Trust, 2024--2026 (Project leader)
 
-[AUTORHYTHM – the role of autophagy in healthy aging](https://www.uio.no/english/research/strategic-research-areas/life-science/research/convergence-environments/autorhythm/), a life science convergence environment, 2022-2026 (Principal investigator)
-
 <h3 id="future">Upcoming events</h3>
-
-<p>2026-07-24: Matthias Mayr, Paolo Zunino and I are organizing a minisymposium on "Mixed-dimensional modeling: advances in modeling, numerical methods and applications" at the <a href="https://wccm-eccomas2026.org/">WCCM-ECCOMAS2026</a>, Münich, Germany (Jul 19-24 2026). </p> 
-
-<p>2026-07-26: I'll give a public lecture on <a href="https://www.festum-pi.eu/event-details/discussion-marie-e-rognes-vangelis-harmandaris-piano-maximos-georgogiannakis-ogbunigwe">Deltas of the Brain: Mathematics, Supercomputing and the Rhythms of Life</a>, in addition to an invited scientific talk at the 2026 <a href="https://www.festum-pi.eu/">Festum Pi Summer School and Research Conference</a> in Chania, Greece (Jul 25-30 2026). Thanks to Cédric Villani, Katharina Schratz and entire organization team for the delightful invitation. </p>
 
 <p>2026-08-05: I'll visit the University of California San Diego in connection with the <a href="https://www.simula.no/education/courses-summer-schools/summer-school-computational-physiology">2026 SUURPh Summer School in Computational Physiology</a> (Aug 5-13 2026). </p>
 
@@ -49,15 +35,19 @@ Our research project [Exciting times: extreme modelling of excitable tissue (EMI
 
 <p>2026-10-20: I'll participate in the annual meeting of the K. G. Jebsen Centres for Medical Research at Solstrand, Bergen, Norway (Oct 20-21 2026). </p>
 
-<p>2026-11-17: I've accepted the invitation to speak in the minisymposium on Computational Glioscience at the 28th meeting of the French Glial Cell Club, Sète, France (Nov 17-20 2026). </p>
+<p>2026-11-17: I've accepted the invitation to speak on computational glioscience at the <a href="https://frenchglialcellclub.fr">28th meeting of the French Glial Cell Club</a>, Sète, France (Nov 17-20 2026). </p>
 
 <p>2026-11-23: The K. G. Jebsen Centre for Brain Fluid Research organizes the 9th edition of its annual Oslo Brain Fluid Symposium at Simula Research Laboratory on Nov 23 2026.</p> 
 
 <p>2027-06-02: I will give a talk at <a href="https://www.mn.uio.no/math/english/research/groups/cm/events/conferences/norpde2027/">Norwegian meeting on PDEs 2027</a> at the Norwegian Academy of Science and Letters (June 2-4 2027). Thanks to the organizers for the initiative and invitation.</p> 
 
-<p>2027-06-06: I will lecture at the biennial European Mathematical Society School on Applied Mathematics at Kácov, Czech Republic (June 6-11 2027). </p> 
+<p>2027-06-06: I will give a series of lectures at the biennial <a href="https://ems-masc.cuni.cz/">European Mathematical Society School on Applied Mathematics</a> at Kácov, Czech Republic (June 6-11 2027). </p> 
 
 <h3 id="news">News and highlights (Feb 4 2024 - current)</h3>
+
+<p>2026-07-26: I gave a public lecture on <a href="https://www.festum-pi.eu/event-details/discussion-marie-e-rognes-vangelis-harmandaris-piano-maximos-georgogiannakis-ogbunigwe">Deltas of the Brain: Mathematics, Supercomputing and the Rhythms of Life</a>, in addition to an invited scientific talk at the 2026 <a href="https://www.festum-pi.eu/">Festum Pi Summer School and Research Conference</a> in Chania, Greece (Jul 25-30 2026). Thanks to Cédric Villani, Katharina Schratz and entire organization team for the delightful invitation. </p>
+
+<p>2026-07-24: Matthias Mayr, Paolo Zunino and I organized a minisymposium on "Mixed-dimensional modeling: advances in modeling, numerical methods and applications" at the <a href="https://wccm-eccomas2026.org/">WCCM-ECCOMAS2026</a>, Münich, Germany (Jul 19-24 2026). </p> 
 
 <p>2026-07-02: I'm absolutely delighted to receive the <a href="https://euromathsoc.org/news/developers-of-the-fenics-project-awarded-the-2026-emsecmi-lanczos-prize-217">2026 EMS/ECMI Lanczos Prize for Mathematical Software</a> together with members of the FEniCS Project core team. <a href="https://www.simula.no/about/news/fenics-team-members-win-2026-lanczos-prize-mathematical-software">Read more</a> about the prize and its context here. </p> 
 
@@ -168,7 +158,9 @@ The brain's numerical waterscape ([Zenodo](https://doi.org/10.5281/zenodo.106880
 
 TEDxOslo: Mathematics that cures us ([YouTube](https://youtu.be/FW1Z7cSUjmI?si=25TIWt5Lp980GfNl)), 2016 
 
-<h3>Past research projects (selection) </h3>
+<h3>Past research projects </h3>
+
+[AUTORHYTHM – the role of autophagy in healthy aging](https://www.uio.no/english/research/strategic-research-areas/life-science/research/convergence-environments/autorhythm/), a life science convergence environment, 2022-2026 (Principal investigator)
 
 [Exciting times: extreme modelling of excitable tissue (EMIx)](https://www.simula.no/research/projects/exciting-times-extreme-modelling-excitable-tissue-emix) , a Research Council of Norway (RCN) FRIPRO Researcher project for scientific renewal, 2021-2025 (Project leader). Read about the project here: [EMIx in a nutshell (2021-2025)](https://meg-simula.github.io//files/emix-in-a-nutshell.pdf)
 

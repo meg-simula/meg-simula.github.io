@@ -27,8 +27,6 @@ I have been a core developer (2007--) and Steering Council Member (2016--2024) o
 
 <h3 id="future">Upcoming events</h3>
 
-<p>2026-08-05: I'll visit the University of California San Diego in connection with the <a href="https://www.simula.no/education/courses-summer-schools/summer-school-computational-physiology">2026 SUURPh Summer School in Computational Physiology</a> (Aug 5-13 2026). </p>
-
 <p>2026-09-10: We are organizing the 2026 DigiCells Workshop: Towards next-generation digital twins for biological cell environments at Simula Research Laboratory on Sep 10 2026, following the <a href="https://www.simula.no/about/events/simula-25-years-fenics-workshop">FEniCS@Simula 25 Anniversary Conference</a> on Sep 8-9. Reach out if you are interested in joining. </p>
 
 <p>2026-10-12: I'll visit and give a talk at the Mathematical Institute, Charles University, Prague, Czech Republic (Oct 12-14 2026). Thanks so much to Miroslav Bulíček and Lucie Wintrova for the invitation, looking forward to it. </p>
@@ -44,6 +42,10 @@ I have been a core developer (2007--) and Steering Council Member (2016--2024) o
 <p>2027-06-06: I will give a series of lectures at the biennial <a href="https://ems-masc.cuni.cz/">European Mathematical Society School on Applied Mathematics</a> at Kácov, Czech Republic (June 6-11 2027). </p> 
 
 <h3 id="news">News and highlights (Feb 4 2024 - current)</h3>
+
+<p>2024-08-20: A big welcome to Jakob L. Sønstebø, who is joining the DigiCells team as a PhD candidate. </p>
+
+<p>2026-08-05: I visited the University of California San Diego in connection with the <a href="https://www.simula.no/education/courses-summer-schools/summer-school-computational-physiology">2026 SUURPh Summer School in Computational Physiology</a> (Aug 5-13 2026). Thanks to Andrew McCulloch and Padmini Rangamani for excellent hosting as always. </p>
 
 <p>2026-07-26: I gave a public lecture on <a href="https://www.festum-pi.eu/event-details/discussion-marie-e-rognes-vangelis-harmandaris-piano-maximos-georgogiannakis-ogbunigwe">Deltas of the Brain: Mathematics, Supercomputing and the Rhythms of Life</a>, in addition to an invited scientific talk at the 2026 <a href="https://www.festum-pi.eu/">Festum Pi Summer School and Research Conference</a> in Chania, Greece (Jul 25-30 2026). Thanks to Cédric Villani, Katharina Schratz and entire organization team for the delightful invitation. </p>
 

@@ -27,13 +27,13 @@ I have been a core developer (2007--) and Steering Council Member (2016--2024) o
 
 <h3 id="future">Upcoming events</h3>
 
-<p>2026-09-10: We are organizing the 2026 DigiCells Workshop: Towards next-generation digital twins for biological cell environments at Simula Research Laboratory on Sep 10 2026, following the <a href="https://www.simula.no/about/events/simula-25-years-fenics-workshop">FEniCS@Simula 25 Anniversary Conference</a> on Sep 8-9. Reach out if you are interested in joining. </p>
+<p>2026-09-10: I am organizing the 2026 DigiCells Workshop: Towards next-generation digital twins for biological cell environments at Simula Research Laboratory on Sep 10 2026, following the <a href="https://www.simula.no/about/events/simula-25-years-fenics-workshop">FEniCS@Simula 25 Anniversary Conference</a> on Sep 8-9. Reach out if you are interested in joining. </p>
 
 <p>2026-10-12: I'll visit and give a talk at the Mathematical Institute, Charles University, Prague, Czech Republic (Oct 12-14 2026). Thanks so much to Miroslav Bulíček and Lucie Wintrova for the invitation, looking forward to it. </p>
 
 <p>2026-10-20: I'll participate in the annual meeting of the K. G. Jebsen Centres for Medical Research at Solstrand, Bergen, Norway (Oct 20-21 2026). </p>
 
-<p>2026-11-17: I've accepted the invitation to speak on computational glioscience at the <a href="https://frenchglialcellclub.fr">28th meeting of the French Glial Cell Club</a>, Sète, France (Nov 17-20 2026). </p>
+<p>2026-11-17: I will speak at the <a href="https://frenchglialcellclub.fr">28th meeting of the French Glial Cell Club</a>, Sète, France (Nov 17-20 2026). Thanks to Audrey Denizot for the invitation!</p>
 
 <p>2026-11-23: The K. G. Jebsen Centre for Brain Fluid Research organizes the 9th edition of its annual Oslo Brain Fluid Symposium at Simula Research Laboratory on Nov 23 2026.</p> 
 
@@ -43,24 +43,17 @@ I have been a core developer (2007--) and Steering Council Member (2016--2024) o
 
 <h3 id="news">News and highlights (Feb 4 2024 - current)</h3>
 
-<p>2024-08-20: A big welcome to Jakob L. Sønstebø, who is joining the DigiCells team as a PhD candidate. </p>
-
+<p>2026-08-24: Mattia Corti, Ivan Fumagalli, Miroslav Kuchta and I are organizing an Invited Session on "Computational Brain Multiphysics" at the <a href="https://coupled2027.cimne.com/>Coupled Problems 2027</a> conference, June 27-30 2027 in Palma, Mallorca. The <a href="https://coupled2027.cimne.com/call_for_abstracts">Call for Abstracts</a> is open. until Dec 7 2026</p> 
+<p>2026-08-19: Congratulations to Dr. Bálint Laczkó, who successfully defended his PhD thesis today! </p> 
+<p>2026-08-17: A big welcome to Jakob L. Sønstebø, who is joining the DigiCells team as a PhD candidate. </p>
 <p>2026-08-05: I visited the University of California San Diego in connection with the <a href="https://www.simula.no/education/courses-summer-schools/summer-school-computational-physiology">2026 SUURPh Summer School in Computational Physiology</a> (Aug 5-13 2026). Thanks to Andrew McCulloch and Padmini Rangamani for excellent hosting as always. </p>
-
 <p>2026-07-26: I gave a public lecture on <a href="https://www.festum-pi.eu/event-details/discussion-marie-e-rognes-vangelis-harmandaris-piano-maximos-georgogiannakis-ogbunigwe">Deltas of the Brain: Mathematics, Supercomputing and the Rhythms of Life</a>, in addition to an invited scientific talk at the 2026 <a href="https://www.festum-pi.eu/">Festum Pi Summer School and Research Conference</a> in Chania, Greece (Jul 25-30 2026). Thanks to Cédric Villani, Katharina Schratz and entire organization team for the delightful invitation. </p>
-
 <p>2026-07-24: Matthias Mayr, Paolo Zunino and I organized a minisymposium on "Mixed-dimensional modeling: advances in modeling, numerical methods and applications" at the <a href="https://wccm-eccomas2026.org/">WCCM-ECCOMAS2026</a>, Münich, Germany (Jul 19-24 2026). </p> 
-
 <p>2026-07-02: I'm absolutely delighted to receive the <a href="https://euromathsoc.org/news/developers-of-the-fenics-project-awarded-the-2026-emsecmi-lanczos-prize-217">2026 EMS/ECMI Lanczos Prize for Mathematical Software</a> together with members of the FEniCS Project core team. <a href="https://www.simula.no/about/news/fenics-team-members-win-2026-lanczos-prize-mathematical-software">Read more</a> about the prize and its context here. </p> 
-
 <p>2026-06-23: More fabulous news, our research proposal <a href="https://www.simula.no/about/news/new-funding-math-link-how-we-think-how-brain-moves">From connectomes to continua: new complexes in brain multiphysics (BrainComplexes)</a>, has been selected for funding as a FRIPRO Researcher Project by the Research Council of Norway. The project will launch in early 2027, and we will announce open positions in the fall of 2026.</p> 
-
 <p>2026-06-03: The final conference of our year on <a href="https://cas-nor.no/project/mathematical-challenges-brain-mechanics">Mathematical Challenges in Brain Mechanics</a> took place on June 3-5 2026 at the Centre for Advanced Study at the Norwegian Academy of Science and Letters. A big thank you to Jan Martin Nordbotten and Kent-Andre Mardal and the other organizers, speakers and guests for making this year such a success.</p> 
-
 <p>2026-05-12: Thomas Surowiec and I organized this year's edition of the <a href="https://www.simula.no/langtangen-seminar">Langtangen Seminar on Scientific Computing</a>. The 2026 seminar series featured invited lectures by Francesco Regazzoni, Olga Mula Hernandez, Matthew Colbrook, Yunan Yang, and Erin Carson. A big thank you to all speakers - the talks are available on the Langtangen Seminar <a href="https://www.youtube.com/@langtangen-seminar">YouTube Channel</a>. </p> 
-
 <p>2026-04-22: Dr. Sofia Farina from the University of Bern visited our research team at Simula (Apr 22-24 2026). </p> 
-
 <p>2026-04-01: We have officially launched the <a href="https://www.simula.no/research/projects/digicells-next-generation-digital-twins-biological-cell-environments">DigiCells</a> project. This 4-year research project based at Simula aims to establish algorithmic and technological foundations for next-generation modelling and analysis of biological cell environments. </p> 
 
 <p>2026-03-18: I gave an Invited Talk at the <a href="https://echo.ismrm.org/program/NeuroFluids26">ISMRM Workshop on Fluids, Flows & Clearance in the Brain: What Can We Image & How Should It Be Interpreted?</a> at Yale University, New Haven, CT, US (Mar 17-19 2026) </p> 

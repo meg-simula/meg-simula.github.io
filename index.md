@@ -41,7 +41,7 @@ I have been a core developer (2007--) and Steering Council Member (2016--2024) o
 
 <p>2027-06-06: I will give a series of lectures at the biennial <a href="https://ems-masc.cuni.cz/">European Mathematical Society School on Applied Mathematics</a> at Kácov, Czech Republic (June 6-11 2027). </p> 
 
-<p>2026-08-24: Mattia Corti, Ivan Fumagalli, Miroslav Kuchta and I are organizing an Invited Session on "Computational Brain Multiphysics" at the <a href="https://coupled2027.cimne.com/>Coupled Problems 2027</a> conference, June 27-30 2027 in Palma, Mallorca. The <a href="https://coupled2027.cimne.com/call_for_abstracts">Call for Abstracts</a> is open. until Dec 7 2026</p> 
+<p>2026-08-24: Mattia Corti, Ivan Fumagalli, Miroslav Kuchta and I are organizing an Invited Session on "Computational Brain Multiphysics" at the <a href="https://coupled2027.cimne.com/">Coupled Problems 2027</a> conference, June 27-30 2027 in Palma, Mallorca. The <a href="https://coupled2027.cimne.com/call_for_abstracts">Call for Abstracts</a> is open. until Dec 7 2026</p> 
 
 <h3 id="news">News and highlights (Feb 4 2024 - current)</h3>
 

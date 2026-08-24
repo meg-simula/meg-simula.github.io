@@ -46,7 +46,7 @@ I have been a core developer (2007--) and Steering Council Member (2016--2024) o
 
 <h3 id="news">News and highlights (Feb 4 2024 - current)</h3>
 
-<p>2026-08-19: Congratulations to Dr. Bálint Laczkó, who successfully defended his PhD thesis today! </p> 
+<p>2026-08-19: Congratulations to Dr. Bálint Laczkó, who successfully defended his PhD thesis "Instrumental Image Sonification" at the Faculty of Humanities, University of Oslo today! It has been my privilege to take part in this research at the interface between music technology, mathematics and the life sciences. </p> 
 <p>2026-08-17: A big welcome to Jakob L. Sønstebø, who is joining the DigiCells team as a PhD candidate. </p>
 <p>2026-08-05: I visited the University of California San Diego in connection with the <a href="https://www.simula.no/education/courses-summer-schools/summer-school-computational-physiology">2026 SUURPh Summer School in Computational Physiology</a> (Aug 5-13 2026). Thanks to Andrew McCulloch and Padmini Rangamani for excellent hosting as always. </p>
 <p>2026-07-26: I gave a public lecture on <a href="https://www.festum-pi.eu/event-details/discussion-marie-e-rognes-vangelis-harmandaris-piano-maximos-georgogiannakis-ogbunigwe">Deltas of the Brain: Mathematics, Supercomputing and the Rhythms of Life</a>, in addition to an invited scientific talk at the 2026 <a href="https://www.festum-pi.eu/">Festum Pi Summer School and Research Conference</a> in Chania, Greece (Jul 25-30 2026). Thanks to Cédric Villani, Katharina Schratz and entire organization team for the delightful invitation. </p>

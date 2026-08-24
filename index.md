@@ -27,7 +27,7 @@ I have been a core developer (2007--) and Steering Council Member (2016--2024) o
 
 <h3 id="future">Upcoming events</h3>
 
-<p>2026-09-10: I am organizing the <a href="https://www.simula.no/research/projects/digicells-next-generation-digital-twins-biological-cell-environments">2026 DigiCells Workshop: Towards next-generation digital twins for biological cell environments</a> at Simula Research Laboratory on Sep 10 2026, following the <a href="https://www.simula.no/about/events/simula-25-years-fenics-workshop">FEniCS@Simula 25 Anniversary Conference</a> on Sep 8-9. Reach out if you are interested in joining. </p>
+<p>2026-09-10: We are organizing the <a href="https://www.simula.no/research/projects/digicells-next-generation-digital-twins-biological-cell-environments">2026 DigiCells Workshop: Towards next-generation digital twins for biological cell environments</a> at Simula Research Laboratory on Sep 10 2026, following the <a href="https://www.simula.no/about/events/simula-25-years-fenics-workshop">FEniCS@Simula 25 Anniversary Conference</a> on Sep 8-9. Reach out if you are interested in joining. </p>
 
 <p>2026-10-12: I'll visit and give a talk at the Mathematical Institute, Charles University, Prague, Czech Republic (Oct 12-14 2026). Thanks so much to Miroslav Bulíček and Lucie Wintrova for the invitation, looking forward to it. </p>
 

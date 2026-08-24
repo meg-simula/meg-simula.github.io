@@ -41,9 +41,10 @@ I have been a core developer (2007--) and Steering Council Member (2016--2024) o
 
 <p>2027-06-06: I will give a series of lectures at the biennial <a href="https://ems-masc.cuni.cz/">European Mathematical Society School on Applied Mathematics</a> at Kácov, Czech Republic (June 6-11 2027). </p> 
 
+<p>2026-08-24: Mattia Corti, Ivan Fumagalli, Miroslav Kuchta and I are organizing an Invited Session on "Computational Brain Multiphysics" at the <a href="https://coupled2027.cimne.com/>Coupled Problems 2027</a> conference, June 27-30 2027 in Palma, Mallorca. The <a href="https://coupled2027.cimne.com/call_for_abstracts">Call for Abstracts</a> is open. until Dec 7 2026</p> 
+
 <h3 id="news">News and highlights (Feb 4 2024 - current)</h3>
 
-<p>2026-08-24: Mattia Corti, Ivan Fumagalli, Miroslav Kuchta and I are organizing an Invited Session on "Computational Brain Multiphysics" at the <a href="https://coupled2027.cimne.com/>Coupled Problems 2027</a> conference, June 27-30 2027 in Palma, Mallorca. The <a href="https://coupled2027.cimne.com/call_for_abstracts">Call for Abstracts</a> is open. until Dec 7 2026</p> 
 <p>2026-08-19: Congratulations to Dr. Bálint Laczkó, who successfully defended his PhD thesis today! </p> 
 <p>2026-08-17: A big welcome to Jakob L. Sønstebø, who is joining the DigiCells team as a PhD candidate. </p>
 <p>2026-08-05: I visited the University of California San Diego in connection with the <a href="https://www.simula.no/education/courses-summer-schools/summer-school-computational-physiology">2026 SUURPh Summer School in Computational Physiology</a> (Aug 5-13 2026). Thanks to Andrew McCulloch and Padmini Rangamani for excellent hosting as always. </p>

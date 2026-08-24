@@ -37,11 +37,12 @@ I have been a core developer (2007--) and Steering Council Member (2016--2024) o
 
 <p>2026-11-23: The K. G. Jebsen Centre for Brain Fluid Research organizes the 9th edition of its annual Oslo Brain Fluid Symposium at Simula Research Laboratory on Nov 23 2026.</p> 
 
+<p>2027-06-30: Mattia Corti, Ivan Fumagalli, Miroslav Kuchta and I are organizing an Invited Session on "Computational Brain Multiphysics" at the <a href="https://coupled2027.cimne.com/">Coupled Problems 2027</a> conference, June 27-30 2027 in Palma, Mallorca. The <a href="https://coupled2027.cimne.com/call_for_abstracts">Call for Abstracts</a> is now open (until Dec 7 2026)</p> 
+
 <p>2027-06-02: I will give a talk at <a href="https://www.mn.uio.no/math/english/research/groups/cm/events/conferences/norpde2027/">Norwegian meeting on PDEs 2027</a> at the Norwegian Academy of Science and Letters (June 2-4 2027). Thanks to the organizers for the initiative and invitation.</p> 
 
 <p>2027-06-06: I will give a series of lectures at the biennial <a href="https://ems-masc.cuni.cz/">European Mathematical Society School on Applied Mathematics</a> at Kácov, Czech Republic (June 6-11 2027). </p> 
 
-<p>2026-08-24: Mattia Corti, Ivan Fumagalli, Miroslav Kuchta and I are organizing an Invited Session on "Computational Brain Multiphysics" at the <a href="https://coupled2027.cimne.com/">Coupled Problems 2027</a> conference, June 27-30 2027 in Palma, Mallorca. The <a href="https://coupled2027.cimne.com/call_for_abstracts">Call for Abstracts</a> is open. until Dec 7 2026</p> 
 
 <h3 id="news">News and highlights (Feb 4 2024 - current)</h3>
 

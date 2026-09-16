@@ -27,8 +27,6 @@ I have been a core developer (2007--) and Steering Council Member (2016--2024) o
 
 <h3 id="future">Upcoming events</h3>
 
-<p>2026-09-10: We are organizing the <a href="https://www.simula.no/research/projects/digicells-next-generation-digital-twins-biological-cell-environments">2026 DigiCells Workshop: Towards next-generation digital twins for biological cell environments</a> at Simula Research Laboratory on Sep 10 2026, following the <a href="https://www.simula.no/about/events/simula-25-years-fenics-workshop">FEniCS@Simula 25 Anniversary Conference</a> on Sep 8-9. Reach out if you are interested in joining. </p>
-
 <p>2026-10-12: I'll visit and give a talk at the Mathematical Institute, Charles University, Prague, Czech Republic (Oct 12-14 2026). Thanks so much to Miroslav Bulíček and Lucie Wintrova for the invitation, looking forward to it. </p>
 
 <p>2026-10-20: I'll participate in the annual meeting of the K. G. Jebsen Centres for Medical Research at Solstrand, Bergen, Norway (Oct 20-21 2026). </p>
@@ -46,6 +44,9 @@ I have been a core developer (2007--) and Steering Council Member (2016--2024) o
 
 <h3 id="news">News and highlights (Feb 4 2024 - current)</h3>
 
+<p>2026-09-10: We organized the <a href="https://www.simula.no/research/projects/digicells-next-generation-digital-twins-biological-cell-environments">2026 DigiCells Workshop: Towards next-generation digital twins for biological cell environments</a> at Simula Research Laboratory on Sep 10 2026. Thanks to all speakers for interesting talks and to all participants for good company and great discussions.</p>
+<p>2026-09-03: Our book chapter on <a href="https://link.springer.com/book/10.1007/978-3-032-33428-2">Computing for Life: Modeling and Simulation of Electrodiffusion in Dense Reconstructions of Cerebral Tissue</a> has now been published as part of the 50th Anniversary Woudschoten Conference book. Congratulations to Halvor Herlyng as lead author, and thanks to the editors for the invitation and opportunity to contribute. </p>
+<p>2026-08-27: Our paper on <a href="https://www.nature.com/articles/s41467-026-77174-z">In-silico solute transport via perivascular networks in the human intracranial space</a> is now published in Nature Communcations. Congratulations to the entire team, Marius Causemann, Rami Masri and Miroslav Kuchta, and thanks to the editors and reviewers for the careful and constructive feedback. </p>
 <p>2026-08-19: Congratulations to Dr. Bálint Laczkó, who <a href="https://www.hf.uio.no/imv/english/research/news-and-events/events/disputations/2026/laczko.html">successfully defended</a> his PhD thesis "Instrumental Image Sonification" at the Faculty of Humanities, University of Oslo today! It has been my privilege to take part in this research at the interface between music technology, mathematics and the life sciences. </p> 
 <p>2026-08-17: A big welcome to Jakob L. Sønstebø, who is joining the DigiCells team as a PhD candidate. Jakob joins us from completing his MSc in Scientific Computing and Uncertainty Quantification at EPFL.</p>
 <p>2026-08-05: I visited the University of California San Diego in connection with the <a href="https://www.simula.no/education/courses-summer-schools/summer-school-computational-physiology">2026 SUURPh Summer School in Computational Physiology</a> (Aug 5-13 2026). Thanks to Andrew McCulloch and Padmini Rangamani for excellent hosting as always. </p>

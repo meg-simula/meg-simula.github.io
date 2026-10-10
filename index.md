@@ -45,7 +45,7 @@ I have been a core developer (2007--) and Steering Council Member (2016--2024) o
 
 <p>2026-10-10: Simula establishes the Centre for Digital Neurotechnology! <a href="https://www.simula.no/about/news/simula-establishes-centre-digital-neurotechnology">Read about</a> the center. </p>
 
-<p>2026-09-21: New preprint out! Our study <a href="https://doi.org/10.64898/2026.09.14.750103">Low-rank tensor decompositions reveal coupled spatiotemporal patterns of CSF tracer transport in the human brain</a> is now on bioRxiv. Congratulations to Andreas Solheim as lead author. </p>
+<p>2026-09-21: New preprint out: our study <a href="https://doi.org/10.64898/2026.09.14.750103">Low-rank tensor decompositions reveal coupled spatiotemporal patterns of CSF tracer transport in the human brain</a> is now on bioRxiv. Congratulations to Andreas Solheim as lead author. </p>
 
 <p>2026-09-10: We organized the <a href="https://www.simula.no/research/projects/digicells-next-generation-digital-twins-biological-cell-environments">2026 DigiCells Workshop: Towards next-generation digital twins for biological cell environments</a> at Simula Research Laboratory on Sep 10 2026. Thanks to all speakers for interesting talks and to all participants for good company and great discussions.</p>
 <p>2026-09-03: Our book chapter on <a href="https://link.springer.com/book/10.1007/978-3-032-33428-2">Computing for Life: Modeling and Simulation of Electrodiffusion in Dense Reconstructions of Cerebral Tissue</a> has now been published as part of the 50th Anniversary Woudschoten Conference book. Congratulations to Halvor Herlyng as lead author, and thanks to the editors for the invitation and opportunity to contribute. </p>

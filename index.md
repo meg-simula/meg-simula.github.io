@@ -18,11 +18,11 @@ I have been a core developer (2007--) and Steering Council Member (2016--2024) o
 
 <h3>Current research projects </h3>
 
-[DigiCells: Next-generation digital twins for biological cell environments](https://www.simula.no/research/projects/digicells-next-generation-digital-twins-biological-cell-environments), funded by the Enabling technologies Portfolio, Research Council of Norway, 2026--2029 (Project leader and Principal investigator)
-
 [K. G. Jebsen Centre for Brain Fluid Research](https://www.med.uio.no/klinmed/forskning/sentre/kg-jebsen-hjerneveske/), funded by the K. G. Jebsen Foundation, 2024--2029 (Deputy Director and Principal investigator)
 
-[FEniCS in the Wild: Next-generation simulation and learning in imaging-based biomedicine](https://www.simula.no/about/news/funding-awarded-next-generation-simulation-learning-imaging-based-biomedicine), funded by the Wellcome Trust, 2024--2026 (Project leader)
+[DigiCells | Next-generation digital twins for biological cell environments](https://www.simula.no/research/projects/digicells-next-generation-digital-twins-biological-cell-environments), funded by the Enabling technologies Portfolio, Research Council of Norway, 2026--2029 (Project leader and Principal investigator)
+
+[BrainComplexes | From connectomes to continua: new complexes in brain multiphysics](https://www.simula.no/research/projects/braincomplexes-connectomes-continua-new-complexes-brain-multiphysics), funded by the Portfolio for Ground-breaking research (FRIPRO), Research Council of Norway, 2027--2031 (Project leader and Principal investigator)
 
 <h3 id="future">Upcoming events</h3>
 
@@ -160,6 +160,9 @@ The brain's numerical waterscape ([Zenodo](https://doi.org/10.5281/zenodo.106880
 TEDxOslo: Mathematics that cures us ([YouTube](https://youtu.be/FW1Z7cSUjmI?si=25TIWt5Lp980GfNl)), 2016 
 
 <h3>Past research projects </h3>
+
+[FEniCS in the Wild: Next-generation simulation and learning in imaging-based biomedicine](https://www.simula.no/about/news/funding-awarded-next-generation-simulation-learning-imaging-based-biomedicine), funded by the Wellcome Trust, 2024--2026 (Project leader)
+
 
 [AUTORHYTHM – the role of autophagy in healthy aging](https://www.uio.no/english/research/strategic-research-areas/life-science/research/convergence-environments/autorhythm/), a life science convergence environment, 2022-2026 (Principal investigator)
 

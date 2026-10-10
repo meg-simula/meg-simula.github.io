@@ -26,7 +26,7 @@ I have been a core developer (2007--) and Steering Council Member (2016--2024) o
 
 <h3 id="future">Upcoming events</h3>
 
-<p>2026-10-12: I'll visit and give the <a href="https://www.karlin.mff.cuni.cz/php/msekce/colloquia/2026/M_Kolokvium_36.pdf">Mathematical Colloquium</a> at the Mathematical Institute, Charles University, Prague, Czech Republic (Oct 12-14 2026). Thanks so much to Miroslav Bulíček and Lucie Wintrova for the invitation, looking forward to it. </p>
+<p>2026-10-12: I'll visit and give the <a href="https://www.karlin.mff.cuni.cz/php/msekce/colloquia/2026/M_Kolokvium_36.pdf">Mathematical Colloquium</a> at the School of Mathematics, Charles University, Prague, Czech Republic (Oct 12-14 2026). Thanks so much to Miroslav Bulíček and Lucie Wintrova for the invitation, looking forward to it. </p>
 
 <p>2026-10-20: I'll participate in the annual meeting of the K. G. Jebsen Centres for Medical Research at Solstrand, Bergen, Norway (Oct 20-21 2026). </p>
 

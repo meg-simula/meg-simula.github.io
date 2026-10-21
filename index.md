@@ -7,7 +7,7 @@ title: Marie E. Rognes
 
 I am [Chief Research Scientist](https://www.simula.no/people/meg) in
 the [Department of Numerical Analysis and Scientific
-Computing](https://www.simula.no/research/research-departments/numerical-analysis-and-scientific-computing) at [Simula Research Laboratory](https://www.simula.no) in Oslo, Norway, Director of the [Centre for Digital Neurotechnology](https://www.simula.no/research/research-centres/centre-digital-neurotechnology),
+Computing](https://www.simula.no/research/research-departments/numerical-analysis-and-scientific-computing) and Director of the [Centre for Digital Neurotechnology](https://www.simula.no/research/research-centres/centre-digital-neurotechnology) at [Simula Research Laboratory](https://www.simula.no) in Oslo, Norway,
 and Deputy Director of the [K. G. Jebsen Centre for Brain Fluid
 Research](https://www.med.uio.no/klinmed/forskning/sentre/kg-jebsen-hjerneveske/index.html). 
 

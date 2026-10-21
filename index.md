@@ -5,9 +5,7 @@ title: Marie E. Rognes
 &nbsp;
 &nbsp;
 
-I am [Chief Research Scientist](https://www.simula.no/people/meg) in
-the [Department of Numerical Analysis and Scientific
-Computing](https://www.simula.no/research/research-departments/numerical-analysis-and-scientific-computing) and Director of the [Centre for Digital Neurotechnology](https://www.simula.no/research/research-centres/centre-digital-neurotechnology) at [Simula Research Laboratory](https://www.simula.no) in Oslo, Norway,
+I am [Chief Research Scientist](https://www.simula.no/people/meg) in the [Department of Numerical Analysis and Scientific Computing](https://www.simula.no/research/research-departments/numerical-analysis-and-scientific-computing) and Director of the [Centre for Digital Neurotechnology](https://www.simula.no/research/research-centres/centre-digital-neurotechnology) at [Simula Research Laboratory](https://www.simula.no) in Oslo, Norway,
 and Deputy Director of the [K. G. Jebsen Centre for Brain Fluid
 Research](https://www.med.uio.no/klinmed/forskning/sentre/kg-jebsen-hjerneveske/index.html). 
 
@@ -17,6 +15,8 @@ I have been a core developer (2007--) and Steering Council Member (2016--2024) o
 (2011--).
 
 <h3>Current research projects </h3>
+
+[Centre for Digital Neurotechnology](https://www.simula.no/research/research-centres/centre-digital-neurotechnology), 2026-- (Director and Principal Investigator)
 
 [K. G. Jebsen Centre for Brain Fluid Research](https://www.med.uio.no/klinmed/forskning/sentre/kg-jebsen-hjerneveske/), funded by the K. G. Jebsen Foundation, 2024--2029 (Deputy Director and Principal investigator)
 

@@ -26,10 +26,6 @@ I have been a core developer (2007--) and Steering Council Member (2016--2024) o
 
 <h3 id="future">Upcoming events</h3>
 
-<p>2026-10-12: I'll visit and give the <a href="https://www.karlin.mff.cuni.cz/php/msekce/colloquia/2026/M_Kolokvium_36.pdf">Mathematical Colloquium</a> at the School of Mathematics, Charles University, Prague, Czech Republic (Oct 12-14 2026). Thanks so much to Miroslav Bulíček and Lucie Wintrova for the invitation, looking forward to it. </p>
-
-<p>2026-10-20: I'll participate in the annual meeting of the K. G. Jebsen Centres for Medical Research at Solstrand, Bergen, Norway (Oct 20-21 2026). </p>
-
 <p>2026-11-17: I will speak at the <a href="https://frenchglialcellclub.fr">28th meeting of the French Glial Cell Club</a>, Sète, France (Nov 17-20 2026). Thanks to Audrey Denizot for the invitation!</p>
 
 <p>2026-11-23: The K. G. Jebsen Centre for Brain Fluid Research organizes the 9th edition of its annual Oslo Brain Fluid Symposium at Simula Research Laboratory on Nov 23 2026.</p> 
@@ -42,6 +38,12 @@ I have been a core developer (2007--) and Steering Council Member (2016--2024) o
 
 
 <h3 id="news">News and highlights (Feb 4 2024 - current)</h3>
+
+<p>2026-10-21: New preprint out: our study <a href="https://arxiv.org/abs/2610.26498">Well-posedness and homogenization of a waste-protein clearance model in cortical tissue</a> is now on arXiv. Congratulations to Lucie Wintrová as lead author, and thank you to Miroslav Bulíček and Ansgar Jüngel for the lovely collaboration. </p>
+
+<p>2026-10-20: I participated in the annual meeting of the K. G. Jebsen Centres for Medical Research at Solstrand, Bergen, Norway (Oct 20-21 2026). Thanks to Bjørn Tore Gjertsen, Simona Chera, and Eivind Valen and the K. G. Jebsen Centre for Myeloid Blood Cancer for organizing an thought-provoking and inspirational meeting. </p>
+
+<p>2026-10-12: I gave the <a href="https://www.karlin.mff.cuni.cz/php/msekce/colloquia/2026/M_Kolokvium_36.pdf">Mathematical Colloquium</a> at the School of Mathematics during my visit to Charles University, Prague, Czech Republic (Oct 12-14 2026). Thanks so much to Miroslav Bulíček and Lucie Wintrova for the invitation. </p>
 
 <p>2026-10-10: Simula establishes the Centre for Digital Neurotechnology! <a href="https://www.simula.no/about/news/simula-establishes-centre-digital-neurotechnology">Read about</a> the center. </p>
 

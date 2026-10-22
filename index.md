@@ -16,7 +16,7 @@ I have been a core developer (2007--) and Steering Council Member (2016--2024) o
 
 <h3>Current research projects </h3>
 
-[Centre for Digital Neurotechnology](https://www.simula.no/research/research-centres/centre-digital-neurotechnology), 2026-- (Director and Principal Investigator)
+[Centre for Digital Neurotechnology](https://www.simula.no/research/research-centres/centre-digital-neurotechnology), Simula Research Laboratory, 2026-- (Director and Principal Investigator)
 
 [K. G. Jebsen Centre for Brain Fluid Research](https://www.med.uio.no/klinmed/forskning/sentre/kg-jebsen-hjerneveske/), funded by the K. G. Jebsen Foundation, 2024--2029 (Deputy Director and Principal investigator)
 
@@ -28,7 +28,7 @@ I have been a core developer (2007--) and Steering Council Member (2016--2024) o
 
 <p>2026-11-17: I will speak at the <a href="https://frenchglialcellclub.fr">28th meeting of the French Glial Cell Club</a>, Sète, France (Nov 17-20 2026). Thanks to Audrey Denizot for the invitation!</p>
 
-<p>2026-11-23: The K. G. Jebsen Centre for Brain Fluid Research organizes the 9th edition of its annual Oslo Brain Fluid Symposium at Simula Research Laboratory on Nov 23 2026.</p> 
+<p>2026-11-24: The K. G. Jebsen Centre for Brain Fluid Research organizes the 9th edition of its annual Oslo Brain Fluid Symposium at Simula Research Laboratory on Nov 24 2026. <a href="https://www.med.uio.no/klinmed/english/research/centres/kg-jebsen-brain-fluid/news-and-events/events/2026/oslo-brain-fluid-symposium-2026.html">Registration</a> is now open.</p> 
 
 <p>2027-06-30: Mattia Corti, Ivan Fumagalli, Miroslav Kuchta and I are organizing an Invited Session on "Computational Brain Multiphysics" at the <a href="https://coupled2027.cimne.com/">Coupled Problems 2027</a> conference, June 27-30 2027 in Palma, Mallorca. The <a href="https://coupled2027.cimne.com/call_for_abstracts">Call for Abstracts</a> is now open (until Dec 7 2026)</p> 
 

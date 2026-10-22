@@ -16,7 +16,7 @@ I have been a core developer (2007--) and Steering Council Member (2016--2024) o
 
 <h3>Current research projects </h3>
 
-[Centre for Digital Neurotechnology](https://www.simula.no/research/research-centres/centre-digital-neurotechnology), Simula Research Laboratory, 2026-- (Director and Principal Investigator)
+[Centre for Digital Neurotechnology](https://www.simula.no/research/research-centres/centre-digital-neurotechnology), Simula Research Laboratory, 2026-- (Director and Principal investigator)
 
 [K. G. Jebsen Centre for Brain Fluid Research](https://www.med.uio.no/klinmed/forskning/sentre/kg-jebsen-hjerneveske/), funded by the K. G. Jebsen Foundation, 2024--2029 (Deputy Director and Principal investigator)
 
